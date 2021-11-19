@@ -173,7 +173,7 @@
           "description": "In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.",
           "link": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
           "publishedOn": "2021-11-17T16:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3489,
           "title": "A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b424cd2e-1e44-4ca2-8506-4e45a5bdb570/guide-modern-css-colors.jpg",
@@ -341,7 +341,7 @@
           "description": "This article sheds the spotlight on Magento PWAs and explains why business owners are getting them (often instead of native applications). Alex Husar introduces ways of how progressive web applications can be developed on Magento, as well as go over the major pros and cons of each development path.",
           "link": "https://smashingmagazine.com/2021/11/magento-pwa-customizing-themes-coding/",
           "publishedOn": "2021-11-02T12:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5955,
           "title": "Creating A Magento PWA: Customizing Themes vs. Coding From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77155632-96bd-44a8-af99-50ebad7534e6/magento-pwa-customizing-themes-coding.jpg",
@@ -383,7 +383,7 @@
           "description": "The wealth of data that Amazon holds can make a huge difference when you’re designing a product or hunting for a bargain. But, how can a developer get that data? Simple, by using a web scraper. Here’s how to build your data extraction bot with Node.js.",
           "link": "https://smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/",
           "publishedOn": "2021-10-28T11:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3163,
           "title": "How To Build An Amazon Product Scraper With Node.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/069a1796-0f8d-4936-bfc0-4aa988ef0594/building-amazon-product-scraper-nodejs.jpg",
@@ -397,7 +397,7 @@
           "description": "Thanks to technology, eye-tracking has become more accessible to UX research as it allows researchers to get insights about users ’visual attention. This article explores the latest trends in the eye-tracking market and how the methodology can be included in the UX researcher’s toolbox.",
           "link": "https://smashingmagazine.com/2021/10/eye-tracking-mobile-ux-research/",
           "publishedOn": "2021-10-27T10:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3506,
           "title": "Eye-Tracking In Mobile UX Research",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3012986b-e407-4c49-8186-13a99528ef13/eye-tracking-mobile-ux-research.jpg",

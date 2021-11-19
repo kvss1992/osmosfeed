@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2021-11-19T14:19:05.357Z</id>
+    <title>osmos::feed</title>
+    <updated>2021-11-19T14:19:05.357Z</updated>
+    <generator>osmosfeed 1.11.3</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Next.js Wildcard Subdomains]]></title>
+        <id>https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/</id>
+        <link href="https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/"/>
+        <updated>2021-11-19T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sam Poder)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developers Spent 2.1 Billion Minutes (4,000 years) Using freeCodeCamp in 2021 + Other Year-End Facts]]></title>
+        <id>6196aac811d3cb08287a8998</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-2021-review-budget-usage-statistics/"/>
+        <updated>2021-11-19T05:29:54.000Z</updated>
+        <summary type="html"><![CDATA[2021 has been a big year for the global freeCodeCamp community. In this article, I will share some of the milestones we hit this year. But first, let's look at some metrics to drive home the scale at which the freeCodeCamp community is now operating. freeCodeCamp 2021 StatisticsIn 2021, freeCodeCamp's]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming Projects for New Developers – What to Build to Get Coding Experience]]></title>
+        <id>614641bf852f4307d373021f</id>
+        <link href="https://www.freecodecamp.org/news/programming-projects-for-new-developers/"/>
+        <updated>2021-11-18T23:59:00.000Z</updated>
+        <summary type="html"><![CDATA[If you're a new developer, you're probably familiar with the “Experience Paradox”. It describes the frustrating cycle many of us go through when we're trying to get our first developer jobs: To get a job, you need "work experience". But to get "work experience", you need a job...! Job requires]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Many Faces of VS Code in the Browser]]></title>
+        <id>https://css-tricks.com/?p=356818</id>
+        <link href="https://css-tricks.com/the-many-faces-of-vs-code-in-the-browser/"/>
+        <updated>2021-11-18T20:22:27.000Z</updated>
+        <summary type="html"><![CDATA[VS Code is built from web technologies (HTML, CSS, and JavaScript), but dare I say today it’s mostly used a local app that’s installed on your machine. That’s starting to shift, though, as there has been an absolute explosion of …
+The post The Many Faces of VS Code in the Browser appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stress and Mental Health in Tech – What I learned from Dr. Jennifer Akullian&#x27;s freeCodeCamp Tech Talk]]></title>
+        <id>619392bd11d3cb08287a6f36</id>
+        <link href="https://www.freecodecamp.org/news/stress-and-mental-health-in-tech/"/>
+        <updated>2021-11-18T17:54:34.000Z</updated>
+        <summary type="html"><![CDATA[People in the tech industry face mental health issues like depression and anxiety every day, all around the world. But what can we do about it? In this article, I will talk about what I learned from Dr. Jennifer Akullian's freeCodeCamp Tech Talk and share her tips for reducing your]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Customize Your Windows 10 Taskbar to Be More Productive]]></title>
+        <id>6196275811d3cb08287a850e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-customize-your-windows10-taskbar-for-productivity/"/>
+        <updated>2021-11-18T16:44:28.000Z</updated>
+        <summary type="html"><![CDATA[On your computer desktop, you can use the taskbar to help you monitor applications, check battery life, and more.  Being able to customize what your task bar can do is crucial for boosting your productivity. And there's more to it than just monitoring applications.  In this guide, I will show]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List Comprehension in Python]]></title>
+        <id>6193c41c11d3cb08287a70ce</id>
+        <link href="https://www.freecodecamp.org/news/list-comprehension-in-python-with-code-examples/"/>
+        <updated>2021-11-18T16:20:35.000Z</updated>
+        <summary type="html"><![CDATA[Lists are a helpful and frequently used feature in Python.  And list comprehension gives you a way to create lists while writing more elegant code that is easy to read.  In this beginner-friendly article, I'll give an overview of how list comprehension works in Python. I'll also show plenty of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP Date and Time Recipes]]></title>
+        <id>https://css-tricks.com/?p=356570</id>
+        <link href="https://css-tricks.com/php-date-and-time-recipes/"/>
+        <updated>2021-11-18T15:38:51.000Z</updated>
+        <summary type="html"><![CDATA[Dealing with dates and times is one of those things that can frustrate programmers a lot. At the same time, they are fundamental to software development, used from everything from meta and how things are ordered to time-based triggers and …
+The post PHP Date and Time Recipes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Arjuna Sky Kok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Git Tools—Interactive Rebase, Cherry-Picking, Reflog, and more]]></title>
+        <id>6196642611d3cb08287a8688</id>
+        <link href="https://www.freecodecamp.org/news/advanced-git-interactive-rebase-cherry-picking-reflog-and-more/"/>
+        <updated>2021-11-18T14:42:26.000Z</updated>
+        <summary type="html"><![CDATA[If you are a software developer, you likely use Git all the time. But many developers don't use advanced git commands that can speed up their worflow. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use advanced git commands. Tobias Günther]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Turn Off Quick Note on –  Solved for MacOS Monterey Quick Notes Hot Corner]]></title>
+        <id>61971c7611d3cb08287a8d83</id>
+        <link href="https://www.freecodecamp.org/news/turn-off-quick-note-mac-monterey/"/>
+        <updated>2021-11-18T04:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I recently updated to MacOS Monterey (Version 12.0). Sometimes software companies like Apple will add features I don't like, then enable them by default. This is what happened with the New Quick Note hot corner. Here is what the Quick Notes feature looks like when you move your cursor]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero Trickery Custom Radios and Checkboxes]]></title>
+        <id>https://css-tricks.com/?p=356895</id>
+        <link href="https://css-tricks.com/zero-trickery-custom-radios-and-checkboxes/"/>
+        <updated>2021-11-18T00:16:17.000Z</updated>
+        <summary type="html"><![CDATA[I feel like half of all “custom-designed radio buttons and checkboxes” do two things:
+Make them bigger
+Colorize them
+I always think of SurveyMonkey for having big chunky radios and checkboxes. And indeed, just poking at their interface quickly, even …
+The post Zero Trickery Custom Radios and Checkboxes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Got My First Developer Job – Here&#x27;s What I&#x27;ve Learned So Far]]></title>
+        <id>617a6ef033422e07df3667f4</id>
+        <link href="https://www.freecodecamp.org/news/what-ive-learned-at-my-first-developer-job/"/>
+        <updated>2021-11-18T00:08:02.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'm going to share with you what I've learned so far at my first programming job as a junior full-stack developer.  Ever since my developer career began in July, 2021 I've been learning constantly. And I'm gonna share some tips from my experiences so that you can]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What do you get for using a search input type?]]></title>
+        <id>https://css-tricks.com/?p=356885</id>
+        <link href="https://css-tricks.com/what-do-you-get-for-using-a-search-input-type/"/>
+        <updated>2021-11-17T23:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Like this: <input type="search">
+You get an extra-round-y appearance in Safari, which at one time matched the macOS look for search inputs, but not really anymore. I don’t hate the look, except…
+Safari totally ignores the font-size you set on 
+…
+The post What do you get for using a search input type? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Serverless Online Payments with Netlify and Stripe]]></title>
+        <id>618fda8c11d3cb08287a5a51</id>
+        <link href="https://www.freecodecamp.org/news/serverless-online-payments/"/>
+        <updated>2021-11-17T20:54:10.000Z</updated>
+        <summary type="html"><![CDATA[One of the first steps many young startups take is setting up a static web page, perhaps with an email newsletter, to help them build an audience.  As the weeks go by and the MVP is getting further along, the subject of how to handle payments will eventually emerge. From]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Start Using Docker Right Now]]></title>
+        <id>618eaede11d3cb08287a51c8</id>
+        <link href="https://www.freecodecamp.org/news/why-you-should-start-using-docker-now/"/>
+        <updated>2021-11-17T20:42:19.000Z</updated>
+        <summary type="html"><![CDATA[About a year back, I was just about ready to release Caer, a Computer Vision library in Python that would be publicly available on PyPi. But first, I decided to send it to a friend in Alberta to tinker around with it. A few days later, I found that he]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH]]></title>
+        <id>https://smashingmagazine.com/2021/11/guide-modern-css-colors/</id>
+        <link href="https://smashingmagazine.com/2021/11/guide-modern-css-colors/"/>
+        <updated>2021-11-17T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cherry-Picking Commits in Git]]></title>
+        <id>https://css-tricks.com/?p=356700</id>
+        <link href="https://css-tricks.com/cherry-picking-commits-in-git/"/>
+        <updated>2021-11-17T15:28:22.000Z</updated>
+        <summary type="html"><![CDATA[In part 5 of this series, we looked at rebasing and merging. Although there are a couple of differences between git merge and git rebase, both commands have the same goal: they integrate changes from one branch into another.
+The post Cherry-Picking Commits in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Tobias Günther</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Gap (Design Engineering)]]></title>
+        <id>https://css-tricks.com/?p=357023</id>
+        <link href="https://css-tricks.com/the-gap-design-engineering/"/>
+        <updated>2021-11-17T15:27:19.000Z</updated>
+        <summary type="html"><![CDATA[Egor Kloos describes a situation where a (purely visual) designer asks for some changes to a component. There is a misunderstanding where the (code monkey) developer implements the change exactly as requested—but really what was required was both a bug …
+The post The Gap (Design Engineering) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Clever Sticky Footer Technique]]></title>
+        <id>https://css-tricks.com/?p=357053</id>
+        <link href="https://css-tricks.com/a-clever-sticky-footer-technique/"/>
+        <updated>2021-11-17T00:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Upon hearing “sticky footer” these days, I would think most people imagine a position: sticky situation where a footer element appears fixed on the screen while in the scrolling context of some parent element.
+That’s not quite what I’m talking …
+The post A Clever Sticky Footer Technique appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Line length revisited: following the research]]></title>
+        <id>https://css-tricks.com/?p=356849</id>
+        <link href="https://css-tricks.com/line-length-revisited-following-the-research/"/>
+        <updated>2021-11-16T21:35:39.000Z</updated>
+        <summary type="html"><![CDATA[Mary Dyson produces nitty gritty research on the long-accepted notion that shorter line lengths are more legible than longer ones. The study finds that shorter lines do not necessarily lead to faster reading. If you’re looking for a definitive answer …
+The post Line length revisited: following the research appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Touch Design For Mobile Interfaces, A New Smashing Book By Steven Hoober]]></title>
+        <id>https://smashingmagazine.com/2021/11/touch-design-pre-release/</id>
+        <link href="https://smashingmagazine.com/2021/11/touch-design-pre-release/"/>
+        <updated>2021-11-16T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet “Touch Design for Mobile Interfaces”, our brand-new guide on designing for mobile with proven, universal, human-centric standards. 400 pages. Shipping starting late-December.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generate a Pull Request of Static Content With a Simple HTML Form]]></title>
+        <id>https://css-tricks.com/?p=356491</id>
+        <link href="https://css-tricks.com/generate-a-pull-request-of-static-content-with-a-simple-html-form/"/>
+        <updated>2021-11-16T15:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Jamstack has been in the website world for years. Static Site Generators (SSGs) — which often have content that lives right within a GitHub repo itself — are a big part of that story. That opens up the idea of …
+The post Generate a Pull Request of Static Content With a Simple HTML Form appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Hilman Ramadhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamstack TV]]></title>
+        <id>https://css-tricks.com/?p=356805</id>
+        <link href="https://css-tricks.com/jamstack-tv/"/>
+        <updated>2021-11-16T15:35:36.000Z</updated>
+        <summary type="html"><![CDATA[That’s the name of Netlify’s YouTube Channel. Love that. I linked up Rich’s talk the other day, which was a part of this past JamstackConf, but now all the talks are up on there. Rich got to talk …
+The post Jamstack TV appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Color Alpha Anywhere]]></title>
+        <id>https://css-tricks.com/?p=356611</id>
+        <link href="https://css-tricks.com/color-alpha-anywhere/"/>
+        <updated>2021-11-16T01:03:32.000Z</updated>
+        <summary type="html"><![CDATA[In my “Different Degrees of Custom Property Usage” article, I noted a situation about colors and CSS custom properties where I went “too far” with breaking up HSL color values. Breaking every single color into its H, S, and L parts …
+The post Color Alpha Anywhere appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library]]></title>
+        <id>https://css-tricks.com/?p=355894</id>
+        <link href="https://css-tricks.com/defining-and-applying-ui-themes-using-the-mimcss-css-in-js-library/"/>
+        <updated>2021-11-15T15:32:13.000Z</updated>
+        <summary type="html"><![CDATA[Theming UI refers to the ability to perform a change in visual styles in a consistent manner that defines the “look and feel” of a site. Swapping color palettes, à la dark mode or some other means, is a good …
+The post Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Michael Michlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development]]></title>
+        <id>https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/</id>
+        <link href="https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/"/>
+        <updated>2021-11-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Louis Lazaris)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Other Looks at the Conditional Border Radius Trick]]></title>
+        <id>https://css-tricks.com/?p=356304</id>
+        <link href="https://css-tricks.com/other-looks-at-the-conditional-border-radius-trick/"/>
+        <updated>2021-11-12T23:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Remember when Ahmad Shadeed wrote about that border-radius “toggle” he found in Facebook’s CSS? It was interesting! I covered it. A few weeks after that surge of linkage, a couple of articles came out digging into it a little deeper. …
+The post Other Looks at the Conditional Border Radius Trick appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interactive Rebase: Clean up your Commit History]]></title>
+        <id>https://css-tricks.com/?p=355658</id>
+        <link href="https://css-tricks.com/interactive-rebase-clean-up-your-commit-history/"/>
+        <updated>2021-11-12T15:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Interactive Rebase is the Swiss Army knife of Git commands: lots of use cases and lots of possibilities! It's really a great addition to any developer's tool chain, because it lets you revise your local commit history—before you share your work with the rest of the team. Let's see what you can do with an interactive rebase and then look at some practical examples.
+The post Interactive Rebase: Clean up your Commit History appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Tobias Günther</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful React Hooks That You Can Use In Your Projects]]></title>
+        <id>https://smashingmagazine.com/2021/11/useful-react-hooks/</id>
+        <link href="https://smashingmagazine.com/2021/11/useful-react-hooks/"/>
+        <updated>2021-11-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The React team introduced several hooks in React 16.8 which you can use from third-party providers in your application, or even create your own custom hook. In this tutorial, we’ll take a look at some of the most useful hooks in React and how to use them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ifeanyi Dike)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semantic menu context]]></title>
+        <id>https://css-tricks.com/?p=356652</id>
+        <link href="https://css-tricks.com/semantic-menu-context/"/>
+        <updated>2021-11-11T20:07:40.000Z</updated>
+        <summary type="html"><![CDATA[Scott digs into the history of the <menu> element. He traced it as far back as HTML 2 (!) in a 1994 changelog. The vibe then, it seems, was to mark up a list. I would suspect the intention …
+The post Semantic menu context appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Good To Great In Dashboard Design: Research, Decluttering And Data Viz]]></title>
+        <id>https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/</id>
+        <link href="https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/"/>
+        <updated>2021-11-11T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dribbbleshots just might be the hotbed of questionable dashboards. Striking visuals, little context, and no research: all recipes for mediocrity. Mediocrity won’t do. We’ll pursue greatness. And in that pursuit, we’ll cover research, decluttering, and data visualization.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adam Fard)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Localizing Your Next.js App]]></title>
+        <id>https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/</id>
+        <link href="https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/"/>
+        <updated>2021-11-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Internationalized routing is not exactly a new feature on Next.js. In this article, we are not only checking what we get from this feature, but also how to leverage such functionalities to achieve the best user experience and a smooth developer experience as well.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatically Transforming And Optimizing Images And Videos On Your WordPress Website]]></title>
+        <id>https://smashingmagazine.com/2021/11/transforming-optimizing-images-videos-wordpress-website/</id>
+        <link href="https://smashingmagazine.com/2021/11/transforming-optimizing-images-videos-wordpress-website/"/>
+        <updated>2021-11-09T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Leonardo Losoviz explains how Cloudinary’s integration can be used with WordPress to produce and deliver optimal digital experiences.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce]]></title>
+        <id>https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/</id>
+        <link href="https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/"/>
+        <updated>2021-11-08T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A great commerce experience is not a Lighthouse score or a set of Core Web Vitals figures (although both are important inputs), but it’s also a trilemma that carefully balances competing needs of delivering a great customer experience, dynamic storefront capabilities and long-term business objectives.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ilya Grigorik)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Value Of Concept Testing As Part Of Product Design]]></title>
+        <id>https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/</id>
+        <link href="https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/"/>
+        <updated>2021-11-05T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Concept testing ideas before moving into a detailed design is good UX practice. In this article, Victor Yocco presents details on how and when to engage in concept testing, as well as case studies providing details on the insights gained in two very different settings.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 43 With Matthew Phillips: What Is Astro?]]></title>
+        <id>https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/</id>
+        <link href="https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/"/>
+        <updated>2021-11-04T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about Astro. Will this modern static site builder launch you into the stratosphere? Drew McLellan talks to developer Matthew Phillips to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphQL On The Front-End (React And Apollo)]]></title>
+        <id>https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/</id>
+        <link href="https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/"/>
+        <updated>2021-11-04T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Within the last decade, technologies like GraphQL have changed how we build web apps and how they communicate with each other. GraphQL provides certain benefits over REST APIs — let’s find out what they are.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (David Atanda)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep Dive Into Serverless UI With TypeScript]]></title>
+        <id>https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/</id>
+        <link href="https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/"/>
+        <updated>2021-11-03T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ikeh Akinyemi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating A Magento PWA: Customizing Themes vs. Coding From Scratch]]></title>
+        <id>https://smashingmagazine.com/2021/11/magento-pwa-customizing-themes-coding/</id>
+        <link href="https://smashingmagazine.com/2021/11/magento-pwa-customizing-themes-coding/"/>
+        <updated>2021-11-02T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article sheds the spotlight on Magento PWAs and explains why business owners are getting them (often instead of native applications). Alex Husar introduces ways of how progressive web applications can be developed on Magento, as well as go over the major pros and cons of each development path.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alex Husar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Splash Of Color For Misty Days (November 2021 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/10/desktop-wallpaper-calendars-november-2021/</id>
+        <link href="https://smashingmagazine.com/2021/10/desktop-wallpaper-calendars-november-2021/"/>
+        <updated>2021-10-31T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50 Resources And Tools To Turbocharge Your Copywriting Skills]]></title>
+        <id>https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/</id>
+        <link href="https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/"/>
+        <updated>2021-10-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stop wasting time and effort writing copy that falls flat. Raise your copywriting game and boost your powers of persuasion with these rich and informative online resources.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Freya Giles)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build An Amazon Product Scraper With Node.js]]></title>
+        <id>https://smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/</id>
+        <link href="https://smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/"/>
+        <updated>2021-10-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The wealth of data that Amazon holds can make a huge difference when you’re designing a product or hunting for a bargain. But, how can a developer get that data? Simple, by using a web scraper. Here’s how to build your data extraction bot with Node.js.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Robert Sfichi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eye-Tracking In Mobile UX Research]]></title>
+        <id>https://smashingmagazine.com/2021/10/eye-tracking-mobile-ux-research/</id>
+        <link href="https://smashingmagazine.com/2021/10/eye-tracking-mobile-ux-research/"/>
+        <updated>2021-10-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to technology, eye-tracking has become more accessible to UX research as it allows researchers to get insights about users ’visual attention. This article explores the latest trends in the eye-tracking market and how the methodology can be included in the UX researcher’s toolbox.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mariana Macedo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Next.js Applications With Nx]]></title>
+        <id>https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/</id>
+        <link href="https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/"/>
+        <updated>2021-10-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nx is a build framework that facilitates optimization, efficient scaling of applications, and other features such as shared libraries and components. In this article, we will be looking at how we can effectively scale Next.js applications by using Nx.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Melvin Kosisochukwu)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep Dive Into object-fit And background-size In CSS]]></title>
+        <id>https://smashingmagazine.com/2021/10/object-fit-background-size-css/</id>
+        <link href="https://smashingmagazine.com/2021/10/object-fit-background-size-css/"/>
+        <updated>2021-10-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will go through how `object-fit` and `background-size` work, when we can use them, and why, along with some practical use cases and recommendations. Let’s dive in.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction To Quasar Framework: Building Cross-Platform Applications]]></title>
+        <id>https://smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/</id>
+        <link href="https://smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/"/>
+        <updated>2021-10-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Quasar is an open-source Vue.js-based cross-platform framework that allows you, as a developer, to easily build apps for both desktop and mobile using technologies such as Cordova and Electron and writing your code once. The app we’ll build will store and get its data from Firebase, meaning that we will also be seeing how to use Firebase in Quasar.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joel Olawanle)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build A Real-Time Multi-User Game From Scratch]]></title>
+        <id>https://smashingmagazine.com/2021/10/real-time-multi-user-game/</id>
+        <link href="https://smashingmagazine.com/2021/10/real-time-multi-user-game/"/>
+        <updated>2021-10-22T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article highlights the process, technical decisions and lessons learned behind building the real-time game Autowuzzler. Learn how to share game state across multiple clients in real-time with Colyseus, do physics calculations with Matter.js, store data in Supabase.io and build the front-end with SvelteKit.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Martin Grubinger)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Respecting Users’ Motion Preferences]]></title>
+        <id>https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/</id>
+        <link href="https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/"/>
+        <updated>2021-10-21T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The `prefers-reduced-motion` media query has excellent support in all modern browsers going back a couple of years. In this article, Michelle Barker explains why there’s no reason not to use it today to make your sites more accessible.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
+</feed>

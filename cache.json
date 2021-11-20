@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=357234",
+          "author": "Chris Coyier",
+          "description": "I’m not the biggest fan of Atomic CSS myself. I don’t like all the classes. I like to express my styles in CSS because I find CSS… good. But I appreciate that a lot of people seem to like it, …\nThe post Reimagine Atomic CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/reimagine-atomic-css/",
+          "publishedOn": "2021-11-19T22:01:05.000Z",
+          "wordCount": 600,
+          "title": "Reimagine Atomic CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357227",
+          "author": "Chris Coyier",
+          "description": "A tournament bracket UI where you pick your favorite between two coding fonts and your choices are whittled down all the way to a final winner. A clever way to suss out your own taste and arrive at a choice.…\nThe post Coding Font Game appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/coding-font-game/",
+          "publishedOn": "2021-11-19T21:18:50.000Z",
+          "wordCount": 594,
+          "title": "Coding Font Game"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357192",
+          "author": "Jhey Tompkins",
+          "description": "Good friend Kent C. Dodds has recently dropped his new website which had a lot of work go into it. I was fortunate enough that Kent reached out a while back and asked if I could come up with some …\nThe post Parallax Powered by CSS Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/parallax-powered-by-css-custom-properties/",
+          "publishedOn": "2021-11-19T15:13:46.000Z",
+          "wordCount": 3158,
+          "title": "Parallax Powered by CSS Custom Properties"
+        },
+        {
           "id": "https://css-tricks.com/?p=356818",
           "author": "Chris Coyier",
           "description": "VS Code is built from web technologies (HTML, CSS, and JavaScript), but dare I say today it’s mostly used a local app that’s installed on your machine. That’s starting to shift, though, as there has been an absolute explosion of …\nThe post The Many Faces of VS Code in the Browser appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -460,20 +487,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "The `prefers-reduced-motion` media query has excellent support in all modern browsers going back a couple of years. In this article, Michelle Barker explains why there’s no reason not to use it today to make your sites more accessible.",
-          "link": "https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/",
-          "publishedOn": "2021-10-21T10:30:00.000Z",
-          "wordCount": 2882,
-          "title": "Respecting Users’ Motion Preferences",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/df53065e-5b99-4a67-ad0c-2cd67b07dc2a/respecting-users-motion-preferences.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -482,6 +495,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "618941df8bcfae07ca4e3869",
+          "author": null,
+          "description": "If you're working in IT, you might need to schedule various repetitive tasks as part of your automation processes.  For example, you could schedule a particular job to periodically execute at specific times of the day. This is helpful for performing daily backups, monthly log archiving, weekly file deletion to",
+          "link": "https://www.freecodecamp.org/news/cron-jobs-in-linux/",
+          "publishedOn": "2021-11-19T20:34:59.000Z",
+          "wordCount": 1189,
+          "title": "How to Automate Tasks with cron Jobs in Linux"
+        },
         {
           "id": "6196aac811d3cb08287a8998",
           "author": null,

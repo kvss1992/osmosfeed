@@ -473,20 +473,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/real-time-multi-user-game/",
-          "author": "hello@smashingmagazine.com (Martin Grubinger)",
-          "description": "This article highlights the process, technical decisions and lessons learned behind building the real-time game Autowuzzler. Learn how to share game state across multiple clients in real-time with Colyseus, do physics calculations with Matter.js, store data in Supabase.io and build the front-end with SvelteKit.",
-          "link": "https://smashingmagazine.com/2021/10/real-time-multi-user-game/",
-          "publishedOn": "2021-10-22T09:30:00.000Z",
-          "wordCount": 4625,
-          "title": "How To Build A Real-Time Multi-User Game From Scratch",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f27da7cf-e0e3-4ed4-a845-6fd61fdb0e70/real-time-multi-user-game.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },

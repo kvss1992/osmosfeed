@@ -459,20 +459,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/",
-          "author": "hello@smashingmagazine.com (Joel Olawanle)",
-          "description": "Quasar is an open-source Vue.js-based cross-platform framework that allows you, as a developer, to easily build apps for both desktop and mobile using technologies such as Cordova and Electron and writing your code once. The app we’ll build will store and get its data from Firebase, meaning that we will also be seeing how to use Firebase in Quasar.",
-          "link": "https://smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/",
-          "publishedOn": "2021-10-23T11:00:00.000Z",
-          "wordCount": 4916,
-          "title": "An Introduction To Quasar Framework: Building Cross-Platform Applications",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e64d5e62-7c13-430a-90c6-f21b1c0325fe/introduction-quasar-framework-cross-platform-applications.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },

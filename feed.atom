@@ -2,10 +2,143 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-22T00:54:32.606Z</updated>
+    <updated>2021-11-23T00:53:38.435Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Directory-Scoped Variables with direnv in POSIX Systems]]></title>
+        <id>619909b111d3cb08287a9bd9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-directory-scoped-envs-with-direnv-in-posix-systems/"/>
+        <updated>2021-11-22T21:39:20.000Z</updated>
+        <summary type="html"><![CDATA[A common practice in software projects is to keep certain information separated but accessible from the codebase which uses it. Developers usually do this with secrets such as passwords or private keys, or with user or context-specific info pieces.  But managing environment variables can be a pain. There are a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Design Thinking Process Explained]]></title>
+        <id>613f3cad852f4307d372c7dc</id>
+        <link href="https://www.freecodecamp.org/news/the-design-thinking-process-explained/"/>
+        <updated>2021-11-22T21:27:40.000Z</updated>
+        <summary type="html"><![CDATA[The Design Thinking Process is a way to come up with creative, user centric solutions to complex problems. But how does it work exactly? In this article, I will explain what the Design Thinking Process is and break down the five phases behind it. We will explore how this process]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On User Tracking and Industry Standards on Privacy]]></title>
+        <id>https://css-tricks.com/?p=357149</id>
+        <link href="https://css-tricks.com/on-user-tracking-and-industry-standards-on-privacy/"/>
+        <updated>2021-11-22T21:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Inspired by Eva PenzeyMoog’s new book, Jeremy highlights the widespread user tracking situation in this industry:
+There was a line that really stood out to me: 
+The idea that it’s alright to do whatever unethical thing is currently the 
+…
+The post On User Tracking and Industry Standards on Privacy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReactJS Project – Build a Rick and Morty Character Wiki]]></title>
+        <id>619b998511d3cb08287aa257</id>
+        <link href="https://www.freecodecamp.org/news/react-js-project-build-a-rick-and-morty-character-wiki/"/>
+        <updated>2021-11-22T19:13:34.000Z</updated>
+        <summary type="html"><![CDATA[Today we're gonna practice our React JS skills by building a Rick and Morty Character Wiki.  Here's what we'll build today:    Here's a [live demo of the project] 👇  https://react-projects-psi.vercel.app/.  And here's the GitHub Repository.  The topics we'll cover while building this project are:  React Hooks (useState, useEffect)]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS “decorations”]]></title>
+        <id>https://css-tricks.com/?p=357046</id>
+        <link href="https://css-tricks.com/css-decorations/"/>
+        <updated>2021-11-22T18:48:00.000Z</updated>
+        <summary type="html"><![CDATA[A reader wrote to me the other day asking about this bit of CSS they came across in Wikipedia’s Common.css:
+.mw-collapsible-leftside-toggle .mw-collapsible-toggle {
+  /* @noflip */
+  float: left;
+  /* @noflip */
+  text-align: left;
+}
+What’s that @noflip business? That’s …
+The post CSS “decorations” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scanning and Repairing Drive – How to Fix Stuck Windows 10 PC Hard Drive]]></title>
+        <id>619bb03e11d3cb08287aa4c8</id>
+        <link href="https://www.freecodecamp.org/news/scanning-and-repairing-drive-how-to-fix-stuck-windows-10-pc-hard-drive/"/>
+        <updated>2021-11-22T17:10:42.000Z</updated>
+        <summary type="html"><![CDATA[If you have a Windows 10 PC, you might occasionally see the notorious "scanning and repairing drive" message. This error can happen to the C drive, hard drive, and any other external drive.  This scanning and repairing can take several hours, or even cost you a whole workday]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let&#x27;s Talk Design – How to Speak to a Designer as a Developer]]></title>
+        <id>619ba98511d3cb08287aa3a8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-speak-to-a-designer-as-a-developer-tech-talk/"/>
+        <updated>2021-11-22T17:07:06.000Z</updated>
+        <summary type="html"><![CDATA[In this conference talk, Magdalena Ostoja-Chyżyńska will not talk about the differences between developers and designers.  Instead of focusing on the differences between the roles and how that might cause friction, she will approach the subject with a problem-solving attitude, and expand on how to make the relationship work. And]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Workshops: Winter 2021]]></title>
+        <id>https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/</id>
+        <link href="https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/"/>
+        <updated>2021-11-22T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s the state of CSS, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our [online workshops on UX, front-end and design](https://smashingconf.com/online-workshops).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsive Layouts, Fewer Media Queries]]></title>
+        <id>https://css-tricks.com/?p=357080</id>
+        <link href="https://css-tricks.com/responsive-layouts-fewer-media-queries/"/>
+        <updated>2021-11-22T15:29:03.000Z</updated>
+        <summary type="html"><![CDATA[We cannot talk about web development without talking about Responsive Design. It’s just a given these days and has been for many years. Media queries are a part of Responsive Design and they aren’t going anywhere. Since the introduction of …
+The post Responsive Layouts, Fewer Media Queries appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL LIKE Statement – How to Query SQL with Wildcard]]></title>
+        <id>612cc005b5177808226d4a57</id>
+        <link href="https://www.freecodecamp.org/news/sql-like-statement-how-to-query-sql-with-wildcard/"/>
+        <updated>2021-11-22T15:01:50.000Z</updated>
+        <summary type="html"><![CDATA[You can use the % and _ wildcards with the SQL LIKE statement to compare values from an SQL table. But how does that work exactly?  In this article, I will show you how to use the SQL LIKE statement through code examples.  Basic syntax of SQL LIKE statementHere is the basic]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Reverse List – How to Reverse a Range or Array]]></title>
+        <id>619694ef11d3cb08287a88ce</id>
+        <link href="https://www.freecodecamp.org/news/python-reverse-list-how-to-reverse-a-range-or-array/"/>
+        <updated>2021-11-22T14:54:14.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn some of the different ways you can reverse lists and list ranges in Python. And we'll look at some coding examples along the way.  Let's get started!  How to create a range in Python An efficient way to create a list of a range of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving The Performance Of Wix Websites (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/"/>
+        <updated>2021-11-22T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Dan Shappir)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reimagine Atomic CSS]]></title>
         <id>https://css-tricks.com/?p=357234</id>

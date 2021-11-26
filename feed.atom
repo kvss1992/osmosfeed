@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-25T00:54:42.261Z</updated>
+    <updated>2021-11-26T00:52:41.370Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
@@ -815,16 +815,6 @@ The post Semantic menu context appeared first on CSS-Tricks. You can support CSS
         <summary type="html"><![CDATA[The wealth of data that Amazon holds can make a huge difference when you’re designing a product or hunting for a bargain. But, how can a developer get that data? Simple, by using a web scraper. Here’s how to build your data extraction bot with Node.js.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Robert Sfichi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eye-Tracking In Mobile UX Research]]></title>
-        <id>https://smashingmagazine.com/2021/10/eye-tracking-mobile-ux-research/</id>
-        <link href="https://smashingmagazine.com/2021/10/eye-tracking-mobile-ux-research/"/>
-        <updated>2021-10-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to technology, eye-tracking has become more accessible to UX research as it allows researchers to get insights about users ’visual attention. This article explores the latest trends in the eye-tracking market and how the methodology can be included in the UX researcher’s toolbox.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mariana Macedo)</name>
         </author>
     </entry>
 </feed>

@@ -531,20 +531,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/",
-          "author": "hello@smashingmagazine.com (Freya Giles)",
-          "description": "Stop wasting time and effort writing copy that falls flat. Raise your copywriting game and boost your powers of persuasion with these rich and informative online resources.",
-          "link": "https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/",
-          "publishedOn": "2021-10-29T10:00:00.000Z",
-          "wordCount": 2507,
-          "title": "50 Resources And Tools To Turbocharge Your Copywriting Skills",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/376436ee-7e40-4d99-ad14-e934df9f92c9/resources-tools-turbocharge-copywriting-skills.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },

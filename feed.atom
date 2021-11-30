@@ -2,10 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-29T00:53:46.544Z</updated>
+    <updated>2021-11-30T00:55:18.289Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Types of Software Development Training – A Data Analysis of IT Career Training Tool Efficacy]]></title>
+        <id>61a39f3025888a07c3e1cf08</id>
+        <link href="https://www.freecodecamp.org/news/types-of-software-development-training/"/>
+        <updated>2021-11-29T21:06:01.000Z</updated>
+        <summary type="html"><![CDATA[How you train for your career is one of the most consequential decisions you'll ever make. But it's hard to narrow down your options for a career in software development or IT. Medicine is easy: pick a medical school and apply. But programming?  Will what you learn in a four]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON for Beginners – JavaScript Object Notation Explained in Plain English]]></title>
+        <id>60c08938d3126007592d56f5</id>
+        <link href="https://www.freecodecamp.org/news/what-is-json-a-json-file-example/"/>
+        <updated>2021-11-29T19:16:16.000Z</updated>
+        <summary type="html"><![CDATA[Many software applications need to exchange data between a client and server.  For a long time, XML was the preferred data format when it came to information exchange between the two points. Then in early 2000, JSON was introduced as an alternate data format for information exchange. In this article,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve the Accuracy of Your Image Recognition Models]]></title>
+        <id>61a0dae325888a07c3e1bee6</id>
+        <link href="https://www.freecodecamp.org/news/improve-image-recognition-model-accuracy-with-these-hacks/"/>
+        <updated>2021-11-29T17:09:30.000Z</updated>
+        <summary type="html"><![CDATA[These 7 tricks and tips will take you from 50% to 90% accuracy for your image recognition models in literally minutes. So, you have gathered a dataset, built a neural network, and trained your model. But despite the hours (and sometimes days) of work you've invested to create the model,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Convert String to Int – How to Cast a String in Python]]></title>
+        <id>61a3882925888a07c3e1ce6d</id>
+        <link href="https://www.freecodecamp.org/news/python-convert-string-to-int-how-to-cast-a-string-in-python/"/>
+        <updated>2021-11-29T16:47:01.000Z</updated>
+        <summary type="html"><![CDATA[When you're programming, you'll often need to switch between data types.  The ability to convert one data type to another gives you great flexibility when working with information.  There are different built-in ways to convert, or cast, types in the Python programming language.  In this article, you'll learn how to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recreating the Apple Music Hits Playlist Animation in CSS]]></title>
+        <id>https://css-tricks.com/?p=357565</id>
+        <link href="https://css-tricks.com/recreating-the-apple-music-hits-playlist-animation-in-css/"/>
+        <updated>2021-11-29T16:38:49.000Z</updated>
+        <summary type="html"><![CDATA[Apple Music has this “Spatial Audio” feature where the direction of the music in your headphones is based on the location of the device. It’s tough to explain just how neat it is. But that’s not what I’m here to …
+The post Recreating the Apple Music Hits Playlist Animation in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Analyzed 425,909 Favicons]]></title>
+        <id>https://css-tricks.com/?p=357976</id>
+        <link href="https://css-tricks.com/we-analyzed-425909-favicons/"/>
+        <updated>2021-11-29T16:38:07.000Z</updated>
+        <summary type="html"><![CDATA[This is a neat idea for a research project. The big map is fun, but the research had some tidbits in it worth looking at.
+The average favicon network request takes 130ms, at least from our speedy cloud instance.
+…
+The post We Analyzed 425,909 Favicons appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Free Bootcamps Based on freeCodeCamp – Learn JavaScript &amp; Web Development with Weekly Live Streams]]></title>
+        <id>61924f5811d3cb08287a6648</id>
+        <link href="https://www.freecodecamp.org/news/new-free-bootcamps-based-on-freecodecamp-learn-javascript-webdev-with-weekly-live-streams/"/>
+        <updated>2021-11-29T15:55:00.000Z</updated>
+        <summary type="html"><![CDATA[On January 10, Class Central is launching two new bootcamps that are free, remote, and open to all.  You’ll complete freeCodeCamp’s JavaScript or Responsive Web Design certification, with weekly live streams, projects, and a friendly group of learners worldwide. Free Bootcamp Based on the freeCodeCamp CurriculumHi everyone, I’]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spell Check Not Working in Word [Fixed on Windows 10 PC]]]></title>
+        <id>61a4b12225888a07c3e1d240</id>
+        <link href="https://www.freecodecamp.org/news/spell-check-not-working-in-word-fixed-on-windows-10-pc/"/>
+        <updated>2021-11-29T14:53:48.000Z</updated>
+        <summary type="html"><![CDATA[Spell check in Microsoft Word and other Word Processing apps is a powerful feature. With spell check, you don’t have to worry too about making small grammatical and typographical errors, because the program will point them out for you in real-time as you type.  But sometimes, the spell check]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D CSS Flippy Snaps With React And GreenSock]]></title>
+        <id>https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/</id>
+        <link href="https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/"/>
+        <updated>2021-11-29T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When is it “Right” to Reach for  contain and will-change in CSS?]]></title>
         <id>https://css-tricks.com/?p=357271</id>
@@ -821,16 +915,6 @@ The post Semantic menu context appeared first on CSS-Tricks. You can support CSS
         <summary type="html"><![CDATA[This article sheds the spotlight on Magento PWAs and explains why business owners are getting them (often instead of native applications). Alex Husar introduces ways of how progressive web applications can be developed on Magento, as well as go over the major pros and cons of each development path.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alex Husar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Splash Of Color For Misty Days (November 2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/10/desktop-wallpaper-calendars-november-2021/</id>
-        <link href="https://smashingmagazine.com/2021/10/desktop-wallpaper-calendars-november-2021/"/>
-        <updated>2021-10-31T08:20:00.000Z</updated>
-        <summary type="html"><![CDATA[November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>

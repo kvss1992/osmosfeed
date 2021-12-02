@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-01T00:57:27.593Z</updated>
+    <updated>2021-12-02T00:54:43.806Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dock Life: Using Docker for All The Things!]]></title>
+        <id>https://css-tricks.com/?p=357985</id>
+        <link href="https://css-tricks.com/dock-life-using-docker-for-all-the-things/"/>
+        <updated>2021-12-01T21:11:53.000Z</updated>
+        <summary type="html"><![CDATA[I think if you’re a DevOps person in any capacity, the utility of Docker is very clear. Your things run in containers that are identical everywhere. Assuming Docker is working/running, the code will execute in a reliably consistent way whether …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embrace the Unpredictable]]></title>
+        <id>https://css-tricks.com/?p=357344</id>
+        <link href="https://css-tricks.com/embrace-the-unpredictable/"/>
+        <updated>2021-12-01T15:47:46.000Z</updated>
+        <summary type="html"><![CDATA[In nature, no two things are ever the same. Life is imperfect, unpredictable, and beautiful. We can walk through the same forest every day and see differently colored leaves. We can look up at the clouds every minute and watch …]]></summary>
+        <author>
+            <name>George Francis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exactly What You Want]]></title>
+        <id>https://css-tricks.com/?p=356146</id>
+        <link href="https://css-tricks.com/exactly-what-you-want/"/>
+        <updated>2021-12-01T15:46:29.000Z</updated>
+        <summary type="html"><![CDATA[What is one thing people can do to make their website better?
+ Exactly what you want to build!
+Ask yourself:
+What drew you to development in the beginning?
+Is there an experimental API that you’ve been wanting to try out?
+…]]></summary>
+        <author>
+            <name>Amelia Wattenberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Headphone Jack Not Working in Windows 10 - How to Fix Headphones on PC]]></title>
+        <id>61a5f9680c0c7407b2b3e607</id>
+        <link href="https://www.freecodecamp.org/news/headphone-jack-not-working-in-windows-10-how-to-fix-headphones-on-pc/"/>
+        <updated>2021-12-01T09:49:48.000Z</updated>
+        <summary type="html"><![CDATA[In general, a headphone jack and a pair of headphones improve the sound from your PC. You'll be able to hear things more clearly, without disturbing other around you.  But sometimes, setting them up is difficult. Or they might stop working entirely. This could be due to outdated drivers, or]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Diagonal Stripes Wipe Animation]]></title>
         <id>https://css-tricks.com/?p=357109</id>
@@ -989,16 +1034,6 @@ The post Semantic menu context appeared first on CSS-Tricks. You can support CSS
         <summary type="html"><![CDATA[Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ikeh Akinyemi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating A Magento PWA: Customizing Themes vs. Coding From Scratch]]></title>
-        <id>https://smashingmagazine.com/2021/11/magento-pwa-customizing-themes-coding/</id>
-        <link href="https://smashingmagazine.com/2021/11/magento-pwa-customizing-themes-coding/"/>
-        <updated>2021-11-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article sheds the spotlight on Magento PWAs and explains why business owners are getting them (often instead of native applications). Alex Husar introduces ways of how progressive web applications can be developed on Magento, as well as go over the major pros and cons of each development path.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alex Husar)</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=357985",
+          "author": "Chris Coyier",
+          "description": "I think if you’re a DevOps person in any capacity, the utility of Docker is very clear. Your things run in containers that are identical everywhere. Assuming Docker is working/running, the code will execute in a reliably consistent way whether …",
+          "link": "https://css-tricks.com/dock-life-using-docker-for-all-the-things/",
+          "publishedOn": "2021-12-01T21:11:53.000Z",
+          "wordCount": 628,
+          "title": "Dock Life: Using Docker for All The Things!"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357344",
+          "author": "George Francis",
+          "description": "In nature, no two things are ever the same. Life is imperfect, unpredictable, and beautiful. We can walk through the same forest every day and see differently colored leaves. We can look up at the clouds every minute and watch …",
+          "link": "https://css-tricks.com/embrace-the-unpredictable/",
+          "publishedOn": "2021-12-01T15:47:46.000Z",
+          "wordCount": 726,
+          "title": "Embrace the Unpredictable"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356146",
+          "author": "Amelia Wattenberger",
+          "description": "What is one thing people can do to make their website better?\n Exactly what you want to build!\nAsk yourself:\nWhat drew you to development in the beginning?\nIs there an experimental API that you’ve been wanting to try out?\n…",
+          "link": "https://css-tricks.com/exactly-what-you-want/",
+          "publishedOn": "2021-12-01T15:46:29.000Z",
+          "wordCount": 491,
+          "title": "Exactly What You Want"
+        },
+        {
           "id": "https://css-tricks.com/?p=357109",
           "author": "Chris Coyier",
           "description": "I was playing this game on Apple Arcade the other day called wurdweb. It’s a fun little game! Little touches like the little shape dudes that walk around the screen (but otherwise don’t do anything) give it a lot …",
@@ -590,20 +617,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/magento-pwa-customizing-themes-coding/",
-          "author": "hello@smashingmagazine.com (Alex Husar)",
-          "description": "This article sheds the spotlight on Magento PWAs and explains why business owners are getting them (often instead of native applications). Alex Husar introduces ways of how progressive web applications can be developed on Magento, as well as go over the major pros and cons of each development path.",
-          "link": "https://smashingmagazine.com/2021/11/magento-pwa-customizing-themes-coding/",
-          "publishedOn": "2021-11-02T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Creating A Magento PWA: Customizing Themes vs. Coding From Scratch",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77155632-96bd-44a8-af99-50ebad7534e6/magento-pwa-customizing-themes-coding.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -612,6 +625,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61a5f9680c0c7407b2b3e607",
+          "author": null,
+          "description": "In general, a headphone jack and a pair of headphones improve the sound from your PC. You'll be able to hear things more clearly, without disturbing other around you.  But sometimes, setting them up is difficult. Or they might stop working entirely. This could be due to outdated drivers, or",
+          "link": "https://www.freecodecamp.org/news/headphone-jack-not-working-in-windows-10-how-to-fix-headphones-on-pc/",
+          "publishedOn": "2021-12-01T09:49:48.000Z",
+          "wordCount": 743,
+          "title": "Headphone Jack Not Working in Windows 10 - How to Fix Headphones on PC"
+        },
         {
           "id": "61783ffa33422e07df364d2c",
           "author": null,

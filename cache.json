@@ -12,6 +12,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=357368",
+          "author": "Stéphanie Walter",
+          "description": "A few years ago, there was this French book publisher. They specialize in technical books and published an author who wrote a book about CSS3, HTML5 and jQuery. The final version, however, a glaring typo on the cover where “HTML5” …",
+          "link": "https://css-tricks.com/test-your-site-with-real-users/",
+          "publishedOn": "2021-12-02T22:13:27.000Z",
+          "wordCount": 2307,
+          "title": "Test Your Site With Real Users"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357600",
+          "author": "Jake Albaugh",
+          "description": "Websites change. Healthy codebases are constantly being updated. Legacy code dies when it eventually goes down with the ship. Recognizing that my code is transient allows me to be more practical about my code and what guides my decision-making as …",
+          "link": "https://css-tricks.com/embrace-your-codes-transience/",
+          "publishedOn": "2021-12-02T15:45:52.000Z",
+          "wordCount": 1477,
+          "title": "Embrace your code’s transience"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358210",
+          "author": "Chris Coyier",
+          "description": "Some ⭐️⭐️⭐️⭐️⭐️ star rating systems aren’t always exactly even stars. Say you want to support rating something 2.25 stars. To do that you could “fill” the shape of the stars partially. I like this idea by Samuel Kraft. The tricky …",
+          "link": "https://css-tricks.com/fractional-svg-stars-with-css/",
+          "publishedOn": "2021-12-02T15:42:37.000Z",
+          "wordCount": 504,
+          "title": "Fractional SVG stars with CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357012",
+          "author": "ImageKit",
+          "description": "(This is a sponsored post.)\nVideos appeal to humans in a way no other form of the content does. A video includes motion, music, still images, text, speech, and a few other elements, all of which combine to deliver …",
+          "link": "https://css-tricks.com/streaming-optimized-videos-from-aws-s3-in-minutes/",
+          "publishedOn": "2021-12-02T15:41:22.000Z",
+          "wordCount": 2280,
+          "title": "Streaming Optimized Videos From AWS S3 in Minutes"
+        },
+        {
           "id": "https://css-tricks.com/?p=357985",
           "author": "Chris Coyier",
           "description": "I think if you’re a DevOps person in any capacity, the utility of Docker is very clear. Your things run in containers that are identical everywhere. Assuming Docker is working/running, the code will execute in a reliably consistent way whether …",
@@ -325,6 +361,34 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "Are you ready for the countdown to Christmas? From [festive](https://www.smashingmagazine.com/2016/12/freebie-christmas-advent-icon-set-25-icons-ai-eps-svg-png-pdf/) [icon](https://www.smashingmagazine.com/2015/12/freebie-christmas-icons-illustrations/) [sets](https://www.smashingmagazine.com/2014/11/freebie-christmas-icon-set-ai-psd-eps-pdf-svg-png/) to advent calendars that are bound to sweeten your days with a delightful little surprise each morning, we’ve decided to join in on this lovely annual tradition and bring it all to one place. So prepare yourself a nice cup of coffee and get cozy — there’s always something new to learn and discover!",
+          "link": "https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/",
+          "publishedOn": "2021-12-02T14:00:43.000Z",
+          "wordCount": 3046,
+          "title": "Advent Calendars For Web Designers And Developers (December 2021 Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6e09cbdf-49c2-4250-a290-4c0fce6fe0a8/advent-roundup-2021.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/",
+          "author": "hello@smashingmagazine.com (Caleb Olojo)",
+          "description": "There’s a great challenge that comes with building Jamstack applications on the web. In this article, Caleb Olojo explains how you can use Next.js to bootstrap your app safely.",
+          "link": "https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/",
+          "publishedOn": "2021-12-02T09:30:00.000Z",
+          "wordCount": 2021,
+          "title": "How To Protect Your API Key In Production With Next.js API Route",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0b2208c-15b4-4cdc-b050-033c4a4aa1b0/protect-api-key-production-nextjs-api-route.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
           "description": "In this episode, we’re asking if changes to best practises over the last year have negatively impacted the web. Is it all downhill from here? Drew McLellan talks to expert Chris Ferdinandi to find out.",
@@ -603,20 +667,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/",
-          "author": "hello@smashingmagazine.com (Ikeh Akinyemi)",
-          "description": "Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.",
-          "link": "https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/",
-          "publishedOn": "2021-11-03T11:30:00.000Z",
-          "wordCount": 3637,
-          "title": "A Deep Dive Into Serverless UI With TypeScript",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/aff46dfe-164d-4bf7-8e14-057470001b41/deep-dive-into-serverless-ui-typescript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -625,6 +675,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "5fff3e8b98be260817e495e9",
+          "author": null,
+          "description": "What is a SIM swap?SIM swapping is when a hacker convinces your cell phone carrier to switch your phone number to a different SIM - one that they own.  This is a relatively normal thing for a retail employee to do, which means that someone asking for a swap",
+          "link": "https://www.freecodecamp.org/news/protect-yourself-against-sim-swapping-attacks/",
+          "publishedOn": "2021-12-02T20:05:26.000Z",
+          "wordCount": 1762,
+          "title": "How to Protect Yourself Against SIM Swapping Attacks"
+        },
+        {
+          "id": "61951bb111d3cb08287a7bae",
+          "author": null,
+          "description": "Mixins are my favorite thing about Sass. They made my life so much easier, so I wanted to show you how they can do the same for you. Mixins can be a bit tricky to understand at first, but don't worry. You'll get the hang of it by practicing and",
+          "link": "https://www.freecodecamp.org/news/how-to-pass-arguments-to-mixins/",
+          "publishedOn": "2021-12-02T18:45:59.000Z",
+          "wordCount": 1561,
+          "title": "How to Use Mixins in Sass and Pass Arguments – With Code Examples"
+        },
+        {
+          "id": "61a683330c0c7407b2b3e88f",
+          "author": null,
+          "description": "In this tutorial for beginners, you will learn the basics of using SwiftUI to make API calls using the popular Internet Chuck Norris DataBase (ICNDB) as an example. It will display a joke quickly and easily using Swift and SwiftUI.  You'll see how the cross-platform framework SwiftUI lets us use",
+          "link": "https://www.freecodecamp.org/news/make-rest-api-call-in-swiftui-in-2-minutes/",
+          "publishedOn": "2021-12-02T18:32:23.000Z",
+          "wordCount": 949,
+          "title": "How to Make a Simple Async GET REST API call in SwiftUI"
+        },
+        {
+          "id": "61a8e0bb0c0c7407b2b3f52a",
+          "author": null,
+          "description": "Discord is an instant messaging app that lets you communicate through voice, video, and texts. It is available in a web-based form, a desktop app, and a mobile app.  But sometimes, when you're trying to establish a voice call connection, you'll get an error that says “RTC Connecting Discord”. This",
+          "link": "https://www.freecodecamp.org/news/rtc-connecting-discord-how-to-fix-the-server-error/",
+          "publishedOn": "2021-12-02T17:10:47.000Z",
+          "wordCount": 1078,
+          "title": "RTC Connecting Discord – How to Fix the Server Error"
+        },
+        {
+          "id": "61a0677125888a07c3e1b835",
+          "author": null,
+          "description": "Let's face it – state management across multiple components isn't easy. Sometimes we might set up the state or logic handling properly, but fail to consume the states. Or we might get everything working, but clutter up the codebase in the process, making it hard to read, adapt, and extend.   The",
+          "link": "https://www.freecodecamp.org/news/how-to-use-redux-for-application-wide-state-management/",
+          "publishedOn": "2021-12-02T15:47:07.000Z",
+          "wordCount": 2608,
+          "title": "How to Use Redux for Application-Wide State Management"
+        },
         {
           "id": "61a5f9680c0c7407b2b3e607",
           "author": null,

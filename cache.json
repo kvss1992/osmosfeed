@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=358206",
+          "author": "Chris Coyier",
+          "description": "John James Jacoby:\nI recently noticed that animations in Safari were stuttering pretty badly on my M1 powered 2020 MacBook Air, and dove in to figure out why.\n\n\n\n\nThe why:\nThis wasn’t a bug. This was a feature.\n…",
+          "link": "https://css-tricks.com/low-framerate-in-safari-on-m1-mac/",
+          "publishedOn": "2021-12-03T21:44:40.000Z",
+          "wordCount": 411,
+          "title": "Low framerate in Safari on M1 Mac"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356844",
+          "author": "Jeremy Keith",
+          "description": "I’d like to tell you something not to do to make your website better. Don’t add any third-party scripts to your site.\nThat may sound extreme, but at one time it would’ve been common sense. On today’s …",
+          "link": "https://css-tricks.com/aint-no-party-like-a-third-party/",
+          "publishedOn": "2021-12-03T15:45:19.000Z",
+          "wordCount": 959,
+          "title": "Ain’t No Party Like a Third Party"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358092",
+          "author": "Chris Coyier",
+          "description": "I saw Bartosz Ciechanowski’s “Curves and Surfaces” going around the other day and was like, oh hey, this is the same fella that did that other amazingly interactive blog post on the Internal Combustion Engine the other day. I …",
+          "link": "https://css-tricks.com/bartosz-ciechanowskis-interactive-blog-posts/",
+          "publishedOn": "2021-12-03T15:41:11.000Z",
+          "wordCount": 490,
+          "title": "Bartosz Ciechanowski’s Interactive Blog Posts"
+        },
+        {
           "id": "https://css-tricks.com/?p=357368",
           "author": "Stéphanie Walter",
           "description": "A few years ago, there was this French book publisher. They specialize in technical books and published an author who wrote a book about CSS3, HTML5 and jQuery. The final version, however, a glaring typo on the cover where “HTML5” …",
@@ -653,20 +680,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
-          "author": "hello@smashingmagazine.com (David Atanda)",
-          "description": "Within the last decade, technologies like GraphQL have changed how we build web apps and how they communicate with each other. GraphQL provides certain benefits over REST APIs — let’s find out what they are.",
-          "link": "https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
-          "publishedOn": "2021-11-04T11:30:00.000Z",
-          "wordCount": 3395,
-          "title": "GraphQL On The Front-End (React And Apollo)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb584488-c16f-4409-a992-993ce92d4b51/graphql-frontend-react-apollo.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -675,6 +688,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61a7b9390c0c7407b2b3f076",
+          "author": null,
+          "description": "As programmers, we will inevitably make mistakes. Even the most accomplished specialists make them. But you'll become a better programmer faster if you don't make the same mistakes over and over. There are many types of mistakes you might make when you're coding. The majority of them usually come from",
+          "link": "https://www.freecodecamp.org/news/mistakes-programmers-make-when-coding-and-how-to-fix-them/",
+          "publishedOn": "2021-12-03T19:14:57.000Z",
+          "wordCount": 1748,
+          "title": "Mistakes Every Programmer Makes When Learning to Code – and How to Fix Them"
+        },
         {
           "id": "5fff3e8b98be260817e495e9",
           "author": null,

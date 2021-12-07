@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-06T00:56:37.372Z</updated>
+    <updated>2021-12-07T00:57:27.395Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use an iPad for WordPress Theme Development]]></title>
+        <id>https://css-tricks.com/?p=357869</id>
+        <link href="https://css-tricks.com/how-to-use-an-ipad-for-wordpress-theme-development/"/>
+        <updated>2021-12-06T23:28:03.000Z</updated>
+        <summary type="html"><![CDATA[I recently started university and, before buying a MacBook Air (the M1 chips are amazing by the way), I had to use an iPad Pro for class. However, being a Computer Science student meant I had to find a way …]]></summary>
+        <author>
+            <name>Jakob Bouchard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Props (and Custom Properties as a System)]]></title>
+        <id>https://css-tricks.com/?p=358263</id>
+        <link href="https://css-tricks.com/open-props-and-custom-properties-as-a-system/"/>
+        <updated>2021-12-06T21:43:28.000Z</updated>
+        <summary type="html"><![CDATA[Perhaps the most basic and obvious use of CSS custom properties is design tokens. Colors, fonts, spacings, timings, and other atomic bits of design that you can pull from as you design a site. If you pretty much only pull …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hhhelpers]]></title>
+        <id>https://css-tricks.com/?p=358325</id>
+        <link href="https://css-tricks.com/hhhelpers/"/>
+        <updated>2021-12-06T21:43:15.000Z</updated>
+        <summary type="html"><![CDATA[I was just going on about how many awesome little helper sites there are out there, and now I’ve ran across another wonderful little hive of them. Sébastien Noël, under the name fffuel, has created a whole bunch of great …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Type Erasure in TypeScript?]]></title>
+        <id>61a1322f25888a07c3e1c124</id>
+        <link href="https://www.freecodecamp.org/news/what-is-type-erasure-in-typescript/"/>
+        <updated>2021-12-06T19:21:41.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript is a transpiled language, and there is a step in the process called type erasure. So what exactly is transpiling, and what is type erasure? Higher Level vs Lower Level Programming LanguagesBefore we explain further, we have to understand higher and lower level languages. Higher level languages are more]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Better Links For Websites And Emails: A Guideline]]></title>
+        <id>https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/</id>
+        <link href="https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/"/>
+        <updated>2021-12-06T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Slava Shestopalov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Rid of the Activate Windows Watermark [Windows 10 PC Activation Message Removal]]]></title>
+        <id>61ae22d7946db661defb7d18</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-rid-of-the-activate-windows-watermark-windows-10-pc-activation-message-removal/"/>
+        <updated>2021-12-06T16:00:21.000Z</updated>
+        <summary type="html"><![CDATA[If you're a Windows user, you might have seen the "Activate Windows" message that displays over every other thing – including your cursor. I guess they gave it a z-index of infinity.  This message gets displayed when you use a Windows OS that has an invalid or expired license.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reduce Your Website’s Environmental Impact With a Carbon Budget]]></title>
+        <id>https://css-tricks.com/?p=356833</id>
+        <link href="https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/"/>
+        <updated>2021-12-06T15:57:09.000Z</updated>
+        <summary type="html"><![CDATA[As I write this, world leaders are gathering in Glasgow for COP26, the international climate change conference, in the attempt to halt (or at least slow down) catastrophic climate change by pledging to end their countries’ dependence on fossil fuels. …]]></summary>
+        <author>
+            <name>Michelle Barker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Low framerate in Safari on M1 Mac]]></title>
         <id>https://css-tricks.com/?p=358206</id>

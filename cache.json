@@ -12,6 +12,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=357869",
+          "author": "Jakob Bouchard",
+          "description": "I recently started university and, before buying a MacBook Air (the M1 chips are amazing by the way), I had to use an iPad Pro for class. However, being a Computer Science student meant I had to find a way …",
+          "link": "https://css-tricks.com/how-to-use-an-ipad-for-wordpress-theme-development/",
+          "publishedOn": "2021-12-06T23:28:03.000Z",
+          "wordCount": 1781,
+          "title": "How to Use an iPad for WordPress Theme Development"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358263",
+          "author": "Chris Coyier",
+          "description": "Perhaps the most basic and obvious use of CSS custom properties is design tokens. Colors, fonts, spacings, timings, and other atomic bits of design that you can pull from as you design a site. If you pretty much only pull …",
+          "link": "https://css-tricks.com/open-props-and-custom-properties-as-a-system/",
+          "publishedOn": "2021-12-06T21:43:28.000Z",
+          "wordCount": 894,
+          "title": "Open Props (and Custom Properties as a System)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358325",
+          "author": "Chris Coyier",
+          "description": "I was just going on about how many awesome little helper sites there are out there, and now I’ve ran across another wonderful little hive of them. Sébastien Noël, under the name fffuel, has created a whole bunch of great …",
+          "link": "https://css-tricks.com/hhhelpers/",
+          "publishedOn": "2021-12-06T21:43:15.000Z",
+          "wordCount": 373,
+          "title": "hhhelpers"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356833",
+          "author": "Michelle Barker",
+          "description": "As I write this, world leaders are gathering in Glasgow for COP26, the international climate change conference, in the attempt to halt (or at least slow down) catastrophic climate change by pledging to end their countries’ dependence on fossil fuels. …",
+          "link": "https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/",
+          "publishedOn": "2021-12-06T15:57:09.000Z",
+          "wordCount": 1514,
+          "title": "Reduce Your Website’s Environmental Impact With a Carbon Budget"
+        },
+        {
           "id": "https://css-tricks.com/?p=358206",
           "author": "Chris Coyier",
           "description": "John James Jacoby:\nI recently noticed that animations in Safari were stuttering pretty badly on my M1 powered 2020 MacBook Air, and dove in to figure out why.\n\n\n\n\nThe why:\nThis wasn’t a bug. This was a feature.\n…",
@@ -388,6 +424,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/",
+          "author": "hello@smashingmagazine.com (Slava Shestopalov)",
+          "description": "There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.",
+          "link": "https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/",
+          "publishedOn": "2021-12-06T17:30:00.000Z",
+          "wordCount": 2547,
+          "title": "Designing Better Links For Websites And Emails: A Guideline",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b157db62-e93c-4607-9c84-698fad4da3b3/designing-better-links-websites-emails-guideline.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/",
           "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
           "description": "Are you ready for the countdown to Christmas? From [festive](https://www.smashingmagazine.com/2016/12/freebie-christmas-advent-icon-set-25-icons-ai-eps-svg-png-pdf/) [icon](https://www.smashingmagazine.com/2015/12/freebie-christmas-icons-illustrations/) [sets](https://www.smashingmagazine.com/2014/11/freebie-christmas-icon-set-ai-psd-eps-pdf-svg-png/) to advent calendars that are bound to sweeten your days with a delightful little surprise each morning, we’ve decided to join in on this lovely annual tradition and bring it all to one place. So prepare yourself a nice cup of coffee and get cozy — there’s always something new to learn and discover!",
@@ -660,6 +710,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61a1322f25888a07c3e1c124",
+          "author": null,
+          "description": "TypeScript is a transpiled language, and there is a step in the process called type erasure. So what exactly is transpiling, and what is type erasure? Higher Level vs Lower Level Programming LanguagesBefore we explain further, we have to understand higher and lower level languages. Higher level languages are more",
+          "link": "https://www.freecodecamp.org/news/what-is-type-erasure-in-typescript/",
+          "publishedOn": "2021-12-06T19:21:41.000Z",
+          "wordCount": 756,
+          "title": "What is Type Erasure in TypeScript?"
+        },
+        {
+          "id": "61ae22d7946db661defb7d18",
+          "author": null,
+          "description": "If you're a Windows user, you might have seen the \"Activate Windows\" message that displays over every other thing – including your cursor. I guess they gave it a z-index of infinity.  This message gets displayed when you use a Windows OS that has an invalid or expired license.",
+          "link": "https://www.freecodecamp.org/news/how-to-get-rid-of-the-activate-windows-watermark-windows-10-pc-activation-message-removal/",
+          "publishedOn": "2021-12-06T16:00:21.000Z",
+          "wordCount": 1003,
+          "title": "How to Get Rid of the Activate Windows Watermark [Windows 10 PC Activation Message Removal]"
+        },
         {
           "id": "61a7b9390c0c7407b2b3f076",
           "author": null,

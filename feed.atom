@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-08T00:57:01.521Z</updated>
+    <updated>2021-12-09T00:55:27.818Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Links on WordPress I]]></title>
+        <id>https://css-tricks.com/?p=358344</id>
+        <link href="https://css-tricks.com/links-on-wordpress-i/"/>
+        <updated>2021-12-08T21:32:33.000Z</updated>
+        <summary type="html"><![CDATA[I try to keep up with WordPress news because I’m a big WordPress user and have many production sites that run on it. WordPress has been good to me as a site builder for literally my entire career. So, like …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There Was a Problem with Resetting Your PC [Reset PC Fixed on Windows 10]]]></title>
+        <id>61b0ab56946db661defb8a16</id>
+        <link href="https://www.freecodecamp.org/news/there-was-a-problem-with-resetting-your-pc-reset-pc-fixed-on-windows-10/"/>
+        <updated>2021-12-08T17:20:41.000Z</updated>
+        <summary type="html"><![CDATA[There are a number of reasons why you might want to reset your PC. From malware attacks to bad PC health, or maybe you just want to start afresh – the list goes on.  When you're resetting your PC, you might get the error "There was a problem resetting your]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn From Remix]]></title>
+        <id>https://css-tricks.com/?p=357405</id>
+        <link href="https://css-tricks.com/learn-from-remix/"/>
+        <updated>2021-12-08T16:05:20.000Z</updated>
+        <summary type="html"><![CDATA[I’ve built websites that are used by millions of people all over the world. I’ve made more mistakes than I care to count and I’ve had to deal with the repercussions of those mistakes for years thereafter. Through all of …]]></summary>
+        <author>
+            <name>Kent C. Dodds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Invisible JavaScript Backdoor]]></title>
+        <id>https://css-tricks.com/?p=358496</id>
+        <link href="https://css-tricks.com/the-invisible-javascript-backdoor/"/>
+        <updated>2021-12-08T16:00:01.000Z</updated>
+        <summary type="html"><![CDATA[An interesting (scary) trick of an nearly undetectable exploit. Wolfgang Ettlinger:
+What if a backdoor literally cannot be seen and thus evades detection even from thorough code reviews?
+
+
+
+
+I’ll post the screenshot of the exploit from the post with the …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 2021 New Coder Survey – More than 18,000 People Share How and Why They are Learning to Code]]></title>
         <id>61a43b7925888a07c3e1d115</id>
@@ -1328,26 +1374,6 @@ The post Semantic menu context appeared first on CSS-Tricks. You can support CSS
         <summary type="html"><![CDATA[Internationalized routing is not exactly a new feature on Next.js. In this article, we are not only checking what we get from this feature, but also how to leverage such functionalities to achieve the best user experience and a smooth developer experience as well.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatically Transforming And Optimizing Images And Videos On Your WordPress Website]]></title>
-        <id>https://smashingmagazine.com/2021/11/transforming-optimizing-images-videos-wordpress-website/</id>
-        <link href="https://smashingmagazine.com/2021/11/transforming-optimizing-images-videos-wordpress-website/"/>
-        <updated>2021-11-09T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Leonardo Losoviz explains how Cloudinary’s integration can be used with WordPress to produce and deliver optimal digital experiences.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce]]></title>
-        <id>https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/</id>
-        <link href="https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/"/>
-        <updated>2021-11-08T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A great commerce experience is not a Lighthouse score or a set of Core Web Vitals figures (although both are important inputs), but it’s also a trilemma that carefully balances competing needs of delivering a great customer experience, dynamic storefront capabilities and long-term business objectives.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ilya Grigorik)</name>
         </author>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-11T00:55:04.502Z</updated>
+    <updated>2021-12-12T00:58:26.954Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
@@ -1534,37 +1534,6 @@ The post Other Looks at the Conditional Border Radius Trick appeared first on CS
 The post Interactive Rebase: Clean up your Commit History appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Tobias Günther</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful React Hooks That You Can Use In Your Projects]]></title>
-        <id>https://smashingmagazine.com/2021/11/useful-react-hooks/</id>
-        <link href="https://smashingmagazine.com/2021/11/useful-react-hooks/"/>
-        <updated>2021-11-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The React team introduced several hooks in React 16.8 which you can use from third-party providers in your application, or even create your own custom hook. In this tutorial, we’ll take a look at some of the most useful hooks in React and how to use them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ifeanyi Dike)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Semantic menu context]]></title>
-        <id>https://css-tricks.com/?p=356652</id>
-        <link href="https://css-tricks.com/semantic-menu-context/"/>
-        <updated>2021-11-11T20:07:40.000Z</updated>
-        <summary type="html"><![CDATA[Scott digs into the history of the <menu> element. He traced it as far back as HTML 2 (!) in a 1994 changelog. The vibe then, it seems, was to mark up a list. I would suspect the intention …
-The post Semantic menu context appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Good To Great In Dashboard Design: Research, Decluttering And Data Viz]]></title>
-        <id>https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/</id>
-        <link href="https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/"/>
-        <updated>2021-11-11T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dribbbleshots just might be the hotbed of questionable dashboards. Striking visuals, little context, and no research: all recipes for mediocrity. Mediocrity won’t do. We’ll pursue greatness. And in that pursuit, we’ll cover research, decluttering, and data visualization.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adam Fard)</name>
         </author>
     </entry>
 </feed>

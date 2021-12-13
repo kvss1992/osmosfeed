@@ -523,24 +523,6 @@
           "publishedOn": "2021-11-15T15:32:13.000Z",
           "wordCount": 4457,
           "title": "Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356304",
-          "author": "Chris Coyier",
-          "description": "Remember when Ahmad Shadeed wrote about that border-radius “toggle” he found in Facebook’s CSS? It was interesting! I covered it. A few weeks after that surge of linkage, a couple of articles came out digging into it a little deeper. …\nThe post Other Looks at the Conditional Border Radius Trick appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/other-looks-at-the-conditional-border-radius-trick/",
-          "publishedOn": "2021-11-12T23:54:00.000Z",
-          "wordCount": 1106,
-          "title": "Other Looks at the Conditional Border Radius Trick"
-        },
-        {
-          "id": "https://css-tricks.com/?p=355658",
-          "author": "Tobias Günther",
-          "description": "Interactive Rebase is the Swiss Army knife of Git commands: lots of use cases and lots of possibilities! It's really a great addition to any developer's tool chain, because it lets you revise your local commit history—before you share your work with the rest of the team. Let's see what you can do with an interactive rebase and then look at some practical examples.\nThe post Interactive Rebase: Clean up your Commit History appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/interactive-rebase-clean-up-your-commit-history/",
-          "publishedOn": "2021-11-12T15:16:24.000Z",
-          "wordCount": 1893,
-          "title": "Interactive Rebase: Clean up your Commit History"
         }
       ]
     },

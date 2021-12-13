@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-12T00:58:26.954Z</updated>
+    <updated>2021-12-13T00:56:08.225Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
@@ -1512,28 +1512,6 @@ The post Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library appe
         <summary type="html"><![CDATA[What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Louis Lazaris)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Other Looks at the Conditional Border Radius Trick]]></title>
-        <id>https://css-tricks.com/?p=356304</id>
-        <link href="https://css-tricks.com/other-looks-at-the-conditional-border-radius-trick/"/>
-        <updated>2021-11-12T23:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Remember when Ahmad Shadeed wrote about that border-radius “toggle” he found in Facebook’s CSS? It was interesting! I covered it. A few weeks after that surge of linkage, a couple of articles came out digging into it a little deeper. …
-The post Other Looks at the Conditional Border Radius Trick appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interactive Rebase: Clean up your Commit History]]></title>
-        <id>https://css-tricks.com/?p=355658</id>
-        <link href="https://css-tricks.com/interactive-rebase-clean-up-your-commit-history/"/>
-        <updated>2021-11-12T15:16:24.000Z</updated>
-        <summary type="html"><![CDATA[Interactive Rebase is the Swiss Army knife of Git commands: lots of use cases and lots of possibilities! It's really a great addition to any developer's tool chain, because it lets you revise your local commit history—before you share your work with the rest of the team. Let's see what you can do with an interactive rebase and then look at some practical examples.
-The post Interactive Rebase: Clean up your Commit History appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Tobias Günther</name>
         </author>
     </entry>
 </feed>

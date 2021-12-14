@@ -2,10 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-13T00:56:08.225Z</updated>
+    <updated>2021-12-14T00:58:59.645Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Scale a Distributed System]]></title>
+        <id>61b5815307222107a6c78cf7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-scale-a-distributed-system/"/>
+        <updated>2021-12-13T23:37:24.000Z</updated>
+        <summary type="html"><![CDATA[Designing a distributed system that supports millions of users is a complex task, and one that requires continuous improvement and refinement.  Recently I read a book by Alex Xu called "System Design Interview – An Insider's Guide". This article, inspired by the first part of the book, shares some popular techniques]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Requests – How to Interact with Web Services using Python]]></title>
+        <id>61b3865f07222107a6c7822e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-interact-with-web-services-using-python/"/>
+        <updated>2021-12-13T23:03:42.000Z</updated>
+        <summary type="html"><![CDATA[An API, or Application Programming Interface, is a server that lets you retrieve and send data using code. We mostly commonly use APIs to retrieve data, and that will be the focus of this beginner-friendly tutorial. When we want to receive data from an API, we need to make a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-Tricks Chronicle XXXXI]]></title>
+        <id>https://css-tricks.com/?p=358436</id>
+        <link href="https://css-tricks.com/css-tricks-chronicle-xxxxi/"/>
+        <updated>2021-12-13T22:55:14.000Z</updated>
+        <summary type="html"><![CDATA[Ya know, I used to do one of these posts after making a few podcast appearances I hadn’t had a chance to link up yet, so I could share them. As fate would have it, I haven’t been on many …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[File Scaffolding With Hygen]]></title>
+        <id>https://css-tricks.com/?p=359002</id>
+        <link href="https://css-tricks.com/file-scaffolding-with-hygen/"/>
+        <updated>2021-12-13T22:05:20.000Z</updated>
+        <summary type="html"><![CDATA[I read a a recent Smashing Magazine post that recommendation Hygen. I just happen to be doing quite a bit of new UI work in a Next.js app and the amount of manual folder/file scaffolding I was doing was …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Classes – How They Work with Use Case Example]]></title>
+        <id>61aca6a8946db661defb7a86</id>
+        <link href="https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/"/>
+        <updated>2021-12-13T19:24:50.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post I'll walk you through a real life example which uses the concept of classes in Javascript.  I think it's helpful to work with a practical use case because it is much simpler to understand the concepts when you can relate them to real life.  So in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shadow Palette Generator]]></title>
+        <id>https://css-tricks.com/?p=358926</id>
+        <link href="https://css-tricks.com/shadow-palette-generator/"/>
+        <updated>2021-12-13T18:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Josh’s Shadow Palette Generator is a fantastic tool. The premise is that box-shadow pretty much always looks better when there are multiple layered shadows that are a bit tinted. It reminds me of how gradients almost always look better when …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solo Freelancing vs Agency – What&#x27;s The Difference?]]></title>
+        <id>61783e5e33422e07df364ce7</id>
+        <link href="https://www.freecodecamp.org/news/solo-freelancing-vs-agency/"/>
+        <updated>2021-12-13T17:18:18.000Z</updated>
+        <summary type="html"><![CDATA[People often ask me: Should I present myself as a solo freelancer or as an agency?In this article I will explore this idea with you and hopefully leave you with a clearer sense of direction. TL;DR: You can do both. The Benefits of Solo vs Agency FreelancingWhether you]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Share Screen on Android – How to Cast my Screen with a Windows 10 PC]]></title>
+        <id>61b760fc07222107a6c79303</id>
+        <link href="https://www.freecodecamp.org/news/share-screen-on-android-how-to-cast-my-screen-with-a-windows-10-pc/"/>
+        <updated>2021-12-13T17:09:33.000Z</updated>
+        <summary type="html"><![CDATA[Screencasting is a cool feature that was built into the Windows 10 Anniversary update in 2019.  It's also called Wireless Display. It lets you project your phone display to a Windows 10 computer – which can help you out in a lot of ways, especially if you’re a YouTuber.  Getting]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Python – Free Python Courses for Beginners]]></title>
+        <id>61b20893946db661defb946a</id>
+        <link href="https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/"/>
+        <updated>2021-12-13T16:57:33.000Z</updated>
+        <summary type="html"><![CDATA[Python is a great programming language to learn and you can use it in a variety of areas in software development.  You can use Python for web development, data analysis, machine learning, artificial intelligence, and more. In this article, I will list out 15 free Python courses for beginners.  Learn]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Become a Full Stack Developer with Svelte, Postgres, Vercel, and Gitpod]]></title>
+        <id>61b76db107222107a6c79384</id>
+        <link href="https://www.freecodecamp.org/news/become-a-full-stack-developer-with-svelte/"/>
+        <updated>2021-12-13T16:23:09.000Z</updated>
+        <summary type="html"><![CDATA[Full stack web development includes the backend that happens on a server and the frontend that happens on a web browser. New tools are making it easier than ever to create a full stack web app. We just published a full stack web development course on the freeCodeCamp.org YouTube]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embrace the Platform]]></title>
+        <id>https://css-tricks.com/?p=358612</id>
+        <link href="https://css-tricks.com/embrace-the-platform/"/>
+        <updated>2021-12-13T15:18:08.000Z</updated>
+        <summary type="html"><![CDATA[So what is the one thing that people can do is to make their website better? To answer that, let’s take a step back in time …
+The year is 1998, and the web is on the rise. In an …]]></summary>
+        <author>
+            <name>Bramus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ship a Full-Stack App in Days with AWS Amplify Studio]]></title>
+        <id>https://css-tricks.com/?p=358450</id>
+        <link href="https://css-tricks.com/ship-a-full-stack-app-in-days-with-aws-amplify-studio/"/>
+        <updated>2021-12-13T15:17:24.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Amazon has a vision with AWS Amplify. First, a premise:
+As browsers have become faster and more powerful over the last decade, front-end developers are building web apps that are more feature-rich and …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why would a business push a native app over a website?]]></title>
         <id>https://css-tricks.com/?p=356088</id>

@@ -2,10 +2,108 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-14T00:58:59.645Z</updated>
+    <updated>2021-12-15T00:55:23.247Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Read Your Website]]></title>
+        <id>https://css-tricks.com/?p=356603</id>
+        <link href="https://css-tricks.com/read-your-website/"/>
+        <updated>2021-12-14T22:37:26.000Z</updated>
+        <summary type="html"><![CDATA[When’s the last time you read your website? Like out loud in the lobby of a Starbucks on a weekday afternoon, over the phone to your parents, or perhaps even as a bedtime story for your kids.
+No worries, this …]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faulty logic]]></title>
+        <id>https://css-tricks.com/?p=359180</id>
+        <link href="https://css-tricks.com/faulty-logic/"/>
+        <updated>2021-12-14T22:28:29.000Z</updated>
+        <summary type="html"><![CDATA[Ain’t this the truth:
+It’s like when you’re learning a new language. At some point your brain goes from translating from your mother tongue into the other language, and instead starts thinking in that other language.
+
+
+
+
+I don’t speak …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Router Version 6 Tutorial – How to Set Up Router and Route to Other Components]]></title>
+        <id>61b6941b07222107a6c78e39</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-react-router-version-6/"/>
+        <updated>2021-12-14T21:41:14.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we'll talk about what React Router is and how to use it. Then we'll discuss its features and how to use them in your React app to navigate to and render multiple components.  PrerequisitesA React appA good understanding of what components are in React. Node.js installed.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the .github Repository]]></title>
+        <id>61b8699d07222107a6c79cf7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/"/>
+        <updated>2021-12-14T18:01:15.000Z</updated>
+        <summary type="html"><![CDATA[GitHub has many special repositories, like the README in your profile. You can get creative and add all sorts of helpful information there. Another special repository is the .github repository. This might remind you of the .github directory in repositories which house workflows, issue templates, pull request templates, funding information,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Secure Server with Node.js and Express and Upload Images with Cloudinary]]></title>
+        <id>61b72c5d07222107a6c79095</id>
+        <link href="https://www.freecodecamp.org/news/build-a-secure-server-with-node-and-express/"/>
+        <updated>2021-12-14T16:51:14.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will learn how to create a server. We will begin without express and then strengthen the server using express. After that, we will see how to upload images to Cloudinary from the app we have created. I assume that you already understand the basics of Node.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Think Without Boxes]]></title>
+        <id>https://css-tricks.com/?p=357660</id>
+        <link href="https://css-tricks.com/think-without-boxes/"/>
+        <updated>2021-12-14T15:38:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s the one thing people can do to make their website better? Now that is a good question. One with many right answers, like improving performance, taking care of accessibility, and upgrading user experience as prime examples. These are all …]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’m confused about Static Site Generators. Are they only for informational sites where I can’t log in or display any dynamic data?]]></title>
+        <id>https://css-tricks.com/?p=358672</id>
+        <link href="https://css-tricks.com/confused-about-ssgs/"/>
+        <updated>2021-12-14T15:35:04.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+I got this question from a listener the other day. Fair question, I’d say. The word “Static” in “Static Site Generator” is at-odds with the word “Dynamic.” It seems to imply that the website …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing Your Apps - What is DevSecOps?]]></title>
+        <id>6172cfe3d48e1707b6d79bc9</id>
+        <link href="https://www.freecodecamp.org/news/what-is-devsecops/"/>
+        <updated>2021-12-14T14:08:56.000Z</updated>
+        <summary type="html"><![CDATA[Every day major companies have vulnerabilities exploited in their software. It is important to learn how to protect your applications against data breaches.  In this article you all about DevSecOps and web security. There is a video course that goes along with this article. The article focuses on the definitions]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modifying Headers In HTTP(s) Requests In UI Automation Testing]]></title>
+        <id>https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/</id>
+        <link href="https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/"/>
+        <updated>2021-12-14T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nafees Nehar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Scale a Distributed System]]></title>
         <id>61b5815307222107a6c78cf7</id>

@@ -12,6 +12,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=356603",
+          "author": "Geoff Graham",
+          "description": "When’s the last time you read your website? Like out loud in the lobby of a Starbucks on a weekday afternoon, over the phone to your parents, or perhaps even as a bedtime story for your kids.\nNo worries, this …",
+          "link": "https://css-tricks.com/read-your-website/",
+          "publishedOn": "2021-12-14T22:37:26.000Z",
+          "wordCount": 1533,
+          "title": "Read Your Website"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359180",
+          "author": "Chris Coyier",
+          "description": "Ain’t this the truth:\nIt’s like when you’re learning a new language. At some point your brain goes from translating from your mother tongue into the other language, and instead starts thinking in that other language.\n\n\n\n\nI don’t speak …",
+          "link": "https://css-tricks.com/faulty-logic/",
+          "publishedOn": "2021-12-14T22:28:29.000Z",
+          "wordCount": 715,
+          "title": "Faulty logic"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357660",
+          "author": "Amit Sheen",
+          "description": "What’s the one thing people can do to make their website better? Now that is a good question. One with many right answers, like improving performance, taking care of accessibility, and upgrading user experience as prime examples. These are all …",
+          "link": "https://css-tricks.com/think-without-boxes/",
+          "publishedOn": "2021-12-14T15:38:00.000Z",
+          "wordCount": 779,
+          "title": "Think Without Boxes"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358672",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nI got this question from a listener the other day. Fair question, I’d say. The word “Static” in “Static Site Generator” is at-odds with the word “Dynamic.” It seems to imply that the website …",
+          "link": "https://css-tricks.com/confused-about-ssgs/",
+          "publishedOn": "2021-12-14T15:35:04.000Z",
+          "wordCount": 619,
+          "title": "I’m confused about Static Site Generators. Are they only for informational sites where I can’t log in or display any dynamic data?"
+        },
+        {
           "id": "https://css-tricks.com/?p=358436",
           "author": "Chris Coyier",
           "description": "Ya know, I used to do one of these posts after making a few podcast appearances I hadn’t had a chance to link up yet, so I could share them. As fate would have it, I haven’t been on many …",
@@ -577,6 +613,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
+          "author": "hello@smashingmagazine.com (Nafees Nehar)",
+          "description": "To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.",
+          "link": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
+          "publishedOn": "2021-12-14T10:30:00.000Z",
+          "wordCount": 2062,
+          "title": "Modifying Headers In HTTP(s) Requests In UI Automation Testing",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8590d77e-8181-4d36-9e2e-d4e9c76a893a/headers-https-requests-ui-automation-testing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Everybody loves a nice freebie, right? To get you in the mood for the upcoming holidays, we collected some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free. Enjoy!",
@@ -807,6 +857,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61b6941b07222107a6c78e39",
+          "author": null,
+          "description": "In this tutorial, we'll talk about what React Router is and how to use it. Then we'll discuss its features and how to use them in your React app to navigate to and render multiple components.  PrerequisitesA React appA good understanding of what components are in React. Node.js installed.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-react-router-version-6/",
+          "publishedOn": "2021-12-14T21:41:14.000Z",
+          "wordCount": 1335,
+          "title": "React Router Version 6 Tutorial – How to Set Up Router and Route to Other Components"
+        },
+        {
+          "id": "61b8699d07222107a6c79cf7",
+          "author": null,
+          "description": "GitHub has many special repositories, like the README in your profile. You can get creative and add all sorts of helpful information there. Another special repository is the .github repository. This might remind you of the .github directory in repositories which house workflows, issue templates, pull request templates, funding information,",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/",
+          "publishedOn": "2021-12-14T18:01:15.000Z",
+          "wordCount": 2087,
+          "title": "How to Use the .github Repository"
+        },
+        {
+          "id": "61b72c5d07222107a6c79095",
+          "author": null,
+          "description": "In this tutorial, we will learn how to create a server. We will begin without express and then strengthen the server using express. After that, we will see how to upload images to Cloudinary from the app we have created. I assume that you already understand the basics of Node.",
+          "link": "https://www.freecodecamp.org/news/build-a-secure-server-with-node-and-express/",
+          "publishedOn": "2021-12-14T16:51:14.000Z",
+          "wordCount": 2837,
+          "title": "How to Build a Secure Server with Node.js and Express and Upload Images with Cloudinary"
+        },
+        {
+          "id": "6172cfe3d48e1707b6d79bc9",
+          "author": null,
+          "description": "Every day major companies have vulnerabilities exploited in their software. It is important to learn how to protect your applications against data breaches.  In this article you all about DevSecOps and web security. There is a video course that goes along with this article. The article focuses on the definitions",
+          "link": "https://www.freecodecamp.org/news/what-is-devsecops/",
+          "publishedOn": "2021-12-14T14:08:56.000Z",
+          "wordCount": 2454,
+          "title": "Securing Your Apps - What is DevSecOps?"
+        },
         {
           "id": "61b5815307222107a6c78cf7",
           "author": null,

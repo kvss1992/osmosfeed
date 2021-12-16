@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-15T00:55:23.247Z</updated>
+    <updated>2021-12-16T00:55:41.448Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maybe there kinda is background-opacity?]]></title>
+        <id>https://css-tricks.com/?p=359032</id>
+        <link href="https://css-tricks.com/maybe-there-kinda-is-background-opacity/"/>
+        <updated>2021-12-15T22:27:07.000Z</updated>
+        <summary type="html"><![CDATA[I was reading Jake’s “Cross-fading any two DOM elements is currently impossible” which is a wonderfully nerdy deep dive into how there is no real way to literally cross-fade elements. Yeah, you can animate both of their opacities, but even …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Vite Ecosystem]]></title>
+        <id>https://css-tricks.com/?p=359234</id>
+        <link href="https://css-tricks.com/the-vite-ecosystem/"/>
+        <updated>2021-12-15T20:58:30.000Z</updated>
+        <summary type="html"><![CDATA[Matias Capeletto covers the breadth of Vite, from the technological shoulders it stands on, to the peers exploring similar territory, to the other technologies it supports, to the frameworks that now use it primarily, and more. The fact that …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Skills All New Frontend Developers Should Have]]></title>
+        <id>61ae2a2e946db661defb7dda</id>
+        <link href="https://www.freecodecamp.org/news/top-skills-for-new-frontend-developers/"/>
+        <updated>2021-12-15T16:56:37.000Z</updated>
+        <summary type="html"><![CDATA[As a frontend developer, it's your job to make sure that the user interface of a software program functions properly.  It's a difficult job because you have to make sure that every component works the way it's supposed to so that users have a good experience. Frontend development is in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Modules – A Beginner&#x27;s Guide]]></title>
+        <id>61b6846607222107a6c78d81</id>
+        <link href="https://www.freecodecamp.org/news/javascript-modules-beginners-guide/"/>
+        <updated>2021-12-15T16:47:38.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript modules (also known as ES modules or ECMAScript modules) were created to help make JavaScript code more organized and maintainable. Understanding how ES modules work will help you become a better JavaScript developer. In this article, we'll cover: What is a module?What are ES modules? Why do we]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linked Lists in Technical Interviews]]></title>
+        <id>61ba06ac07222107a6c7a6f4</id>
+        <link href="https://www.freecodecamp.org/news/linked-lists-in-technical-interviews/"/>
+        <updated>2021-12-15T15:22:28.000Z</updated>
+        <summary type="html"><![CDATA[A linked list is a common data structure used in software development. It is also a frequent topic in technical coding interviews. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about linked lists and prepare you to use them in coding interviews]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove Trackers]]></title>
+        <id>https://css-tricks.com/?p=358026</id>
+        <link href="https://css-tricks.com/remove-trackers/"/>
+        <updated>2021-12-15T15:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week, I tried out a starter theme for a blog platform. The theme had loads of nice default features: pretty typography, fancy navigation, dark mode widget… and a couple of default trackers I really don’t want just sitting …]]></summary>
+        <author>
+            <name>Laura Kalbag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The UI fund]]></title>
+        <id>https://css-tricks.com/?p=359107</id>
+        <link href="https://css-tricks.com/the-ui-fund/"/>
+        <updated>2021-12-15T15:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Google is handing out bucks for CSS-related projects, so you might as well know about it! Nicole Sullivan:
+All of us who work on the web regularly benefit from the work of people who create specifications, tools, demos, tutorials, and 
+…]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Touch Design For Mobile Interfaces: Defining Mobile Devices (Excerpt)]]></title>
+        <id>https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/</id>
+        <link href="https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/"/>
+        <updated>2021-12-15T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Before we can talk about how people interact, much less how to take advantage of that knowledge and design, it’s important to understand a bit about the history, the technology, and what today counts as a mobile touchscreen device at all.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Steven Hoober)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Read Your Website]]></title>
         <id>https://css-tricks.com/?p=356603</id>
@@ -1701,38 +1783,6 @@ The post Generate a Pull Request of Static Content With a Simple HTML Form appea
 The post Jamstack TV appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Color Alpha Anywhere]]></title>
-        <id>https://css-tricks.com/?p=356611</id>
-        <link href="https://css-tricks.com/color-alpha-anywhere/"/>
-        <updated>2021-11-16T01:03:32.000Z</updated>
-        <summary type="html"><![CDATA[In my “Different Degrees of Custom Property Usage” article, I noted a situation about colors and CSS custom properties where I went “too far” with breaking up HSL color values. Breaking every single color into its H, S, and L parts …
-The post Color Alpha Anywhere appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library]]></title>
-        <id>https://css-tricks.com/?p=355894</id>
-        <link href="https://css-tricks.com/defining-and-applying-ui-themes-using-the-mimcss-css-in-js-library/"/>
-        <updated>2021-11-15T15:32:13.000Z</updated>
-        <summary type="html"><![CDATA[Theming UI refers to the ability to perform a change in visual styles in a consistent manner that defines the “look and feel” of a site. Swapping color palettes, à la dark mode or some other means, is a good …
-The post Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Michael Michlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development]]></title>
-        <id>https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/</id>
-        <link href="https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/"/>
-        <updated>2021-11-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Louis Lazaris)</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359032",
+          "author": "Chris Coyier",
+          "description": "I was reading Jake’s “Cross-fading any two DOM elements is currently impossible” which is a wonderfully nerdy deep dive into how there is no real way to literally cross-fade elements. Yeah, you can animate both of their opacities, but even …",
+          "link": "https://css-tricks.com/maybe-there-kinda-is-background-opacity/",
+          "publishedOn": "2021-12-15T22:27:07.000Z",
+          "wordCount": 562,
+          "title": "Maybe there kinda is background-opacity?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359234",
+          "author": "Chris Coyier",
+          "description": "Matias Capeletto covers the breadth of Vite, from the technological shoulders it stands on, to the peers exploring similar territory, to the other technologies it supports, to the frameworks that now use it primarily, and more. The fact that …",
+          "link": "https://css-tricks.com/the-vite-ecosystem/",
+          "publishedOn": "2021-12-15T20:58:30.000Z",
+          "wordCount": 516,
+          "title": "The Vite Ecosystem"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358026",
+          "author": "Laura Kalbag",
+          "description": "Earlier this week, I tried out a starter theme for a blog platform. The theme had loads of nice default features: pretty typography, fancy navigation, dark mode widget… and a couple of default trackers I really don’t want just sitting …",
+          "link": "https://css-tricks.com/remove-trackers/",
+          "publishedOn": "2021-12-15T15:20:14.000Z",
+          "wordCount": 1258,
+          "title": "Remove Trackers"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359107",
+          "author": "Chris Coyier",
+          "description": "Google is handing out bucks for CSS-related projects, so you might as well know about it! Nicole Sullivan:\nAll of us who work on the web regularly benefit from the work of people who create specifications, tools, demos, tutorials, and \n…",
+          "link": "https://css-tricks.com/the-ui-fund/",
+          "publishedOn": "2021-12-15T15:18:29.000Z",
+          "wordCount": 540,
+          "title": "The UI fund"
+        },
+        {
           "id": "https://css-tricks.com/?p=356603",
           "author": "Geoff Graham",
           "description": "When’s the last time you read your website? Like out loud in the lobby of a Starbucks on a weekday afternoon, over the phone to your parents, or perhaps even as a bedtime story for your kids.\nNo worries, this …",
@@ -586,24 +622,6 @@
           "publishedOn": "2021-11-16T15:35:36.000Z",
           "wordCount": 424,
           "title": "Jamstack TV"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356611",
-          "author": "Chris Coyier",
-          "description": "In my “Different Degrees of Custom Property Usage” article, I noted a situation about colors and CSS custom properties where I went “too far” with breaking up HSL color values. Breaking every single color into its H, S, and L parts …\nThe post Color Alpha Anywhere appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/color-alpha-anywhere/",
-          "publishedOn": "2021-11-16T01:03:32.000Z",
-          "wordCount": 1031,
-          "title": "Color Alpha Anywhere"
-        },
-        {
-          "id": "https://css-tricks.com/?p=355894",
-          "author": "Michael Michlin",
-          "description": "Theming UI refers to the ability to perform a change in visual styles in a consistent manner that defines the “look and feel” of a site. Swapping color palettes, à la dark mode or some other means, is a good …\nThe post Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/defining-and-applying-ui-themes-using-the-mimcss-css-in-js-library/",
-          "publishedOn": "2021-11-15T15:32:13.000Z",
-          "wordCount": 4457,
-          "title": "Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library"
         }
       ]
     },
@@ -612,6 +630,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/",
+          "author": "hello@smashingmagazine.com (Steven Hoober)",
+          "description": "Before we can talk about how people interact, much less how to take advantage of that knowledge and design, it’s important to understand a bit about the history, the technology, and what today counts as a mobile touchscreen device at all.",
+          "link": "https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/",
+          "publishedOn": "2021-12-15T11:30:00.000Z",
+          "wordCount": 2499,
+          "title": "Touch Design For Mobile Interfaces: Defining Mobile Devices (Excerpt)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9e9a3814-1de8-4be8-87c4-a14712d76776/1-touch-design-mobile-interfaces-devices.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
           "author": "hello@smashingmagazine.com (Nafees Nehar)",
@@ -835,20 +867,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/",
-          "author": "hello@smashingmagazine.com (Louis Lazaris)",
-          "description": "What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.",
-          "link": "https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/",
-          "publishedOn": "2021-11-15T13:00:00.000Z",
-          "wordCount": 2147,
-          "title": "Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a2d3081a-5a36-4763-9b94-13bf7d1cb5d6/powerful-terminal-commandline-tools-modern-web-development.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -857,6 +875,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61ae2a2e946db661defb7dda",
+          "author": null,
+          "description": "As a frontend developer, it's your job to make sure that the user interface of a software program functions properly.  It's a difficult job because you have to make sure that every component works the way it's supposed to so that users have a good experience. Frontend development is in",
+          "link": "https://www.freecodecamp.org/news/top-skills-for-new-frontend-developers/",
+          "publishedOn": "2021-12-15T16:56:37.000Z",
+          "wordCount": 1551,
+          "title": "Top Skills All New Frontend Developers Should Have"
+        },
+        {
+          "id": "61b6846607222107a6c78d81",
+          "author": null,
+          "description": "JavaScript modules (also known as ES modules or ECMAScript modules) were created to help make JavaScript code more organized and maintainable. Understanding how ES modules work will help you become a better JavaScript developer. In this article, we'll cover: What is a module?What are ES modules? Why do we",
+          "link": "https://www.freecodecamp.org/news/javascript-modules-beginners-guide/",
+          "publishedOn": "2021-12-15T16:47:38.000Z",
+          "wordCount": 1838,
+          "title": "JavaScript Modules – A Beginner&#x27;s Guide"
+        },
+        {
+          "id": "61ba06ac07222107a6c7a6f4",
+          "author": null,
+          "description": "A linked list is a common data structure used in software development. It is also a frequent topic in technical coding interviews. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about linked lists and prepare you to use them in coding interviews",
+          "link": "https://www.freecodecamp.org/news/linked-lists-in-technical-interviews/",
+          "publishedOn": "2021-12-15T15:22:28.000Z",
+          "wordCount": 366,
+          "title": "Linked Lists in Technical Interviews"
+        },
         {
           "id": "61b6941b07222107a6c78e39",
           "author": null,

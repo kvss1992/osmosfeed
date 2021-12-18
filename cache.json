@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359489",
+          "author": "Chris Coyier",
+          "description": "Just the first sentence alone here from Stepanie Yee and Tony Chu is solid:\nIn machine learning, computers apply statistical learning techniques to automatically identify patterns in data. These techniques can be used to make highly accurate predictions.\n\n\n\n\nAnd what …",
+          "link": "https://css-tricks.com/a-visual-introduction-to-machine-learning/",
+          "publishedOn": "2021-12-17T21:17:31.000Z",
+          "wordCount": 568,
+          "title": "A visual introduction to machine learning"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357625",
+          "author": "Jenn Lukas",
+          "description": "What’s one thing we can do to make our site better? Maybe nothing at all!\nOur websites keep getting bigger and bigger! When we have a team with so many exciting ideas and such interesting technology, it can be easy …",
+          "link": "https://css-tricks.com/maybe-nothing/",
+          "publishedOn": "2021-12-17T15:21:15.000Z",
+          "wordCount": 857,
+          "title": "Maybe Nothing"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359430",
+          "author": "Chris Coyier",
+          "description": "Huh! I did not realize that CSS custom properties had their own resolution behavior for how !important works in their values. Uh, despite writing a guide about them. 😬 But hey it’s now updated.\nStefan Judis documents it clearly. …",
+          "link": "https://css-tricks.com/the-surprising-behavior-of-important-in-css-custom-property-values/",
+          "publishedOn": "2021-12-17T15:19:08.000Z",
+          "wordCount": 687,
+          "title": "The surprising behavior of !important in CSS custom property values"
+        },
+        {
           "id": "https://css-tricks.com/?p=358029",
           "author": "Andy Bell",
           "description": "When Chris first sent me this prompt, I was thinking about writing about progressive enhancement, but that subject is so wide-reaching to be one thing and all too predictable, especially for those already familiar with my writing. Saying that, what …",
@@ -586,42 +613,6 @@
           "publishedOn": "2021-11-18T15:38:51.000Z",
           "wordCount": 2119,
           "title": "PHP Date and Time Recipes"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356895",
-          "author": "Chris Coyier",
-          "description": "I feel like half of all “custom-designed radio buttons and checkboxes” do two things:\nMake them bigger\nColorize them\nI always think of SurveyMonkey for having big chunky radios and checkboxes. And indeed, just poking at their interface quickly, even …\nThe post Zero Trickery Custom Radios and Checkboxes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/zero-trickery-custom-radios-and-checkboxes/",
-          "publishedOn": "2021-11-18T00:16:17.000Z",
-          "wordCount": 855,
-          "title": "Zero Trickery Custom Radios and Checkboxes"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356885",
-          "author": "Chris Coyier",
-          "description": "Like this: <input type=\"search\">\nYou get an extra-round-y appearance in Safari, which at one time matched the macOS look for search inputs, but not really anymore. I don’t hate the look, except…\nSafari totally ignores the font-size you set on \n…\nThe post What do you get for using a search input type? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/what-do-you-get-for-using-a-search-input-type/",
-          "publishedOn": "2021-11-17T23:09:46.000Z",
-          "wordCount": 691,
-          "title": "What do you get for using a search input type?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356700",
-          "author": "Tobias Günther",
-          "description": "In part 5 of this series, we looked at rebasing and merging. Although there are a couple of differences between git merge and git rebase, both commands have the same goal: they integrate changes from one branch into another.\nThe post Cherry-Picking Commits in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/cherry-picking-commits-in-git/",
-          "publishedOn": "2021-11-17T15:28:22.000Z",
-          "wordCount": 1350,
-          "title": "Cherry-Picking Commits in Git"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357023",
-          "author": "Chris Coyier",
-          "description": "Egor Kloos describes a situation where a (purely visual) designer asks for some changes to a component. There is a misunderstanding where the (code monkey) developer implements the change exactly as requested—but really what was required was both a bug …\nThe post The Gap (Design Engineering) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-gap-design-engineering/",
-          "publishedOn": "2021-11-17T15:27:19.000Z",
-          "wordCount": 776,
-          "title": "The Gap (Design Engineering)"
         }
       ]
     },
@@ -630,6 +621,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
+          "author": "hello@smashingmagazine.com (Nick Babich & Gleb Kuznetsov)",
+          "description": "Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.",
+          "link": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
+          "publishedOn": "2021-12-17T14:30:00.000Z",
+          "wordCount": 3396,
+          "title": "Designing Human-Machine Interfaces For Vehicles Of The Future",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d9f919a-44bf-46ef-bfff-ee673c58e83f/designing-human-machine-interfaces-future-vehicles.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
+          "author": "hello@smashingmagazine.com (Nwani Victory)",
+          "description": "In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.",
+          "link": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
+          "publishedOn": "2021-12-17T13:30:00.000Z",
+          "wordCount": 5437,
+          "title": "Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/346f3641-b7be-486d-8ac9-327ffe00e232/billing-management-saas-stripe-azure-functions.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/",
           "author": "hello@smashingmagazine.com (Steven Hoober)",
@@ -839,20 +858,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.",
-          "link": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
-          "publishedOn": "2021-11-17T16:00:00.000Z",
-          "wordCount": 3489,
-          "title": "A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b424cd2e-1e44-4ca2-8506-4e45a5bdb570/guide-modern-css-colors.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -861,6 +866,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61b9cd2a07222107a6c7a467",
+          "author": null,
+          "description": "Have you ever read your horoscope in the newspaper or seen it on television? Well, I'm not sure about other countries, but in my country of India, people still read their horoscopes.  And this is where I got the idea for this tutorial. It might sound a bit old-fashioned, but",
+          "link": "https://www.freecodecamp.org/news/python-project-build-an-api-with-beautiful-soup-and-flask/",
+          "publishedOn": "2021-12-17T18:29:53.000Z",
+          "wordCount": 2449,
+          "title": "Python Project – How to Create a Horoscope API with Beautiful Soup and Flask"
+        },
+        {
+          "id": "60c08960d3126007592d56fd",
+          "author": null,
+          "description": "HTML(Hyper Text Markup Language) is one of the languages we use to create web applications. It adds structure to your web pages. HTML has various tags we use to create elements. And multiple elements come together to create meaningful web pages and applications. The anchor tag is one of",
+          "link": "https://www.freecodecamp.org/news/the-html-a-tag-anchor-tag-example-code/",
+          "publishedOn": "2021-12-17T17:47:31.000Z",
+          "wordCount": 2077,
+          "title": "The HTML &lt;a&gt; Tag – Anchor Tag Example Code"
+        },
         {
           "id": "61b8daa807222107a6c7a204",
           "author": null,
@@ -1607,42 +1630,6 @@
           "publishedOn": "2021-11-18T14:42:26.000Z",
           "wordCount": 313,
           "title": "Advanced Git Tools—Interactive Rebase, Cherry-Picking, Reflog, and more"
-        },
-        {
-          "id": "61971c7611d3cb08287a8d83",
-          "author": null,
-          "description": "I recently updated to MacOS Monterey (Version 12.0). Sometimes software companies like Apple will add features I don't like, then enable them by default. This is what happened with the New Quick Note hot corner. Here is what the Quick Notes feature looks like when you move your cursor",
-          "link": "https://www.freecodecamp.org/news/turn-off-quick-note-mac-monterey/",
-          "publishedOn": "2021-11-18T04:09:00.000Z",
-          "wordCount": 539,
-          "title": "How to Turn Off Quick Note on –  Solved for MacOS Monterey Quick Notes Hot Corner"
-        },
-        {
-          "id": "617a6ef033422e07df3667f4",
-          "author": null,
-          "description": "In this article, I'm going to share with you what I've learned so far at my first programming job as a junior full-stack developer.  Ever since my developer career began in July, 2021 I've been learning constantly. And I'm gonna share some tips from my experiences so that you can",
-          "link": "https://www.freecodecamp.org/news/what-ive-learned-at-my-first-developer-job/",
-          "publishedOn": "2021-11-18T00:08:02.000Z",
-          "wordCount": 1971,
-          "title": "I Got My First Developer Job – Here&#x27;s What I&#x27;ve Learned So Far"
-        },
-        {
-          "id": "618fda8c11d3cb08287a5a51",
-          "author": null,
-          "description": "One of the first steps many young startups take is setting up a static web page, perhaps with an email newsletter, to help them build an audience.  As the weeks go by and the MVP is getting further along, the subject of how to handle payments will eventually emerge. From",
-          "link": "https://www.freecodecamp.org/news/serverless-online-payments/",
-          "publishedOn": "2021-11-17T20:54:10.000Z",
-          "wordCount": 1327,
-          "title": "How to Set Up Serverless Online Payments with Netlify and Stripe"
-        },
-        {
-          "id": "618eaede11d3cb08287a51c8",
-          "author": null,
-          "description": "About a year back, I was just about ready to release Caer, a Computer Vision library in Python that would be publicly available on PyPi. But first, I decided to send it to a friend in Alberta to tinker around with it. A few days later, I found that he",
-          "link": "https://www.freecodecamp.org/news/why-you-should-start-using-docker-now/",
-          "publishedOn": "2021-11-17T20:42:19.000Z",
-          "wordCount": 982,
-          "title": "Why You Should Start Using Docker Right Now"
         }
       ]
     }

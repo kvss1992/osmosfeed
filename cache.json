@@ -595,24 +595,6 @@
           "publishedOn": "2021-11-19T15:13:46.000Z",
           "wordCount": 3158,
           "title": "Parallax Powered by CSS Custom Properties"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356818",
-          "author": "Chris Coyier",
-          "description": "VS Code is built from web technologies (HTML, CSS, and JavaScript), but dare I say today it’s mostly used a local app that’s installed on your machine. That’s starting to shift, though, as there has been an absolute explosion of …\nThe post The Many Faces of VS Code in the Browser appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-many-faces-of-vs-code-in-the-browser/",
-          "publishedOn": "2021-11-18T20:22:27.000Z",
-          "wordCount": 1637,
-          "title": "The Many Faces of VS Code in the Browser"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356570",
-          "author": "Arjuna Sky Kok",
-          "description": "Dealing with dates and times is one of those things that can frustrate programmers a lot. At the same time, they are fundamental to software development, used from everything from meta and how things are ordered to time-based triggers and …\nThe post PHP Date and Time Recipes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/php-date-and-time-recipes/",
-          "publishedOn": "2021-11-18T15:38:51.000Z",
-          "wordCount": 2119,
-          "title": "PHP Date and Time Recipes"
         }
       ]
     },
@@ -841,20 +823,6 @@
           "title": "Improving The Performance Of Wix Websites (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/253b5a80-a208-4057-95b0-60762c922d07/improving-performance-wix-websites-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
-          "author": "hello@smashingmagazine.com (Sam Poder)",
-          "description": "Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.",
-          "link": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
-          "publishedOn": "2021-11-19T10:30:00.000Z",
-          "wordCount": 2210,
-          "title": "Next.js Wildcard Subdomains",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b24747b-6f11-4588-a119-16eaf38bc933/nextjs-wildcard-subdomains.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -1576,60 +1544,6 @@
           "publishedOn": "2021-11-19T20:34:59.000Z",
           "wordCount": 1189,
           "title": "How to Automate Tasks with cron Jobs in Linux"
-        },
-        {
-          "id": "6196aac811d3cb08287a8998",
-          "author": null,
-          "description": "2021 has been a big year for the global freeCodeCamp community. In this article, I will share some of the milestones we hit this year. But first, let's look at some metrics to drive home the scale at which the freeCodeCamp community is now operating. freeCodeCamp 2021 StatisticsIn 2021, freeCodeCamp's",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-2021-review-budget-usage-statistics/",
-          "publishedOn": "2021-11-19T05:29:54.000Z",
-          "wordCount": 1879,
-          "title": "Developers Spent 2.1 Billion Minutes (4,000 years) Using freeCodeCamp in 2021 + Other Year-End Facts"
-        },
-        {
-          "id": "614641bf852f4307d373021f",
-          "author": null,
-          "description": "If you're a new developer, you're probably familiar with the “Experience Paradox”. It describes the frustrating cycle many of us go through when we're trying to get our first developer jobs: To get a job, you need \"work experience\". But to get \"work experience\", you need a job...! Job requires",
-          "link": "https://www.freecodecamp.org/news/programming-projects-for-new-developers/",
-          "publishedOn": "2021-11-18T23:59:00.000Z",
-          "wordCount": 2168,
-          "title": "Programming Projects for New Developers – What to Build to Get Coding Experience"
-        },
-        {
-          "id": "619392bd11d3cb08287a6f36",
-          "author": null,
-          "description": "People in the tech industry face mental health issues like depression and anxiety every day, all around the world. But what can we do about it? In this article, I will talk about what I learned from Dr. Jennifer Akullian's freeCodeCamp Tech Talk and share her tips for reducing your",
-          "link": "https://www.freecodecamp.org/news/stress-and-mental-health-in-tech/",
-          "publishedOn": "2021-11-18T17:54:34.000Z",
-          "wordCount": 1187,
-          "title": "Stress and Mental Health in Tech – What I learned from Dr. Jennifer Akullian&#x27;s freeCodeCamp Tech Talk"
-        },
-        {
-          "id": "6196275811d3cb08287a850e",
-          "author": null,
-          "description": "On your computer desktop, you can use the taskbar to help you monitor applications, check battery life, and more.  Being able to customize what your task bar can do is crucial for boosting your productivity. And there's more to it than just monitoring applications.  In this guide, I will show",
-          "link": "https://www.freecodecamp.org/news/how-to-customize-your-windows10-taskbar-for-productivity/",
-          "publishedOn": "2021-11-18T16:44:28.000Z",
-          "wordCount": 694,
-          "title": "How to Customize Your Windows 10 Taskbar to Be More Productive"
-        },
-        {
-          "id": "6193c41c11d3cb08287a70ce",
-          "author": null,
-          "description": "Lists are a helpful and frequently used feature in Python.  And list comprehension gives you a way to create lists while writing more elegant code that is easy to read.  In this beginner-friendly article, I'll give an overview of how list comprehension works in Python. I'll also show plenty of",
-          "link": "https://www.freecodecamp.org/news/list-comprehension-in-python-with-code-examples/",
-          "publishedOn": "2021-11-18T16:20:35.000Z",
-          "wordCount": 1598,
-          "title": "List Comprehension in Python"
-        },
-        {
-          "id": "6196642611d3cb08287a8688",
-          "author": null,
-          "description": "If you are a software developer, you likely use Git all the time. But many developers don't use advanced git commands that can speed up their worflow. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use advanced git commands. Tobias Günther",
-          "link": "https://www.freecodecamp.org/news/advanced-git-interactive-rebase-cherry-picking-reflog-and-more/",
-          "publishedOn": "2021-11-18T14:42:26.000Z",
-          "wordCount": 313,
-          "title": "Advanced Git Tools—Interactive Rebase, Cherry-Picking, Reflog, and more"
         }
       ]
     }

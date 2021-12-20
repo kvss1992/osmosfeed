@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-19T01:00:39.010Z</updated>
+    <updated>2021-12-20T00:57:53.616Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
@@ -1651,49 +1651,6 @@ The post Responsive Layouts, Fewer Media Queries appeared first on CSS-Tricks. Y
         <summary type="html"><![CDATA[Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Dan Shappir)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reimagine Atomic CSS]]></title>
-        <id>https://css-tricks.com/?p=357234</id>
-        <link href="https://css-tricks.com/reimagine-atomic-css/"/>
-        <updated>2021-11-19T22:01:05.000Z</updated>
-        <summary type="html"><![CDATA[I’m not the biggest fan of Atomic CSS myself. I don’t like all the classes. I like to express my styles in CSS because I find CSS… good. But I appreciate that a lot of people seem to like it, …
-The post Reimagine Atomic CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Font Game]]></title>
-        <id>https://css-tricks.com/?p=357227</id>
-        <link href="https://css-tricks.com/coding-font-game/"/>
-        <updated>2021-11-19T21:18:50.000Z</updated>
-        <summary type="html"><![CDATA[A tournament bracket UI where you pick your favorite between two coding fonts and your choices are whittled down all the way to a final winner. A clever way to suss out your own taste and arrive at a choice.…
-The post Coding Font Game appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Tasks with cron Jobs in Linux]]></title>
-        <id>618941df8bcfae07ca4e3869</id>
-        <link href="https://www.freecodecamp.org/news/cron-jobs-in-linux/"/>
-        <updated>2021-11-19T20:34:59.000Z</updated>
-        <summary type="html"><![CDATA[If you're working in IT, you might need to schedule various repetitive tasks as part of your automation processes.  For example, you could schedule a particular job to periodically execute at specific times of the day. This is helpful for performing daily backups, monthly log archiving, weekly file deletion to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parallax Powered by CSS Custom Properties]]></title>
-        <id>https://css-tricks.com/?p=357192</id>
-        <link href="https://css-tricks.com/parallax-powered-by-css-custom-properties/"/>
-        <updated>2021-11-19T15:13:46.000Z</updated>
-        <summary type="html"><![CDATA[Good friend Kent C. Dodds has recently dropped his new website which had a lot of work go into it. I was fortunate enough that Kent reached out a while back and asked if I could come up with some …
-The post Parallax Powered by CSS Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jhey Tompkins</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359017",
+          "author": "Chris Coyier",
+          "description": "There are a number of ways to approach a dark mode for your website, but essentially you get all the styles ready for it and then apply them when the user has indicated they want them, whether by direct …",
+          "link": "https://css-tricks.com/auto-dark-theme/",
+          "publishedOn": "2021-12-20T18:34:47.000Z",
+          "wordCount": 877,
+          "title": "Auto Dark Theme"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359201",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nWe’re going to go over details on how designer ↔️ developer collaboration in AWS Amplify Studio can make app building easier, but let’s cover one of those things right at the top here. \nSay …",
+          "link": "https://css-tricks.com/build-great-apps-designer-and-developer-collaboration-just-got-easier/",
+          "publishedOn": "2021-12-20T18:34:27.000Z",
+          "wordCount": 1723,
+          "title": "Build Great Apps: Designer and Developer Collaboration Just Got Easier"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358037",
+          "author": "Heather Migliorisi",
+          "description": "When I was working at my first “real” job in the field in the mid-2000s, it was hammered in the web dev field to build tiny websites (no more than 100KB per page), only use JavaScript for special effects, and …",
+          "link": "https://css-tricks.com/be-prepared-for-failure-and-handle-it-gracefully/",
+          "publishedOn": "2021-12-20T15:22:04.000Z",
+          "wordCount": 1478,
+          "title": "Be Prepared for Failure and Handle it Gracefully"
+        },
+        {
           "id": "https://css-tricks.com/?p=359489",
           "author": "Chris Coyier",
           "description": "Just the first sentence alone here from Stepanie Yee and Tony Chu is solid:\nIn machine learning, computers apply statistical learning techniques to automatically identify patterns in data. These techniques can be used to make highly accurate predictions.\n\n\n\n\nAnd what …",
@@ -577,6 +604,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
+          "author": "hello@smashingmagazine.com (Barry Pollard)",
+          "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
+          "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
+          "publishedOn": "2021-12-20T05:30:00.000Z",
+          "wordCount": 6014,
+          "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
           "author": "hello@smashingmagazine.com (Nick Babich & Gleb Kuznetsov)",
           "description": "Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.",
@@ -807,6 +848,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61b9e89107222107a6c7a4bc",
+          "author": null,
+          "description": "JavaScript is a programming language that's used for a variety of purposes, including web development, web apps, game development, and more. JavaScript also lets you add dynamic features to web sites that you can't just achieve with HTML and CSS. Importance of JavaScriptJavaScript is the most important language you need",
+          "link": "https://www.freecodecamp.org/news/23-free-websites-to-learn-javascript/",
+          "publishedOn": "2021-12-20T20:25:00.000Z",
+          "wordCount": 1675,
+          "title": "23 Free Websites to Learn JavaScript in 2022"
+        },
+        {
+          "id": "61bf7907297c7107e8ad9091",
+          "author": null,
+          "description": "Transferring files between machines is a very common operational task that you'll do all the time as a developer.  Linux provides a number of utilities to transfer files. In this tutorial we will discuss FTP and SCP. Many automated scripts also deploy FTP or SCP to move files. What is",
+          "link": "https://www.freecodecamp.org/news/how-to-transfer-files-between-servers-in-linux-using-scp-and-ftp/",
+          "publishedOn": "2021-12-20T16:02:29.000Z",
+          "wordCount": 1029,
+          "title": "How to Transfer Files Between Servers in Linux using SCP and FTP"
+        },
+        {
+          "id": "61ba394407222107a6c7a7f3",
+          "author": null,
+          "description": "The impact of networks and technology continues to increase. Understanding technology makes it easier to function in an information-centric world. We just published a massive course about Internet history and technology on the freeCodeCamp.org YouTube channel. In this course you will learn how the Internet was created, who created",
+          "link": "https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks/",
+          "publishedOn": "2021-12-20T14:10:44.000Z",
+          "wordCount": 590,
+          "title": "Learn the History of the Internet in Dr. Chuck&#x27;s 9-Hour Course"
+        },
         {
           "id": "61b9cd2a07222107a6c7a467",
           "author": null,

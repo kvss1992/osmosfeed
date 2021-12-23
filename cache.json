@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359033",
+          "author": "Una Kravets",
+          "description": "Ensuring accessibility is a clear path to making your website better. When you make your site accessible, you grow your audience, improve the experience for all people using it (not just those with accessibility needs), and you get SEO benefits…",
+          "link": "https://css-tricks.com/personalize-it/",
+          "publishedOn": "2021-12-23T00:10:06.000Z",
+          "wordCount": 818,
+          "title": "Personalize it!"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359675",
+          "author": "Chris Coyier",
+          "description": "There was a time when I’d write React, Angular, and Ember as a kind of generic grouping of three major JavaScript frameworks. And maybe just because three is a nice number, that became React, Vue, and Angular over time, thanks …",
+          "link": "https://css-tricks.com/why-ember/",
+          "publishedOn": "2021-12-22T16:10:40.000Z",
+          "wordCount": 615,
+          "title": "Why Ember?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358761",
+          "author": "Melanie Sumner",
+          "description": "NGL, I was a little overwhelmed when I sat down to write this article. There are so many things that immediately flooded my mind—take out any extra divs; use links for URLs, use buttons for events and actions; use …",
+          "link": "https://css-tricks.com/increase-your-reach/",
+          "publishedOn": "2021-12-22T16:07:56.000Z",
+          "wordCount": 1550,
+          "title": "Increase Your Reach"
+        },
+        {
           "id": "https://css-tricks.com/?p=359146",
           "author": "Chris Coyier",
           "description": "Does shadow DOM improve style performance? — Nolan Lawson covers how, because of the inherent encapsulation of the shadow DOM, the styling gets applied a bit faster than it would if those styling rules were relevant to the entire page. But \n…",
@@ -586,33 +613,6 @@
           "publishedOn": "2021-11-23T16:06:44.000Z",
           "wordCount": 4037,
           "title": "Control Layout in a Multi-Directional Website"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357149",
-          "author": "Chris Coyier",
-          "description": "Inspired by Eva PenzeyMoog’s new book, Jeremy highlights the widespread user tracking situation in this industry:\nThere was a line that really stood out to me: \nThe idea that it’s alright to do whatever unethical thing is currently the \n…\nThe post On User Tracking and Industry Standards on Privacy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/on-user-tracking-and-industry-standards-on-privacy/",
-          "publishedOn": "2021-11-22T21:00:50.000Z",
-          "wordCount": 1616,
-          "title": "On User Tracking and Industry Standards on Privacy"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357046",
-          "author": "Chris Coyier",
-          "description": "A reader wrote to me the other day asking about this bit of CSS they came across in Wikipedia’s Common.css:\n.mw-collapsible-leftside-toggle .mw-collapsible-toggle {\n  /* @noflip */\n  float: left;\n  /* @noflip */\n  text-align: left;\n}\nWhat’s that @noflip business? That’s …\nThe post CSS “decorations” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/css-decorations/",
-          "publishedOn": "2021-11-22T18:48:00.000Z",
-          "wordCount": 770,
-          "title": "CSS “decorations”"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357080",
-          "author": "Temani Afif",
-          "description": "We cannot talk about web development without talking about Responsive Design. It’s just a given these days and has been for many years. Media queries are a part of Responsive Design and they aren’t going anywhere. Since the introduction of …\nThe post Responsive Layouts, Fewer Media Queries appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/responsive-layouts-fewer-media-queries/",
-          "publishedOn": "2021-11-22T15:29:03.000Z",
-          "wordCount": 4047,
-          "title": "Responsive Layouts, Fewer Media Queries"
         }
       ]
     },
@@ -621,6 +621,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.",
+          "link": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
+          "publishedOn": "2021-12-22T10:00:00.000Z",
+          "wordCount": 4184,
+          "title": "Useful UX Guidelines, Tools And Resources",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fb38ba21-df76-4d15-b7ef-bbda38aeea6b/laws-of-ux-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
           "author": "hello@smashingmagazine.com (Barry Pollard)",
@@ -816,34 +830,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
-          "author": "hello@smashingmagazine.com (John C Barstow)",
-          "description": "With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.",
-          "link": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
-          "publishedOn": "2021-11-23T10:00:00.000Z",
-          "wordCount": 2762,
-          "title": "Adding A Dyslexia-Friendly Mode To A Website",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1fb4e46-6f0a-4631-a04c-d42376eddc82/dyslexia-friendly-mode-website.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "What’s the state of CSS, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our [online workshops on UX, front-end and design](https://smashingconf.com/online-workshops).",
-          "link": "https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/",
-          "publishedOn": "2021-11-22T16:00:00.000Z",
-          "wordCount": 1013,
-          "title": "Smashing Workshops: Winter 2021",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d2659d54-48e0-40d0-9fea-07c199eee87d/sanfran-2022.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -852,6 +838,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "5fc5badb49c47664ed827efe",
+          "author": null,
+          "description": "An eternity ago in the year of 2012, a few Stanford professors decided to make their courses freely available online.  The media christened these courses \"MOOCs\" – Massive Open Online Courses. And they hailed 2012 as \"Year of the MOOC.\" Now, a decade later, the MOOC ecosystem has reached 220M learners",
+          "link": "https://www.freecodecamp.org/news/most-popular-free-online-courses/",
+          "publishedOn": "2021-12-22T22:44:00.000Z",
+          "wordCount": 4695,
+          "title": "The Top 100 Free University Courses of the Year (Ranked by Popularity)"
+        },
+        {
+          "id": "61706bd9d48e1707b6d7923e",
+          "author": null,
+          "description": "If you work with WordPress, then you know just how important a good stack of plugins is. They were designed to improve everything from media handling, and basic features to security and more.  You can have as many as you like, in theory, but don't go overboard. A good rule",
+          "link": "https://www.freecodecamp.org/news/best-wordpress-plugins/",
+          "publishedOn": "2021-12-22T20:19:42.000Z",
+          "wordCount": 2766,
+          "title": "Best WordPress Plugins – 15 Tools to Boost Your Productivity"
+        },
+        {
+          "id": "61bcf6e3297c7107e8ad8595",
+          "author": null,
+          "description": "Learn to Code RPG is an interactive visual novel game where you will teach yourself to code, make friends in the tech industry, and pursue your dream of becoming a developer.",
+          "link": "https://www.freecodecamp.org/news/learn-to-code-rpg/",
+          "publishedOn": "2021-12-22T17:23:00.000Z",
+          "wordCount": 1958,
+          "title": "Learn to Code RPG – A Visual Novel Video Game Where you Learn Computer Science Concepts"
+        },
+        {
+          "id": "61bd5001297c7107e8ad85a9",
+          "author": null,
+          "description": "This is the press kit for the game, Learn to Code RPG.",
+          "link": "https://www.freecodecamp.org/news/learn-to-code-rpg-press-kit/",
+          "publishedOn": "2021-12-22T17:22:50.000Z",
+          "wordCount": 394,
+          "title": "Learn to Code RPG – Press Kit"
+        },
+        {
+          "id": "61b5033707222107a6c78b01",
+          "author": null,
+          "description": "I recently attended a training session with the Auth0 Dev Rel team to learn about a cool new feature called Auth0 Actions.  In this article, I am going to explain what Auth0 Actions are, why you'd want to use them, and how to set one up. What are Auth0 Actions?",
+          "link": "https://www.freecodecamp.org/news/intro-to-auth0-actions/",
+          "publishedOn": "2021-12-22T15:46:00.000Z",
+          "wordCount": 1425,
+          "title": "How to Extend Your Login Flow With Auth0 Actions"
+        },
         {
           "id": "61c1702f755c160824908877",
           "author": null,
@@ -1553,78 +1584,6 @@
           "publishedOn": "2021-11-23T15:34:00.000Z",
           "wordCount": 1608,
           "title": "How to Create a Customizable Table of Contents in Word"
-        },
-        {
-          "id": "6195174b11d3cb08287a7b96",
-          "author": null,
-          "description": "In this blog post, I will show you which free WordPress plugins you should use and how to configure them to significantly improve your WordPress website's performance.  Web performance is an essential SEO factor, and you shouldn’t underestimate it. Each second your website takes to load can hurt your",
-          "link": "https://www.freecodecamp.org/news/wordpress-plugins-to-improve-your-website-performance/",
-          "publishedOn": "2021-11-23T02:09:07.000Z",
-          "wordCount": 1767,
-          "title": "5 WordPress Plugins to Improve Your Website&#x27;s Performance"
-        },
-        {
-          "id": "619909b111d3cb08287a9bd9",
-          "author": null,
-          "description": "A common practice in software projects is to keep certain information separated but accessible from the codebase which uses it. Developers usually do this with secrets such as passwords or private keys, or with user or context-specific info pieces.  But managing environment variables can be a pain. There are a",
-          "link": "https://www.freecodecamp.org/news/how-to-manage-directory-scoped-envs-with-direnv-in-posix-systems/",
-          "publishedOn": "2021-11-22T21:39:20.000Z",
-          "wordCount": 725,
-          "title": "How to Manage Directory-Scoped Variables with direnv in POSIX Systems"
-        },
-        {
-          "id": "613f3cad852f4307d372c7dc",
-          "author": null,
-          "description": "The Design Thinking Process is a way to come up with creative, user centric solutions to complex problems. But how does it work exactly? In this article, I will explain what the Design Thinking Process is and break down the five phases behind it. We will explore how this process",
-          "link": "https://www.freecodecamp.org/news/the-design-thinking-process-explained/",
-          "publishedOn": "2021-11-22T21:27:40.000Z",
-          "wordCount": 1069,
-          "title": "The Design Thinking Process Explained"
-        },
-        {
-          "id": "619b998511d3cb08287aa257",
-          "author": null,
-          "description": "Today we're gonna practice our React JS skills by building a Rick and Morty Character Wiki.  Here's what we'll build today:    Here's a [live demo of the project] 👇  https://react-projects-psi.vercel.app/.  And here's the GitHub Repository.  The topics we'll cover while building this project are:  React Hooks (useState, useEffect)",
-          "link": "https://www.freecodecamp.org/news/react-js-project-build-a-rick-and-morty-character-wiki/",
-          "publishedOn": "2021-11-22T19:13:34.000Z",
-          "wordCount": 4193,
-          "title": "ReactJS Project – Build a Rick and Morty Character Wiki"
-        },
-        {
-          "id": "619bb03e11d3cb08287aa4c8",
-          "author": null,
-          "description": "If you have a Windows 10 PC, you might occasionally see the notorious \"scanning and repairing drive\" message. This error can happen to the C drive, hard drive, and any other external drive.  This scanning and repairing can take several hours, or even cost you a whole workday",
-          "link": "https://www.freecodecamp.org/news/scanning-and-repairing-drive-how-to-fix-stuck-windows-10-pc-hard-drive/",
-          "publishedOn": "2021-11-22T17:10:42.000Z",
-          "wordCount": 736,
-          "title": "Scanning and Repairing Drive – How to Fix Stuck Windows 10 PC Hard Drive"
-        },
-        {
-          "id": "619ba98511d3cb08287aa3a8",
-          "author": null,
-          "description": "In this conference talk, Magdalena Ostoja-Chyżyńska will not talk about the differences between developers and designers.  Instead of focusing on the differences between the roles and how that might cause friction, she will approach the subject with a problem-solving attitude, and expand on how to make the relationship work. And",
-          "link": "https://www.freecodecamp.org/news/how-to-speak-to-a-designer-as-a-developer-tech-talk/",
-          "publishedOn": "2021-11-22T17:07:06.000Z",
-          "wordCount": 774,
-          "title": "Let&#x27;s Talk Design – How to Speak to a Designer as a Developer"
-        },
-        {
-          "id": "612cc005b5177808226d4a57",
-          "author": null,
-          "description": "You can use the % and _ wildcards with the SQL LIKE statement to compare values from an SQL table. But how does that work exactly?  In this article, I will show you how to use the SQL LIKE statement through code examples.  Basic syntax of SQL LIKE statementHere is the basic",
-          "link": "https://www.freecodecamp.org/news/sql-like-statement-how-to-query-sql-with-wildcard/",
-          "publishedOn": "2021-11-22T15:01:50.000Z",
-          "wordCount": 1083,
-          "title": "SQL LIKE Statement – How to Query SQL with Wildcard"
-        },
-        {
-          "id": "619694ef11d3cb08287a88ce",
-          "author": null,
-          "description": "In this tutorial, you'll learn some of the different ways you can reverse lists and list ranges in Python. And we'll look at some coding examples along the way.  Let's get started!  How to create a range in Python An efficient way to create a list of a range of",
-          "link": "https://www.freecodecamp.org/news/python-reverse-list-how-to-reverse-a-range-or-array/",
-          "publishedOn": "2021-11-22T14:54:14.000Z",
-          "wordCount": 1242,
-          "title": "Python Reverse List – How to Reverse a Range or Array"
         }
       ]
     }

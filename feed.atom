@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-23T00:57:09.425Z</updated>
+    <updated>2021-12-24T00:56:13.292Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Java Log4JShell Vulnerability – What I Learned About it This Week]]></title>
+        <id>61c3b72d755c160824909987</id>
+        <link href="https://www.freecodecamp.org/news/java-log4jshell-vulnerability/"/>
+        <updated>2021-12-23T21:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Last Thursday, a vulnerability was disclosed in the Log4J logging library affecting many Java applications worldwide.  The vulnerability is called Log4Shell (CVE-2021–44228). It allows an attacker to inject a crafted payload anywhere in the requests that get parsed and executed by the vulnerable application. There are a lot of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remember You Are Not the User]]></title>
+        <id>https://css-tricks.com/?p=358936</id>
+        <link href="https://css-tricks.com/remember-you-are-not-the-user/"/>
+        <updated>2021-12-23T19:31:04.000Z</updated>
+        <summary type="html"><![CDATA[One thing people can do to make their websites better is to remember that you are not representative of all your users. Our life experiences and how we interact with the web are not indicative of how everyone interacts with …]]></summary>
+        <author>
+            <name>Emma Bostian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Code RPG – Full Soundtrack + How I Made It]]></title>
+        <id>61c49108755c160824909f76</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-code-rpg-soundtrack/"/>
+        <updated>2021-12-23T18:53:07.000Z</updated>
+        <summary type="html"><![CDATA[First: what you probably came here for. Here's the full soundtrack to Learn to Code RPG. 36 minutes of jazz. If you dig it, subscribe to my new music channel and leave a comment with feedback or your favorite track. I am currently uploading this to Spotify. How I Made]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Roundup of Web Research]]></title>
+        <id>https://css-tricks.com/?p=359205</id>
+        <link href="https://css-tricks.com/2021-roundup-of-web-research/"/>
+        <updated>2021-12-23T18:34:04.000Z</updated>
+        <summary type="html"><![CDATA[Last year, we kicked out a roundup of published surveys, research, and other findings from around the web. There were some nice nuggets in there, like a general sentiment that the web needs more documentation, Tailwind CSS dun …]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG + JavaScript Tutorial – How to Code an Animated Watch]]></title>
+        <id>61c1fc40755c160824908ad5</id>
+        <link href="https://www.freecodecamp.org/news/svg-javascript-tutorial/"/>
+        <updated>2021-12-23T17:19:15.000Z</updated>
+        <summary type="html"><![CDATA[Since SVG images can be inlined in HTML, we can manipulate them with JavaScript. This means that we can animate parts of an image from code, make it interactive, or turn things around and generate graphics from data. In this example, we are going to create a watch. We will]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Dual Boot Any Linux Distribution With Windows – and Get Rid of It When You Need To]]></title>
+        <id>61c3059b755c1608249092e9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-dual-boot-any-linux-distribution-with-windows/"/>
+        <updated>2021-12-23T16:32:46.000Z</updated>
+        <summary type="html"><![CDATA[Gone are the days when Linux and Windows were like two opposing forces. Microsoft has embraced the open-source community quite cordially in recent years, and as a result we have things like Windows Subsystem for Linux baked right into our Windows installations. That doesn't mean that we no longer need]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show, Don’t Tell]]></title>
+        <id>https://css-tricks.com/?p=357692</id>
+        <link href="https://css-tricks.com/show-dont-tell/"/>
+        <updated>2021-12-23T13:29:14.000Z</updated>
+        <summary type="html"><![CDATA[How much time do you spend designing the content presentation for your websites? When you write a new blog post or create a new page, are you thinking about just the words, or how your readers will engage with those …]]></summary>
+        <author>
+            <name>Mel Choyce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating A Custom Range Input That Looks Consistent Across All Browsers]]></title>
+        <id>https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/</id>
+        <link href="https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/"/>
+        <updated>2021-12-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alyssa Holland)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a BinaryTreeViewer using C#, CSS, &amp; HTML (Code &amp; Algorithm Walkthrough)]]></title>
+        <id>61bd9cd6297c7107e8ad892a</id>
+        <link href="https://www.freecodecamp.org/news/binarytreeviewer-with-c-c-css-html-by-gilad-bar-ilan/"/>
+        <updated>2021-12-23T01:12:43.000Z</updated>
+        <summary type="html"><![CDATA[Binary trees are one of the most complicated data structures out there. And one of the reasons they're so difficult is that it's hard to actually visualize them in a simple way. In this tutorial, I'll show you how to create your own BinaryTreeViewer which will allow you to watch]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Personalize it!]]></title>
         <id>https://css-tricks.com/?p=359033</id>
@@ -1647,88 +1737,6 @@ The post Creating Generative Patterns with The CSS Paint API appeared first on C
         <link href="https://www.freecodecamp.org/news/learn-ember-ember-js-tips-for-beginners-tutorial/"/>
         <updated>2021-11-24T15:02:26.000Z</updated>
         <summary type="html"><![CDATA[In this talk, Designer turned Software Developer Lenora Porter talks about her journey learning Ember.js. She also shares her tips for beginners who are about to start their journey. Here are her top 4 take-aways: How to Learn Ember.jsHave the Mindset of a BeginnerThis is the foundational work.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Showcase Of Lovely Little Websites]]></title>
-        <id>https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/</id>
-        <link href="https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/"/>
-        <updated>2021-11-24T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All the Math You Need to Know in Artificial Intelligence]]></title>
-        <id>6197c7ce11d3cb08287a9271</id>
-        <link href="https://www.freecodecamp.org/news/all-the-math-you-need-in-artificial-intelligence/"/>
-        <updated>2021-11-24T00:12:40.000Z</updated>
-        <summary type="html"><![CDATA[I’m an AI researcher, and I’ve received quite a few emails asking me just how much math is required in Artificial Intelligence. I won’t lie: it’s a lot of math. And this is one of the reasons AI puts off many beginners. After much research and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is GitOps? Principles, Best Practices, and Kubernetes Workflow]]></title>
-        <id>619bb55911d3cb08287aa581</id>
-        <link href="https://www.freecodecamp.org/news/gitops-principles-kubernetes-workflow/"/>
-        <updated>2021-11-23T22:50:29.000Z</updated>
-        <summary type="html"><![CDATA[In this talk, CTO Cornelia Davis will teach you what GitOps is and what its four main principles are.  What is GitOps?The first thing you need to know is that GitOps is a set of modern best practises for deploying and managing cloud native infrastructure and applications.  And it]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which SVG technique performs best for way too many icons?]]></title>
-        <id>https://css-tricks.com/?p=357412</id>
-        <link href="https://css-tricks.com/which-svg-technique-performs-best-for-way-too-many-icons/"/>
-        <updated>2021-11-23T19:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Tyler Sticka digs in here in the best possible way: by making a test page and literally measuring performance. Maybe 1,000 icons is a little bit of an edge case, but hey, 250 rows of data with four icons in …
-The post Which SVG technique performs best for way too many icons? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Control Layout in a Multi-Directional Website]]></title>
-        <id>https://css-tricks.com/?p=356977</id>
-        <link href="https://css-tricks.com/control-layout-in-a-multi-directional-website/"/>
-        <updated>2021-11-23T16:06:44.000Z</updated>
-        <summary type="html"><![CDATA[Many business websites need a multilingual setup. As with anything development-related, implementing one in an easy, efficient, and maintainable way is desirable. Designing and developing to be ready for multiple languages, whether it happens right at launch or is expected …
-The post Control Layout in a Multi-Directional Website appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Alaa Abd El-Rahim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Not Recognizing Headphones – Windows 10 PC Headphone Tutorial]]></title>
-        <id>619cb4e711d3cb08287ab00c</id>
-        <link href="https://www.freecodecamp.org/news/computer-not-recognizing-headphones-windows-10-pc-headphone-tutorial/"/>
-        <updated>2021-11-23T15:47:53.000Z</updated>
-        <summary type="html"><![CDATA[What if you plug in your headphones to listen to your favorite music, watch a movie, or do something else and your computer fails to recognize the headphones? That's frustrating.  Your computer not recognizing your headphones is a fairly common issue in Windows 10 PCs.  It could be caused by]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Commands Cheat Sheet – How to Learn SQL in 10 Minutes]]></title>
-        <id>6197bcba11d3cb08287a90cc</id>
-        <link href="https://www.freecodecamp.org/news/learn-sql-in-10-minutes/"/>
-        <updated>2021-11-23T15:36:59.000Z</updated>
-        <summary type="html"><![CDATA[I’m an AI researcher, so one of the main things I deal with is data. A lot of it.  With more than 2.5 exabytes of data generated every day, it comes as no surprise that this data needs to be stored somewhere where we can access it when]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Customizable Table of Contents in Word]]></title>
-        <id>6198c2d511d3cb08287a97e2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-customizable-table-of-contents-in-microsoft-word/"/>
-        <updated>2021-11-23T15:34:00.000Z</updated>
-        <summary type="html"><![CDATA[It's tricky to make a good-looking and functional table of contents in Microsoft Word. You might often encounter documents that have messy tables of contents along with navigation panes with links to missing headings, non harmonized styles, and badly structured sections.  This wouldn't be a big problem for smaller documents,]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

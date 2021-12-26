@@ -834,20 +834,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
-          "author": "hello@smashingmagazine.com (Nirmalya Ghosh)",
-          "description": "In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.",
-          "link": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
-          "publishedOn": "2021-11-26T12:30:00.000Z",
-          "wordCount": 2642,
-          "title": "How To Maintain A Large Next.js Application",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d36d3a50-0f3f-402e-9ceb-8164b41065bc/maintain-large-nextjs-application.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -856,6 +842,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61c4e1e6755c16082490a3fe",
+          "author": null,
+          "description": "A Three-tier web applications has a presentation layer, an application layer, and a database layer.  This familiar pattern is fertile ground for learning new technologies like the AWS Cloud Development Kit (CDK).  In this tutorial, we will create a simple note-taking application using a DynamoDB table, HTTP API endpoints, Lambda",
+          "link": "https://www.freecodecamp.org/news/aws-cdk-v2-three-tier-serverless-application/",
+          "publishedOn": "2021-12-25T21:32:22.000Z",
+          "wordCount": 4026,
+          "title": "AWS CDK v2 Tutorial – How to Create a Three-Tier Serverless Application"
+        },
         {
           "id": "61c3b72d755c160824909987",
           "author": null,

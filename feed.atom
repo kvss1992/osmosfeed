@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-25T00:55:50.653Z</updated>
+    <updated>2021-12-26T01:00:39.820Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS CDK v2 Tutorial – How to Create a Three-Tier Serverless Application]]></title>
+        <id>61c4e1e6755c16082490a3fe</id>
+        <link href="https://www.freecodecamp.org/news/aws-cdk-v2-three-tier-serverless-application/"/>
+        <updated>2021-12-25T21:32:22.000Z</updated>
+        <summary type="html"><![CDATA[A Three-tier web applications has a presentation layer, an application layer, and a database layer.  This familiar pattern is fertile ground for learning new technologies like the AWS Cloud Development Kit (CDK).  In this tutorial, we will create a simple note-taking application using a DynamoDB table, HTTP API endpoints, Lambda]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Strut Your Stuff With a Custom Scrollbar]]></title>
         <id>https://css-tricks.com/?p=358956</id>
@@ -1659,16 +1669,6 @@ The post When is it “Right” to Reach for  contain and will-change in CSS? ap
 The post A Handy Little System for Animated Entrances in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Neale Van Fleet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Maintain A Large Next.js Application]]></title>
-        <id>https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/</id>
-        <link href="https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/"/>
-        <updated>2021-11-26T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nirmalya Ghosh)</name>
         </author>
     </entry>
 </feed>

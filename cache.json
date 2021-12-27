@@ -613,24 +613,6 @@
           "publishedOn": "2021-11-29T16:38:07.000Z",
           "wordCount": 483,
           "title": "We Analyzed 425,909 Favicons"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357271",
-          "author": "Chris Coyier",
-          "description": "I’ve got some blind spots in CSS-related performance things. One example is the will-change property. It’s a good name. You’re telling the browser some particular property (or the scroll-position or content) uh, will, change:\n.el {\n  will-change: opacity;\n\n…\nThe post When is it “Right” to Reach for  contain and will-change in CSS? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/when-is-it-right-to-reach-for-contain-and-will-change-in-css/",
-          "publishedOn": "2021-11-26T20:43:05.000Z",
-          "wordCount": 1015,
-          "title": "When is it “Right” to Reach for  contain and will-change in CSS?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357239",
-          "author": "Neale Van Fleet",
-          "description": "I love little touches that make a website feel like more than just a static document. What if web content wouldn’t just “appear” when a page loaded, but instead popped, slid, faded, or spun into place? It might be a …\nThe post A Handy Little System for Animated Entrances in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/",
-          "publishedOn": "2021-11-26T16:12:33.000Z",
-          "wordCount": 2112,
-          "title": "A Handy Little System for Animated Entrances in CSS"
         }
       ]
     },

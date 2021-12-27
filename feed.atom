@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-26T01:00:39.820Z</updated>
+    <updated>2021-12-27T00:57:14.921Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
@@ -1643,32 +1643,6 @@ The post We Analyzed 425,909 Favicons appeared first on CSS-Tricks. You can supp
         <summary type="html"><![CDATA[One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When is it “Right” to Reach for  contain and will-change in CSS?]]></title>
-        <id>https://css-tricks.com/?p=357271</id>
-        <link href="https://css-tricks.com/when-is-it-right-to-reach-for-contain-and-will-change-in-css/"/>
-        <updated>2021-11-26T20:43:05.000Z</updated>
-        <summary type="html"><![CDATA[I’ve got some blind spots in CSS-related performance things. One example is the will-change property. It’s a good name. You’re telling the browser some particular property (or the scroll-position or content) uh, will, change:
-.el {
-  will-change: opacity;
-
-…
-The post When is it “Right” to Reach for  contain and will-change in CSS? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Handy Little System for Animated Entrances in CSS]]></title>
-        <id>https://css-tricks.com/?p=357239</id>
-        <link href="https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/"/>
-        <updated>2021-11-26T16:12:33.000Z</updated>
-        <summary type="html"><![CDATA[I love little touches that make a website feel like more than just a static document. What if web content wouldn’t just “appear” when a page loaded, but instead popped, slid, faded, or spun into place? It might be a …
-The post A Handy Little System for Animated Entrances in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Neale Van Fleet</name>
         </author>
     </entry>
 </feed>

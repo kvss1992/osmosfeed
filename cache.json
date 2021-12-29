@@ -12,6 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359055",
+          "author": "Chris Ferdinandi",
+          "description": "One of the best things you can do for your website in 2022 is add a service worker, if you don’t have one in place already. Service workers give your website super powers. Today, I want to show you some …",
+          "link": "https://css-tricks.com/add-a-service-worker-to-your-site/",
+          "publishedOn": "2021-12-28T16:14:23.000Z",
+          "wordCount": 2487,
+          "title": "Add a Service Worker to Your Site"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359860",
+          "author": "Chris Coyier",
+          "description": "I hadn’t heard of most of the Chrome extensions that Sarem Gizaw lists as 2021 favorites. Here are my hot takes on all of them, except the virtual learning specific ones that aren’t very relevant to me.\nLoomOh that’s \n…",
+          "link": "https://css-tricks.com/our-favorite-chrome-extensions-of-2021/",
+          "publishedOn": "2021-12-28T16:11:35.000Z",
+          "wordCount": 949,
+          "title": "Our favorite Chrome extensions of 2021"
+        },
+        {
           "id": "https://css-tricks.com/?p=359044",
           "author": "Jeremy Wagner",
           "description": "One of the coolest things I’ve been messing with in the last couple years is the CSS Paint API. I love it. I did a talk on it, and made a little gallery of my own paint worklets…",
@@ -824,20 +842,6 @@
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9b96c8c2-9305-4a64-aa40-cf22662ea698/dec-21-winter-holidays-preview-opt.png",
             "length": "0",
             "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
-          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
-          "description": "One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.",
-          "link": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
-          "publishedOn": "2021-11-29T12:30:00.000Z",
-          "wordCount": 3250,
-          "title": "3D CSS Flippy Snaps With React And GreenSock",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a865f227-d5a1-4a63-a889-288a84fa2bce/3d-css-flippy-snaps-react-greensock.jpg",
-            "length": "0",
-            "type": "image/jpg"
           }
         }
       ]

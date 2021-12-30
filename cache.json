@@ -12,6 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=358975",
+          "author": "Cassie Evans",
+          "description": "Animation on the web is often a contentious topic. I think, in part, it’s because bad animation is blindingly obvious, whereas well-executed animation fades seamlessly into the background. When handled well, animation can really elevate a website, whether it’s just …",
+          "link": "https://css-tricks.com/empathetic-animation/",
+          "publishedOn": "2021-12-29T16:04:16.000Z",
+          "wordCount": 1119,
+          "title": "Empathetic Animation"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359938",
+          "author": "Chris Coyier",
+          "description": "Lea Verou made a Web Component for processing Markdown. Looks like there were a couple of others out there already, but I agree with Lea in that this is a good use case for the light DOM (as opposed …",
+          "link": "https://css-tricks.com/on-yak-shaving-and-md-block-a-new-html-element-for-markdown/",
+          "publishedOn": "2021-12-29T16:03:44.000Z",
+          "wordCount": 508,
+          "title": "On Yak Shaving and md-block, a new HTML element for Markdown"
+        },
+        {
           "id": "https://css-tricks.com/?p=359055",
           "author": "Chris Ferdinandi",
           "description": "One of the best things you can do for your website in 2022 is add a service worker, if you don’t have one in place already. Service workers give your website super powers. Today, I want to show you some …",
@@ -622,24 +640,6 @@
           "publishedOn": "2021-11-30T15:23:00.000Z",
           "wordCount": 1256,
           "title": "A Look at the Cloudinary WordPress Plugin"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357565",
-          "author": "Geoff Graham",
-          "description": "Apple Music has this “Spatial Audio” feature where the direction of the music in your headphones is based on the location of the device. It’s tough to explain just how neat it is. But that’s not what I’m here to …\nThe post Recreating the Apple Music Hits Playlist Animation in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/recreating-the-apple-music-hits-playlist-animation-in-css/",
-          "publishedOn": "2021-11-29T16:38:49.000Z",
-          "wordCount": 1371,
-          "title": "Recreating the Apple Music Hits Playlist Animation in CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357976",
-          "author": "Chris Coyier",
-          "description": "This is a neat idea for a research project. The big map is fun, but the research had some tidbits in it worth looking at.\nThe average favicon network request takes 130ms, at least from our speedy cloud instance.\n…\nThe post We Analyzed 425,909 Favicons appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/we-analyzed-425909-favicons/",
-          "publishedOn": "2021-11-29T16:38:07.000Z",
-          "wordCount": 483,
-          "title": "We Analyzed 425,909 Favicons"
         }
       ]
     },
@@ -648,6 +648,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.",
+          "link": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
+          "publishedOn": "2021-12-29T10:30:00.000Z",
+          "wordCount": 2451,
+          "title": "How To Price Projects And Manage Scope Screep",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/32b30344-817f-4450-83d8-850f086a9b61/how-price-projects-manage-scope-screep.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
           "author": "hello@smashingmagazine.com (Paulina Hetman)",
@@ -828,20 +842,6 @@
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa0481fb-1555-40f1-94c2-014b5553f45f/smashing-podcast-episode-44.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!",
-          "link": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
-          "publishedOn": "2021-11-30T09:45:00.000Z",
-          "wordCount": 2832,
-          "title": "It’s That Time Of The Year (December 2021 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9b96c8c2-9305-4a64-aa40-cf22662ea698/dec-21-winter-holidays-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
           }
         }
       ]
@@ -1480,78 +1480,6 @@
           "publishedOn": "2021-11-30T14:35:18.000Z",
           "wordCount": 5418,
           "title": "Learn Rust Programming Course – Interactive Rust Language Tutorial on Repl.it"
-        },
-        {
-          "id": "61a0f98125888a07c3e1bfbc",
-          "author": null,
-          "description": "Everyone should learn three skills that can help them make money in their life. This means that you won't have to rely on one skill to make money, and it gives you a chance to make a side income, too. The value you can add at your job or to",
-          "link": "https://www.freecodecamp.org/news/5-valuable-skills-developers-should-learn/",
-          "publishedOn": "2021-11-30T01:12:15.000Z",
-          "wordCount": 1098,
-          "title": "5 Valuable Skills Developers Should Learn in 2022"
-        },
-        {
-          "id": "61a39f3025888a07c3e1cf08",
-          "author": null,
-          "description": "How you train for your career is one of the most consequential decisions you'll ever make. But it's hard to narrow down your options for a career in software development or IT. Medicine is easy: pick a medical school and apply. But programming?  Will what you learn in a four",
-          "link": "https://www.freecodecamp.org/news/types-of-software-development-training/",
-          "publishedOn": "2021-11-29T21:06:01.000Z",
-          "wordCount": 2285,
-          "title": "Types of Software Development Training – A Data Analysis of IT Career Training Tool Efficacy"
-        },
-        {
-          "id": "60c08938d3126007592d56f5",
-          "author": null,
-          "description": "Many software applications need to exchange data between a client and server.  For a long time, XML was the preferred data format when it came to information exchange between the two points. Then in early 2000, JSON was introduced as an alternate data format for information exchange. In this article,",
-          "link": "https://www.freecodecamp.org/news/what-is-json-a-json-file-example/",
-          "publishedOn": "2021-11-29T19:16:16.000Z",
-          "wordCount": 1544,
-          "title": "JSON for Beginners – JavaScript Object Notation Explained in Plain English"
-        },
-        {
-          "id": "61a0dae325888a07c3e1bee6",
-          "author": null,
-          "description": "These 7 tricks and tips will take you from 50% to 90% accuracy for your image recognition models in literally minutes. So, you have gathered a dataset, built a neural network, and trained your model. But despite the hours (and sometimes days) of work you've invested to create the model,",
-          "link": "https://www.freecodecamp.org/news/improve-image-recognition-model-accuracy-with-these-hacks/",
-          "publishedOn": "2021-11-29T17:09:30.000Z",
-          "wordCount": 1153,
-          "title": "How to Improve the Accuracy of Your Image Recognition Models"
-        },
-        {
-          "id": "61a3882925888a07c3e1ce6d",
-          "author": null,
-          "description": "When you're programming, you'll often need to switch between data types.  The ability to convert one data type to another gives you great flexibility when working with information.  There are different built-in ways to convert, or cast, types in the Python programming language.  In this article, you'll learn how to",
-          "link": "https://www.freecodecamp.org/news/python-convert-string-to-int-how-to-cast-a-string-in-python/",
-          "publishedOn": "2021-11-29T16:47:01.000Z",
-          "wordCount": 1030,
-          "title": "Python Convert String to Int – How to Cast a String in Python"
-        },
-        {
-          "id": "61924f5811d3cb08287a6648",
-          "author": null,
-          "description": "On January 10, Class Central is launching two new bootcamps that are free, remote, and open to all.  You’ll complete freeCodeCamp’s JavaScript or Responsive Web Design certification, with weekly live streams, projects, and a friendly group of learners worldwide. Free Bootcamp Based on the freeCodeCamp CurriculumHi everyone, I’",
-          "link": "https://www.freecodecamp.org/news/new-free-bootcamps-based-on-freecodecamp-learn-javascript-webdev-with-weekly-live-streams/",
-          "publishedOn": "2021-11-29T15:55:00.000Z",
-          "wordCount": 1395,
-          "title": "New Free Bootcamps Based on freeCodeCamp – Learn JavaScript &amp; Web Development with Weekly Live Streams"
-        },
-        {
-          "id": "6140e027852f4307d372d933",
-          "author": null,
-          "description": "NoSQL Databases can sometimes seem confusing and overwhelming, partly because of their flexibility. This is why we have put together a 3-hour video course to help you understand exactly what a NoSQL Database is, as well as the different types available to you.  By the end of this course, you",
-          "link": "https://www.freecodecamp.org/news/learn-nosql-in-3-hours/",
-          "publishedOn": "2021-11-29T15:47:00.000Z",
-          "wordCount": 765,
-          "title": "Learn About NoSQL Databases in This 3-hour Course"
-        },
-        {
-          "id": "61a4b12225888a07c3e1d240",
-          "author": null,
-          "description": "Spell check in Microsoft Word and other Word Processing apps is a powerful feature. With spell check, you don’t have to worry too about making small grammatical and typographical errors, because the program will point them out for you in real-time as you type.  But sometimes, the spell check",
-          "link": "https://www.freecodecamp.org/news/spell-check-not-working-in-word-fixed-on-windows-10-pc/",
-          "publishedOn": "2021-11-29T14:53:48.000Z",
-          "wordCount": 741,
-          "title": "Spell Check Not Working in Word [Fixed on Windows 10 PC]"
         }
       ]
     }

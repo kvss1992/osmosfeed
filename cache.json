@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359941",
+          "author": "Chris Coyier",
+          "description": "I’m actually working on a talk (whew! been a while! kinda feels good!) about just how good the world of building websites has gotten. I plan to cover a wide swath of web tech, on purpose, because I …\nThe Web is More Gooder, and Other Observations on Today’s Web Tech originally published on CSS-Tricks",
+          "link": "https://css-tricks.com/the-web-is-more-gooder-and-other-observations-on-todays-web-tech/",
+          "publishedOn": "2021-12-30T20:08:07.000Z",
+          "wordCount": 695,
+          "title": "The Web is More Gooder, and Other Observations on Today’s Web Tech"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359729",
+          "author": "Cassidy Williams",
+          "description": "When you’re about to start a new website, what do you think first? Do you start with a library or framework you know, like React or Vue, or a meta-framework on top of that, like Next or Nuxt? Do you …\nAdd Less originally published on CSS-Tricks",
+          "link": "https://css-tricks.com/add-less/",
+          "publishedOn": "2021-12-30T16:23:29.000Z",
+          "wordCount": 713,
+          "title": "Add Less"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359708",
+          "author": "ImageKit",
+          "description": "(This is a sponsored post.)\nHigh-velocity, online businesses produce multiple digital assets like banners, images, videos, PDFs, etc., to promote their businesses online. For such businesses, Digital Asset Management (DAM) solutions are essential. These solutions help centrally store, manage, …\nNew Age DAM APIs to Simplify Your Media Workflows originally published on CSS-Tricks",
+          "link": "https://css-tricks.com/new-age-dam-apis-to-simplify-your-media-workflows/",
+          "publishedOn": "2021-12-30T16:18:38.000Z",
+          "wordCount": 1790,
+          "title": "New Age DAM APIs to Simplify Your Media Workflows"
+        },
+        {
           "id": "https://css-tricks.com/?p=358975",
           "author": "Cassie Evans",
           "description": "Animation on the web is often a contentious topic. I think, in part, it’s because bad animation is blindingly obvious, whereas well-executed animation fades seamlessly into the background. When handled well, animation can really elevate a website, whether it’s just …",
@@ -613,33 +640,6 @@
           "publishedOn": "2021-12-01T15:46:29.000Z",
           "wordCount": 491,
           "title": "Exactly What You Want"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357109",
-          "author": "Chris Coyier",
-          "description": "I was playing this game on Apple Arcade the other day called wurdweb. It’s a fun little game! Little touches like the little shape dudes that walk around the screen (but otherwise don’t do anything) give it a lot …",
-          "link": "https://css-tricks.com/diagonal-stripes-wipe-animation/",
-          "publishedOn": "2021-11-30T17:26:35.000Z",
-          "wordCount": 946,
-          "title": "Diagonal Stripes Wipe Animation"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357728",
-          "author": "Tobias Günther",
-          "description": "This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about future articles!\nThe “Reflog” is one of Git’s lesser-known features—but one that can be extremely …",
-          "link": "https://css-tricks.com/using-the-reflog-to-restore-lost-commits/",
-          "publishedOn": "2021-11-30T15:53:27.000Z",
-          "wordCount": 2419,
-          "title": "Using the Reflog to Restore Lost Commits"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357679",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nCloudinary (the media hosting and optimization service) has a brand new version (v3) of its WordPress plugin that has really nailed it. First, a high-level look at the biggest things this plugin does:\nIt \n…",
-          "link": "https://css-tricks.com/a-look-at-the-cloudinary-wordpress-plugin/",
-          "publishedOn": "2021-11-30T15:23:00.000Z",
-          "wordCount": 1256,
-          "title": "A Look at the Cloudinary WordPress Plugin"
         }
       ]
     },
@@ -829,20 +829,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re asking if changes to best practises over the last year have negatively impacted the web. Is it all downhill from here? Drew McLellan talks to expert Chris Ferdinandi to find out.",
-          "link": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/",
-          "publishedOn": "2021-11-30T14:00:00.000Z",
-          "wordCount": 8722,
-          "title": "Smashing Podcast Episode 44 With Chris Ferdinandi: Is The Web Dead?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa0481fb-1555-40f1-94c2-014b5553f45f/smashing-podcast-episode-44.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -851,6 +837,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61cdc903a700150888933394",
+          "author": null,
+          "description": "Every year, millions of people create New Year's Resolutions. A vast majority of these will fail. But I've created one for you that I'm optimistic you can succeed with. This is all free and you'll learn a ton. There will be a lot of other people doing this challenge alongside",
+          "link": "https://www.freecodecamp.org/news/2022-become-a-dev-new-years-resolution-challenge/",
+          "publishedOn": "2021-12-30T15:54:07.000Z",
+          "wordCount": 1013,
+          "title": "Take the 2022 Become-a-Dev New Year&#x27;s Resolution Challenge"
+        },
+        {
+          "id": "61cdb310a70015088893319b",
+          "author": null,
+          "description": "2021 was a big year for the freeCodeCamp community: We provided more than 2.1 billion minutes of learning to millions of people around the world.We published our 300-hour Relational Database Certification teaching SQL, Linux, and Git interactively – right inside VS Code.We shipped a project-oriented learning overhaul to",
+          "link": "https://www.freecodecamp.org/news/2021-top-contributors/",
+          "publishedOn": "2021-12-30T14:56:08.000Z",
+          "wordCount": 1562,
+          "title": "The Top freeCodeCamp Contributors of 2021"
+        },
         {
           "id": "61c9fcdc755c16082490bbcb",
           "author": null,
@@ -1462,24 +1466,6 @@
           "publishedOn": "2021-12-02T15:47:07.000Z",
           "wordCount": 2608,
           "title": "How to Use Redux for Application-Wide State Management"
-        },
-        {
-          "id": "61a5f9680c0c7407b2b3e607",
-          "author": null,
-          "description": "In general, a headphone jack and a pair of headphones improve the sound from your PC. You'll be able to hear things more clearly, without disturbing other around you.  But sometimes, setting them up is difficult. Or they might stop working entirely. This could be due to outdated drivers, or",
-          "link": "https://www.freecodecamp.org/news/headphone-jack-not-working-in-windows-10-how-to-fix-headphones-on-pc/",
-          "publishedOn": "2021-12-01T09:49:48.000Z",
-          "wordCount": 743,
-          "title": "Headphone Jack Not Working in Windows 10 - How to Fix Headphones on PC"
-        },
-        {
-          "id": "61783ffa33422e07df364d2c",
-          "author": null,
-          "description": "For six years in a row, Rust has been voted the most loved programming language by Stack Overflow. So if you're ready to learn this popular programming language, this course will introduce you to Rust so you can start using it in your projects. You will be working entirely within",
-          "link": "https://www.freecodecamp.org/news/rust-in-replit/",
-          "publishedOn": "2021-11-30T14:35:18.000Z",
-          "wordCount": 5418,
-          "title": "Learn Rust Programming Course – Interactive Rust Language Tutorial on Repl.it"
         }
       ]
     }

@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-31T00:58:46.623Z</updated>
+    <updated>2022-01-01T00:59:30.804Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Defensive CSS]]></title>
+        <id>https://css-tricks.com/?p=360073</id>
+        <link href="https://css-tricks.com/defensive-css/"/>
+        <updated>2021-12-31T18:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Ahmad Shadeed nails it again with “Defensive CSS.” The idea is that you should write CSS to be ready for issues caused by dynamic content. 
+More items than you thought would be there? No problem, the area can expand or …
+Defensive CSS originally published on CSS-Tricks]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Free Accredited Bachelor&#x27;s Degree in Computer Science – How Do We Get There?]]></title>
+        <id>61cb5f2f755c16082490be2f</id>
+        <link href="https://www.freecodecamp.org/news/free-accredited-bachelors-degrees-in-computer-science-how-do-we-get-there/"/>
+        <updated>2021-12-31T16:26:19.000Z</updated>
+        <summary type="html"><![CDATA[2021 has been a big year for the freeCodeCamp community: We provided more than 2.1 billion minutes of learning to millions of people around the world.We published our 300-hour Relational Database Certification teaching SQL, Linux, and Git interactively – right inside VS Code.We shipped a project-oriented learning overhaul]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Year, Fresh Desktop (January 2022 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/</id>
+        <link href="https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/"/>
+        <updated>2021-12-31T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Web is More Gooder, and Other Observations on Today’s Web Tech]]></title>
         <id>https://css-tricks.com/?p=359941</id>
@@ -1556,51 +1588,6 @@ Videos appeal to humans in a way no other form of the content does. A video incl
         <summary type="html"><![CDATA[Are you ready for the countdown to Christmas? From [festive](https://www.smashingmagazine.com/2016/12/freebie-christmas-advent-icon-set-25-icons-ai-eps-svg-png-pdf/) [icon](https://www.smashingmagazine.com/2015/12/freebie-christmas-icons-illustrations/) [sets](https://www.smashingmagazine.com/2014/11/freebie-christmas-icon-set-ai-psd-eps-pdf-svg-png/) to advent calendars that are bound to sweeten your days with a delightful little surprise each morning, we’ve decided to join in on this lovely annual tradition and bring it all to one place. So prepare yourself a nice cup of coffee and get cozy — there’s always something new to learn and discover!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Protect Your API Key In Production With Next.js API Route]]></title>
-        <id>https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/</id>
-        <link href="https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/"/>
-        <updated>2021-12-02T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There’s a great challenge that comes with building Jamstack applications on the web. In this article, Caleb Olojo explains how you can use Next.js to bootstrap your app safely.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Caleb Olojo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dock Life: Using Docker for All The Things!]]></title>
-        <id>https://css-tricks.com/?p=357985</id>
-        <link href="https://css-tricks.com/dock-life-using-docker-for-all-the-things/"/>
-        <updated>2021-12-01T21:11:53.000Z</updated>
-        <summary type="html"><![CDATA[I think if you’re a DevOps person in any capacity, the utility of Docker is very clear. Your things run in containers that are identical everywhere. Assuming Docker is working/running, the code will execute in a reliably consistent way whether …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embrace the Unpredictable]]></title>
-        <id>https://css-tricks.com/?p=357344</id>
-        <link href="https://css-tricks.com/embrace-the-unpredictable/"/>
-        <updated>2021-12-01T15:47:46.000Z</updated>
-        <summary type="html"><![CDATA[In nature, no two things are ever the same. Life is imperfect, unpredictable, and beautiful. We can walk through the same forest every day and see differently colored leaves. We can look up at the clouds every minute and watch …]]></summary>
-        <author>
-            <name>George Francis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exactly What You Want]]></title>
-        <id>https://css-tricks.com/?p=356146</id>
-        <link href="https://css-tricks.com/exactly-what-you-want/"/>
-        <updated>2021-12-01T15:46:29.000Z</updated>
-        <summary type="html"><![CDATA[What is one thing people can do to make their website better?
- Exactly what you want to build!
-Ask yourself:
-What drew you to development in the beginning?
-Is there an experimental API that you’ve been wanting to try out?
-…]]></summary>
-        <author>
-            <name>Amelia Wattenberger</name>
         </author>
     </entry>
 </feed>

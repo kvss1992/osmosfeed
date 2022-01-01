@@ -12,6 +12,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360073",
+          "author": "Chris Coyier",
+          "description": "Ahmad Shadeed nails it again with “Defensive CSS.” The idea is that you should write CSS to be ready for issues caused by dynamic content. \nMore items than you thought would be there? No problem, the area can expand or …\nDefensive CSS originally published on CSS-Tricks",
+          "link": "https://css-tricks.com/defensive-css/",
+          "publishedOn": "2021-12-31T18:41:47.000Z",
+          "wordCount": 447,
+          "title": "Defensive CSS"
+        },
+        {
           "id": "https://css-tricks.com/?p=359941",
           "author": "Chris Coyier",
           "description": "I’m actually working on a talk (whew! been a while! kinda feels good!) about just how good the world of building websites has gotten. I plan to cover a wide swath of web tech, on purpose, because I …\nThe Web is More Gooder, and Other Observations on Today’s Web Tech originally published on CSS-Tricks",
@@ -613,33 +622,6 @@
           "publishedOn": "2021-12-02T15:41:22.000Z",
           "wordCount": 2280,
           "title": "Streaming Optimized Videos From AWS S3 in Minutes"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357985",
-          "author": "Chris Coyier",
-          "description": "I think if you’re a DevOps person in any capacity, the utility of Docker is very clear. Your things run in containers that are identical everywhere. Assuming Docker is working/running, the code will execute in a reliably consistent way whether …",
-          "link": "https://css-tricks.com/dock-life-using-docker-for-all-the-things/",
-          "publishedOn": "2021-12-01T21:11:53.000Z",
-          "wordCount": 628,
-          "title": "Dock Life: Using Docker for All The Things!"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357344",
-          "author": "George Francis",
-          "description": "In nature, no two things are ever the same. Life is imperfect, unpredictable, and beautiful. We can walk through the same forest every day and see differently colored leaves. We can look up at the clouds every minute and watch …",
-          "link": "https://css-tricks.com/embrace-the-unpredictable/",
-          "publishedOn": "2021-12-01T15:47:46.000Z",
-          "wordCount": 726,
-          "title": "Embrace the Unpredictable"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356146",
-          "author": "Amelia Wattenberger",
-          "description": "What is one thing people can do to make their website better?\n Exactly what you want to build!\nAsk yourself:\nWhat drew you to development in the beginning?\nIs there an experimental API that you’ve been wanting to try out?\n…",
-          "link": "https://css-tricks.com/exactly-what-you-want/",
-          "publishedOn": "2021-12-01T15:46:29.000Z",
-          "wordCount": 491,
-          "title": "Exactly What You Want"
         }
       ]
     },
@@ -648,6 +630,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
+          "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
+          "publishedOn": "2021-12-31T09:00:00.000Z",
+          "wordCount": 2385,
+          "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
@@ -815,20 +811,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/",
-          "author": "hello@smashingmagazine.com (Caleb Olojo)",
-          "description": "There’s a great challenge that comes with building Jamstack applications on the web. In this article, Caleb Olojo explains how you can use Next.js to bootstrap your app safely.",
-          "link": "https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/",
-          "publishedOn": "2021-12-02T09:30:00.000Z",
-          "wordCount": 2021,
-          "title": "How To Protect Your API Key In Production With Next.js API Route",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0b2208c-15b4-4cdc-b050-033c4a4aa1b0/protect-api-key-production-nextjs-api-route.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -837,6 +819,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61cb5f2f755c16082490be2f",
+          "author": null,
+          "description": "2021 has been a big year for the freeCodeCamp community: We provided more than 2.1 billion minutes of learning to millions of people around the world.We published our 300-hour Relational Database Certification teaching SQL, Linux, and Git interactively – right inside VS Code.We shipped a project-oriented learning overhaul",
+          "link": "https://www.freecodecamp.org/news/free-accredited-bachelors-degrees-in-computer-science-how-do-we-get-there/",
+          "publishedOn": "2021-12-31T16:26:19.000Z",
+          "wordCount": 1555,
+          "title": "A Free Accredited Bachelor&#x27;s Degree in Computer Science – How Do We Get There?"
+        },
         {
           "id": "61cdc903a700150888933394",
           "author": null,

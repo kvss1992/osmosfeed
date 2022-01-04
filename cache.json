@@ -12,6 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360385",
+          "author": "Chris Coyier",
+          "description": "Fingerprinting is bad. It’s a term that refers to building up enough metadata about a user that you can essentially figure out who they are. JavaScript has access to all sorts of fingerprinting possibilities, which then combined with the IP …\nCSS-Based Fingerprinting originally published on CSS-Tricks",
+          "link": "https://css-tricks.com/css-based-fingerprinting/",
+          "publishedOn": "2022-01-03T21:45:10.000Z",
+          "wordCount": 819,
+          "title": "CSS-Based Fingerprinting"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359615",
+          "author": "Lars Kölker",
+          "description": "I’ll bet you are using browser extensions right now. Some of them are extremely popular and useful, like ad blockers, password managers, and PDF viewers. These extensions (or “add-ons”) are not limited to those purposes — you can do a …\nHow to Create a Browser Extension originally published on CSS-Tricks",
+          "link": "https://css-tricks.com/how-to-create-a-browser-extension/",
+          "publishedOn": "2022-01-03T15:12:31.000Z",
+          "wordCount": 4633,
+          "title": "How to Create a Browser Extension"
+        },
+        {
           "id": "https://css-tricks.com/?p=359698",
           "author": "Chris Coyier",
           "description": "The year has come to a close and it’s time again for our end-of-year wrapup. The most important message is this: thank you. (thankyouthankyou)\nThanks for stopping by and reading this site. If you didn’t, I’d be out …\nThank You (2021 Edition) originally published on CSS-Tricks",
@@ -577,6 +595,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
+          "author": "hello@smashingmagazine.com (Aleksandra Nagornaia)",
+          "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
+          "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
+          "publishedOn": "2022-01-03T13:00:00.000Z",
+          "wordCount": 2639,
+          "title": "Composition-Based Design System In Figma",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
@@ -751,6 +783,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61cfe874a7001508889339e4",
+          "author": null,
+          "description": "In this article, I will walk you through an example that will show you how web workers function in JavaScript with the help of WebSockets.  I think it's helpful to work with a practical use case because it is much simpler to understand the concepts when you can relate them",
+          "link": "https://www.freecodecamp.org/news/how-webworkers-work-in-javascript-with-example/",
+          "publishedOn": "2022-01-04T00:31:54.000Z",
+          "wordCount": 3582,
+          "title": "How Web Workers Work in JavaScript – With a Practical JS Example"
+        },
+        {
+          "id": "61bd0e47297c7107e8ad859b",
+          "author": null,
+          "description": "HTML is the backbone of any website. It's the first thing people see. Without it, there would be no website.  Because of this, it's important that you stick to good coding practices. If you don't follow the best practices, you will create a bad user experience for the web user.",
+          "link": "https://www.freecodecamp.org/news/html-best-practices/",
+          "publishedOn": "2022-01-03T23:42:00.000Z",
+          "wordCount": 1739,
+          "title": "HTML Best Practices – How to Build a Better HTML-Based Website"
+        },
+        {
+          "id": "61b0b0b1946db661defb8a7c",
+          "author": null,
+          "description": "It is difficult to imagine a business that operates without at least some basic IT infrastructure.  Digital solutions and hardware that are linked together help boost a company's productivity. And good infrastructure improves internal processes and communication between different departments. IT infrastructure is based on various components that aim to",
+          "link": "https://www.freecodecamp.org/news/what-is-it-infrastructure/",
+          "publishedOn": "2022-01-03T22:24:55.000Z",
+          "wordCount": 1822,
+          "title": "What is IT Infrastructure? A Beginner&#x27;s Guide"
+        },
+        {
+          "id": "61c5d090755c16082490a758",
+          "author": null,
+          "description": "Having a \"back to top\" button on a website is important. It allows users to easily scroll back to the top of the page.  Most websites rely on JavaScript to toggle the visibility of the button based on the amount of scroll. In this post, I will show you how",
+          "link": "https://www.freecodecamp.org/news/css-only-back-to-top-button/",
+          "publishedOn": "2022-01-03T21:18:12.000Z",
+          "wordCount": 1612,
+          "title": "How to Make an Animated Back to Top Button Using Only CSS"
+        },
+        {
+          "id": "61c823d0755c16082490af8f",
+          "author": null,
+          "description": "In this tutorial, we will build a URL shortener using Flask. This tool takes any URL and generates a shorter, more readable version like bit.ly.  The application will allow users to enter a URL and an optional custom short id and generate a shorter version. Here's what we're going",
+          "link": "https://www.freecodecamp.org/news/python-tutorial-how-to-create-a-url-shortener-using-flask/",
+          "publishedOn": "2022-01-03T18:26:36.000Z",
+          "wordCount": 3451,
+          "title": "Python Tutorial – How to Create a URL Shortener using Flask"
+        },
+        {
+          "id": "61bf7fab297c7107e8ad90d5",
+          "author": null,
+          "description": "When you start learning to code, one of the questions you probably ask yourself is \"What lannguage should I learn first?\"  One of the most exciting – and at times overwhelming – things about learning to code is just how much there is to learn.  But instead of just focusing",
+          "link": "https://www.freecodecamp.org/news/computer-coding-computer-program-definition-and-code-meaning/",
+          "publishedOn": "2022-01-03T17:32:46.000Z",
+          "wordCount": 2398,
+          "title": "Computer Coding – Computer Program Definition and Code Meaning"
+        },
+        {
+          "id": "61b207db946db661defb945e",
+          "author": null,
+          "description": "Java is a really popular programming language that has been around for over 25+ years. If you are interested in learning Java, then there are plenty of free online courses to choose from. Java Tutorial for Beginners - Programming with MoshJava Course - SoloLearnJava Programming: Solving Problems with Software -",
+          "link": "https://www.freecodecamp.org/news/learn-java-free-java-courses-for-beginners/",
+          "publishedOn": "2022-01-03T17:06:06.000Z",
+          "wordCount": 548,
+          "title": "Learn Java – Free Java Courses for Beginners"
+        },
         {
           "id": "61cb5f2f755c16082490be2f",
           "author": null,

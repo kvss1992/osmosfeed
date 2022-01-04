@@ -2,10 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-03T00:57:43.921Z</updated>
+    <updated>2022-01-04T00:58:35.267Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Web Workers Work in JavaScript – With a Practical JS Example]]></title>
+        <id>61cfe874a7001508889339e4</id>
+        <link href="https://www.freecodecamp.org/news/how-webworkers-work-in-javascript-with-example/"/>
+        <updated>2022-01-04T00:31:54.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will walk you through an example that will show you how web workers function in JavaScript with the help of WebSockets.  I think it's helpful to work with a practical use case because it is much simpler to understand the concepts when you can relate them]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Best Practices – How to Build a Better HTML-Based Website]]></title>
+        <id>61bd0e47297c7107e8ad859b</id>
+        <link href="https://www.freecodecamp.org/news/html-best-practices/"/>
+        <updated>2022-01-03T23:42:00.000Z</updated>
+        <summary type="html"><![CDATA[HTML is the backbone of any website. It's the first thing people see. Without it, there would be no website.  Because of this, it's important that you stick to good coding practices. If you don't follow the best practices, you will create a bad user experience for the web user.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is IT Infrastructure? A Beginner&#x27;s Guide]]></title>
+        <id>61b0b0b1946db661defb8a7c</id>
+        <link href="https://www.freecodecamp.org/news/what-is-it-infrastructure/"/>
+        <updated>2022-01-03T22:24:55.000Z</updated>
+        <summary type="html"><![CDATA[It is difficult to imagine a business that operates without at least some basic IT infrastructure.  Digital solutions and hardware that are linked together help boost a company's productivity. And good infrastructure improves internal processes and communication between different departments. IT infrastructure is based on various components that aim to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-Based Fingerprinting]]></title>
+        <id>https://css-tricks.com/?p=360385</id>
+        <link href="https://css-tricks.com/css-based-fingerprinting/"/>
+        <updated>2022-01-03T21:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Fingerprinting is bad. It’s a term that refers to building up enough metadata about a user that you can essentially figure out who they are. JavaScript has access to all sorts of fingerprinting possibilities, which then combined with the IP …
+CSS-Based Fingerprinting originally published on CSS-Tricks]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make an Animated Back to Top Button Using Only CSS]]></title>
+        <id>61c5d090755c16082490a758</id>
+        <link href="https://www.freecodecamp.org/news/css-only-back-to-top-button/"/>
+        <updated>2022-01-03T21:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Having a "back to top" button on a website is important. It allows users to easily scroll back to the top of the page.  Most websites rely on JavaScript to toggle the visibility of the button based on the amount of scroll. In this post, I will show you how]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Tutorial – How to Create a URL Shortener using Flask]]></title>
+        <id>61c823d0755c16082490af8f</id>
+        <link href="https://www.freecodecamp.org/news/python-tutorial-how-to-create-a-url-shortener-using-flask/"/>
+        <updated>2022-01-03T18:26:36.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will build a URL shortener using Flask. This tool takes any URL and generates a shorter, more readable version like bit.ly.  The application will allow users to enter a URL and an optional custom short id and generate a shorter version. Here's what we're going]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Coding – Computer Program Definition and Code Meaning]]></title>
+        <id>61bf7fab297c7107e8ad90d5</id>
+        <link href="https://www.freecodecamp.org/news/computer-coding-computer-program-definition-and-code-meaning/"/>
+        <updated>2022-01-03T17:32:46.000Z</updated>
+        <summary type="html"><![CDATA[When you start learning to code, one of the questions you probably ask yourself is "What lannguage should I learn first?"  One of the most exciting – and at times overwhelming – things about learning to code is just how much there is to learn.  But instead of just focusing]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Java – Free Java Courses for Beginners]]></title>
+        <id>61b207db946db661defb945e</id>
+        <link href="https://www.freecodecamp.org/news/learn-java-free-java-courses-for-beginners/"/>
+        <updated>2022-01-03T17:06:06.000Z</updated>
+        <summary type="html"><![CDATA[Java is a really popular programming language that has been around for over 25+ years. If you are interested in learning Java, then there are plenty of free online courses to choose from. Java Tutorial for Beginners - Programming with MoshJava Course - SoloLearnJava Programming: Solving Problems with Software -]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Browser Extension]]></title>
+        <id>https://css-tricks.com/?p=359615</id>
+        <link href="https://css-tricks.com/how-to-create-a-browser-extension/"/>
+        <updated>2022-01-03T15:12:31.000Z</updated>
+        <summary type="html"><![CDATA[I’ll bet you are using browser extensions right now. Some of them are extremely popular and useful, like ad blockers, password managers, and PDF viewers. These extensions (or “add-ons”) are not limited to those purposes — you can do a …
+How to Create a Browser Extension originally published on CSS-Tricks]]></summary>
+        <author>
+            <name>Lars Kölker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Composition-Based Design System In Figma]]></title>
+        <id>https://smashingmagazine.com/2022/01/composition-based-design-system-figma/</id>
+        <link href="https://smashingmagazine.com/2022/01/composition-based-design-system-figma/"/>
+        <updated>2022-01-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Aleksandra Nagornaia)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thank You (2021 Edition)]]></title>
         <id>https://css-tricks.com/?p=359698</id>

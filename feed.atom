@@ -2,10 +2,139 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-04T00:58:35.267Z</updated>
+    <updated>2022-01-05T01:00:27.455Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Async Callbacks in JavaScript...Without Callbacks?]]></title>
+        <id>61d392f6d2d9de084285b76f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-async-callbacks-in-javascript/"/>
+        <updated>2022-01-04T23:38:48.000Z</updated>
+        <summary type="html"><![CDATA[Noodling about on Discord today, the same question came up a few times on a few different servers. I thought it was a great question, and it seems my brain doesn't work quite the way others might expect.  Here's the question: "So I have a fetch function, and I'm doing]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Better Git Commit Messages – A Step-By-Step Guide]]></title>
+        <id>61d1c911a700150888933fb8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/"/>
+        <updated>2022-01-04T22:34:45.000Z</updated>
+        <summary type="html"><![CDATA[When first introduced to Git, it's typical for developers to feel uncomfortable with the process.  You might feel uncertainty when encountering the Git commit message, unsure how to properly summarize the changes you've made and why you've made them. But the earlier in your career you can develop good committing]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Open Visual Studio Code From Your Terminal]]></title>
+        <id>61d3917cd2d9de084285b707</id>
+        <link href="https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/"/>
+        <updated>2022-01-04T21:13:11.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we'll go over how you can open the VS Code text editor (Visual Studio Code) from your Mac terminal.  Opening your text editor from your terminal is a quick, easy way to open up new projects and begin coding faster.  How to Download and Open VS CodeThe]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should CSS Override Default Browser Styles?]]></title>
+        <id>https://css-tricks.com/?p=359880</id>
+        <link href="https://css-tricks.com/should-css-override-default-styles/"/>
+        <updated>2022-01-04T19:50:18.000Z</updated>
+        <summary type="html"><![CDATA[CSS overrides can change the default look of almost anything:
+You can use CSS to override what a checkbox or radio button looks like, but if you don’t, the checkbox will look like a default checkbox on your operating system 
+…
+Should CSS Override Default Browser Styles? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Tag in HTML – What is Metadata and Meta Description Example]]></title>
+        <id>61c1ad52755c160824908a23</id>
+        <link href="https://www.freecodecamp.org/news/meta-tag-in-html-what-is-metadata-and-meta-description-example/"/>
+        <updated>2022-01-04T18:52:11.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn what meta tags are in HTML and how to use them. Then we'll go over some of the most important meta tags that you need to include in every new HTML project.  Let's get started!  How to set up an HTML project When setting up]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Types of Software Development Training – New Data for Choosing the Best IT Career Training Resource]]></title>
+        <id>61d22dd0a700150888934505</id>
+        <link href="https://www.freecodecamp.org/news/types-of-software-development-training-new-data-for-choosing-the-best-it-career-training-resource/"/>
+        <updated>2022-01-04T17:59:53.000Z</updated>
+        <summary type="html"><![CDATA[A long, long time ago – back in late November, 2021 to be precise – I wrote "A Data Analysis of IT Career Training Tool Efficacy" to help with the difficult task of making smart career education choices.  Believe it or not, there have already been some important updates. That article began]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Beautiful Box Shadows in HTML and CSS]]></title>
+        <id>61d1a886a700150888933e3c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-beautiful-box-shadows-in-html-and-css/"/>
+        <updated>2022-01-04T16:57:11.000Z</updated>
+        <summary type="html"><![CDATA[Whenever you're designing a card in HTML, box shadows play a vital role in making the cards stand out.  Whether its a pricing page card or even an e-commerce product listing card, box shadows can make or break the look and the entire message that that cards need to convey.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Git Works Under the Hood]]></title>
+        <id>6176cded33422e07df363fa2</id>
+        <link href="https://www.freecodecamp.org/news/git-under-the-hood/"/>
+        <updated>2022-01-04T16:34:00.000Z</updated>
+        <summary type="html"><![CDATA[As developers, we all use some form of version control system, and the most popular one is Git.  A lot of us use Git, but very few know how it really works under the hood. We mostly just use it with a GUI client or the ones built into our]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Search Functionality to a Frontend Application]]></title>
+        <id>61c05f65aabf6478ea746281</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-search-to-frontend-app/"/>
+        <updated>2022-01-04T16:28:58.000Z</updated>
+        <summary type="html"><![CDATA[As a software developer, part of your job is to deliver the best user experience possible to those using your site or product.  And building a helpful and efficient search function is one way you can do this. So if you are looking for the right way to build out]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automount a Storage Partition on Startup in Linux]]></title>
+        <id>61c55981755c16082490a553</id>
+        <link href="https://www.freecodecamp.org/news/automount-a-storage-partition-on-startup-in-linux/"/>
+        <updated>2022-01-04T16:09:16.000Z</updated>
+        <summary type="html"><![CDATA[By default, Linux OS does not automount any other partition at startup other than the root and the home partition.  You can mount other partitions very easily later, but you might want to enable some kind of automount feature on startup. This means that you won't need to mount them]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Underlines Are Too Thin and Too Low in Chrome]]></title>
+        <id>https://css-tricks.com/?p=359838</id>
+        <link href="https://css-tricks.com/css-underlines-are-too-thin-and-too-low-in-chrome/"/>
+        <updated>2022-01-04T15:30:18.000Z</updated>
+        <summary type="html"><![CDATA[I’ve encountered two bugs in Chrome while testing the new CSS text-decoration-thickness and text-underline-offset properties, and I want to share them with you here in this article.
+But first, let’s acknowledge one thing:
+Default underlines are inconsistent
+Let’s add a …
+CSS Underlines Are Too Thin and Too Low in Chrome originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Šime Vidas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jetpack Features We Love and Use at CSS-Tricks]]></title>
+        <id>https://css-tricks.com/?p=360452</id>
+        <link href="https://css-tricks.com/jetpack-features-we-love-and-use-at-css-tricks/"/>
+        <updated>2022-01-04T15:28:03.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+We use and love Jetpack around here. It’s a WordPress plugin that brings a whole suite of functionality to your site ranging from security to marketing with lots of ridiculously useful stuff in between! …
+Jetpack Features We Love and Use at CSS-Tricks originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Web Workers Work in JavaScript – With a Practical JS Example]]></title>
         <id>61cfe874a7001508889339e4</id>

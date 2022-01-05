@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359880",
+          "author": "Chris Coyier",
+          "description": "CSS overrides can change the default look of almost anything:\nYou can use CSS to override what a checkbox or radio button looks like, but if you don’t, the checkbox will look like a default checkbox on your operating system \n…\nShould CSS Override Default Browser Styles? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/should-css-override-default-styles/",
+          "publishedOn": "2022-01-04T19:50:18.000Z",
+          "wordCount": 754,
+          "title": "Should CSS Override Default Browser Styles?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359838",
+          "author": "Šime Vidas",
+          "description": "I’ve encountered two bugs in Chrome while testing the new CSS text-decoration-thickness and text-underline-offset properties, and I want to share them with you here in this article.\nBut first, let’s acknowledge one thing:\nDefault underlines are inconsistent\nLet’s add a …\nCSS Underlines Are Too Thin and Too Low in Chrome originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-underlines-are-too-thin-and-too-low-in-chrome/",
+          "publishedOn": "2022-01-04T15:30:18.000Z",
+          "wordCount": 1120,
+          "title": "CSS Underlines Are Too Thin and Too Low in Chrome"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360452",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nWe use and love Jetpack around here. It’s a WordPress plugin that brings a whole suite of functionality to your site ranging from security to marketing with lots of ridiculously useful stuff in between! …\nJetpack Features We Love and Use at CSS-Tricks originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/jetpack-features-we-love-and-use-at-css-tricks/",
+          "publishedOn": "2022-01-04T15:28:03.000Z",
+          "wordCount": 937,
+          "title": "Jetpack Features We Love and Use at CSS-Tricks"
+        },
+        {
           "id": "https://css-tricks.com/?p=360385",
           "author": "Chris Coyier",
           "description": "Fingerprinting is bad. It’s a term that refers to building up enough metadata about a user that you can essentially figure out who they are. JavaScript has access to all sorts of fingerprinting possibilities, which then combined with the IP …\nCSS-Based Fingerprinting originally published on CSS-Tricks",
@@ -783,6 +810,87 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61d392f6d2d9de084285b76f",
+          "author": null,
+          "description": "Noodling about on Discord today, the same question came up a few times on a few different servers. I thought it was a great question, and it seems my brain doesn't work quite the way others might expect.  Here's the question: \"So I have a fetch function, and I'm doing",
+          "link": "https://www.freecodecamp.org/news/how-to-handle-async-callbacks-in-javascript/",
+          "publishedOn": "2022-01-04T23:38:48.000Z",
+          "wordCount": 1906,
+          "title": "How to Handle Async Callbacks in JavaScript...Without Callbacks?"
+        },
+        {
+          "id": "61d1c911a700150888933fb8",
+          "author": null,
+          "description": "When first introduced to Git, it's typical for developers to feel uncomfortable with the process.  You might feel uncertainty when encountering the Git commit message, unsure how to properly summarize the changes you've made and why you've made them. But the earlier in your career you can develop good committing",
+          "link": "https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/",
+          "publishedOn": "2022-01-04T22:34:45.000Z",
+          "wordCount": 1774,
+          "title": "How to Write Better Git Commit Messages – A Step-By-Step Guide"
+        },
+        {
+          "id": "61d3917cd2d9de084285b707",
+          "author": null,
+          "description": "In this tutorial, we'll go over how you can open the VS Code text editor (Visual Studio Code) from your Mac terminal.  Opening your text editor from your terminal is a quick, easy way to open up new projects and begin coding faster.  How to Download and Open VS CodeThe",
+          "link": "https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/",
+          "publishedOn": "2022-01-04T21:13:11.000Z",
+          "wordCount": 459,
+          "title": "How to Open Visual Studio Code From Your Terminal"
+        },
+        {
+          "id": "61c1ad52755c160824908a23",
+          "author": null,
+          "description": "In this article, you'll learn what meta tags are in HTML and how to use them. Then we'll go over some of the most important meta tags that you need to include in every new HTML project.  Let's get started!  How to set up an HTML project When setting up",
+          "link": "https://www.freecodecamp.org/news/meta-tag-in-html-what-is-metadata-and-meta-description-example/",
+          "publishedOn": "2022-01-04T18:52:11.000Z",
+          "wordCount": 1463,
+          "title": "Meta Tag in HTML – What is Metadata and Meta Description Example"
+        },
+        {
+          "id": "61d22dd0a700150888934505",
+          "author": null,
+          "description": "A long, long time ago – back in late November, 2021 to be precise – I wrote \"A Data Analysis of IT Career Training Tool Efficacy\" to help with the difficult task of making smart career education choices.  Believe it or not, there have already been some important updates. That article began",
+          "link": "https://www.freecodecamp.org/news/types-of-software-development-training-new-data-for-choosing-the-best-it-career-training-resource/",
+          "publishedOn": "2022-01-04T17:59:53.000Z",
+          "wordCount": 1240,
+          "title": "Types of Software Development Training – New Data for Choosing the Best IT Career Training Resource"
+        },
+        {
+          "id": "61d1a886a700150888933e3c",
+          "author": null,
+          "description": "Whenever you're designing a card in HTML, box shadows play a vital role in making the cards stand out.  Whether its a pricing page card or even an e-commerce product listing card, box shadows can make or break the look and the entire message that that cards need to convey.",
+          "link": "https://www.freecodecamp.org/news/how-to-create-beautiful-box-shadows-in-html-and-css/",
+          "publishedOn": "2022-01-04T16:57:11.000Z",
+          "wordCount": 1364,
+          "title": "How to Create Beautiful Box Shadows in HTML and CSS"
+        },
+        {
+          "id": "6176cded33422e07df363fa2",
+          "author": null,
+          "description": "As developers, we all use some form of version control system, and the most popular one is Git.  A lot of us use Git, but very few know how it really works under the hood. We mostly just use it with a GUI client or the ones built into our",
+          "link": "https://www.freecodecamp.org/news/git-under-the-hood/",
+          "publishedOn": "2022-01-04T16:34:00.000Z",
+          "wordCount": 2811,
+          "title": "How Git Works Under the Hood"
+        },
+        {
+          "id": "61c05f65aabf6478ea746281",
+          "author": null,
+          "description": "As a software developer, part of your job is to deliver the best user experience possible to those using your site or product.  And building a helpful and efficient search function is one way you can do this. So if you are looking for the right way to build out",
+          "link": "https://www.freecodecamp.org/news/how-to-add-search-to-frontend-app/",
+          "publishedOn": "2022-01-04T16:28:58.000Z",
+          "wordCount": 2139,
+          "title": "How to Add Search Functionality to a Frontend Application"
+        },
+        {
+          "id": "61c55981755c16082490a553",
+          "author": null,
+          "description": "By default, Linux OS does not automount any other partition at startup other than the root and the home partition.  You can mount other partitions very easily later, but you might want to enable some kind of automount feature on startup. This means that you won't need to mount them",
+          "link": "https://www.freecodecamp.org/news/automount-a-storage-partition-on-startup-in-linux/",
+          "publishedOn": "2022-01-04T16:09:16.000Z",
+          "wordCount": 949,
+          "title": "How to Automount a Storage Partition on Startup in Linux"
+        },
         {
           "id": "61cfe874a7001508889339e4",
           "author": null,

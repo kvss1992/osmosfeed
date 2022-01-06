@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-05T01:00:27.455Z</updated>
+    <updated>2022-01-06T01:04:19.219Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Notes on Josh Comeau’s Custom CSS Reset]]></title>
+        <id>https://css-tricks.com/?p=359736</id>
+        <link href="https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/"/>
+        <updated>2022-01-05T21:22:45.000Z</updated>
+        <summary type="html"><![CDATA[We recently talked with Elad Shechter on his new CSS reset, and shortly after that Josh Comeau blogged his. 
+We’re in something of a new era of CSS resets where… you kind of don’t need one? There isn’t …
+Notes on Josh Comeau’s Custom CSS Reset originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Accessibility Errors and How To Fix Them]]></title>
+        <id>61c53829755c16082490a517</id>
+        <link href="https://www.freecodecamp.org/news/common-accessibility-errors-and-how-to-fix-them/"/>
+        <updated>2022-01-05T21:15:24.000Z</updated>
+        <summary type="html"><![CDATA[The Web Content Accessibility Guidelines, or WCAG, defines how to make websites accessible for people with disabilities.  When we evaluate whether or not website is accessible, we look to see if software meets WCAG 2 standards.  Accessibility should not be an after thought, but rather a major part of the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up AWS Cognito Authentication with Serverless and NodeJS]]></title>
+        <id>61d2fb81d2d9de084285afb4</id>
+        <link href="https://www.freecodecamp.org/news/aws-cognito-authentication-with-serverless-and-nodejs/"/>
+        <updated>2022-01-05T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we are going to see how we can create a REST API application for authentication using AWS Cognito, AWS Serverless, and NodeJS.  We are going to use Lambda functions, API Gateway, and the Serverless framework to achieve this. Let’s start by setting up the project. Project]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UI Design with Figma - Tutorial]]></title>
+        <id>61d5d077d2d9de084285c670</id>
+        <link href="https://www.freecodecamp.org/news/ui-design-with-figma-tutorial/"/>
+        <updated>2022-01-05T18:46:36.000Z</updated>
+        <summary type="html"><![CDATA[Figma is a vector graphics editor and prototyping tool that is often used for UI design.  We just published a 10-hour Figma course that will teach you how to use the tool for UI design. Joseph Brendan developed this course. Joseph is a great instructor who has taught thousands of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement a Naive Bayes Classifier with Rust]]></title>
+        <id>61c60601755c16082490aa7f</id>
+        <link href="https://www.freecodecamp.org/news/implement-naive-bayes-with-rust/"/>
+        <updated>2022-01-05T17:53:04.000Z</updated>
+        <summary type="html"><![CDATA[I want to improve my Rust skills, and help you hone yours as well. So I've decided to write a series of articles about the Rust programing language.  By actually building stuff with Rust, we'll learn about a wide range of technological concepts in the process. In this installment, we’]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Rename a Local and Remote Branch in Git]]></title>
+        <id>61d1d7fda7001508889341ad</id>
+        <link href="https://www.freecodecamp.org/news/how-to-rename-local-and-remote-git-branch/"/>
+        <updated>2022-01-05T17:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever needed to rename a Git branch? If so, this article will assist you in resolving the problem. Git makes it simple to rename a git branch both locally and remotely. Let's take a look at the solution. Why would you need to rename a branch in Git?]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Component That Supports Multiple Frameworks in a Monorepo]]></title>
+        <id>https://css-tricks.com/?p=360239</id>
+        <link href="https://css-tricks.com/make-a-component-multiple-frameworks-in-a-monorepo/"/>
+        <updated>2022-01-05T15:42:59.000Z</updated>
+        <summary type="html"><![CDATA[Your mission — should you decide to accept it — is to build a Button component in four frameworks, but, only use one button.css file!
+This idea is very important to me. I’ve been working on a component library called …
+How to Make a Component That Supports Multiple Frameworks in a Monorepo originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Rob Levin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten Tips For Aspiring Designer Beginners (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/</id>
+        <link href="https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/"/>
+        <updated>2022-01-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Handle Async Callbacks in JavaScript...Without Callbacks?]]></title>
         <id>61d392f6d2d9de084285b76f</id>
@@ -1599,86 +1683,6 @@ I’ve built WordPress websites for I don’t know how long now, but suffice to 
         <link href="https://www.freecodecamp.org/news/how-to-build-a-todoapp-using-react-and-supabase/"/>
         <updated>2021-12-07T15:48:26.000Z</updated>
         <summary type="html"><![CDATA[Hello folks, welcome to this tutorial. Today we're going to build a production-ready Todo application with React, Next, and Supabase. Before we begin, you should be familiar with the basics of React.js and Next.js to get the most out of this guide.  If you're not and need to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use an iPad for WordPress Theme Development]]></title>
-        <id>https://css-tricks.com/?p=357869</id>
-        <link href="https://css-tricks.com/how-to-use-an-ipad-for-wordpress-theme-development/"/>
-        <updated>2021-12-06T23:28:03.000Z</updated>
-        <summary type="html"><![CDATA[I recently started university and, before buying a MacBook Air (the M1 chips are amazing by the way), I had to use an iPad Pro for class. However, being a Computer Science student meant I had to find a way …]]></summary>
-        <author>
-            <name>Jakob Bouchard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Props (and Custom Properties as a System)]]></title>
-        <id>https://css-tricks.com/?p=358263</id>
-        <link href="https://css-tricks.com/open-props-and-custom-properties-as-a-system/"/>
-        <updated>2021-12-06T21:43:28.000Z</updated>
-        <summary type="html"><![CDATA[Perhaps the most basic and obvious use of CSS custom properties is design tokens. Colors, fonts, spacings, timings, and other atomic bits of design that you can pull from as you design a site. If you pretty much only pull …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hhhelpers]]></title>
-        <id>https://css-tricks.com/?p=358325</id>
-        <link href="https://css-tricks.com/hhhelpers/"/>
-        <updated>2021-12-06T21:43:15.000Z</updated>
-        <summary type="html"><![CDATA[I was just going on about how many awesome little helper sites there are out there, and now I’ve ran across another wonderful little hive of them. Sébastien Noël, under the name fffuel, has created a whole bunch of great …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Type Erasure in TypeScript?]]></title>
-        <id>61a1322f25888a07c3e1c124</id>
-        <link href="https://www.freecodecamp.org/news/what-is-type-erasure-in-typescript/"/>
-        <updated>2021-12-06T19:21:41.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript is a transpiled language, and there is a step in the process called type erasure. So what exactly is transpiling, and what is type erasure? Higher Level vs Lower Level Programming LanguagesBefore we explain further, we have to understand higher and lower level languages. Higher level languages are more]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Better Links For Websites And Emails: A Guideline]]></title>
-        <id>https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/</id>
-        <link href="https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/"/>
-        <updated>2021-12-06T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Slava Shestopalov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Rid of the Activate Windows Watermark [Windows 10 PC Activation Message Removal]]]></title>
-        <id>61ae22d7946db661defb7d18</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-rid-of-the-activate-windows-watermark-windows-10-pc-activation-message-removal/"/>
-        <updated>2021-12-06T16:00:21.000Z</updated>
-        <summary type="html"><![CDATA[If you're a Windows user, you might have seen the "Activate Windows" message that displays over every other thing – including your cursor. I guess they gave it a z-index of infinity.  This message gets displayed when you use a Windows OS that has an invalid or expired license.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reduce Your Website’s Environmental Impact With a Carbon Budget]]></title>
-        <id>https://css-tricks.com/?p=356833</id>
-        <link href="https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/"/>
-        <updated>2021-12-06T15:57:09.000Z</updated>
-        <summary type="html"><![CDATA[As I write this, world leaders are gathering in Glasgow for COP26, the international climate change conference, in the attempt to halt (or at least slow down) catastrophic climate change by pledging to end their countries’ dependence on fossil fuels. …]]></summary>
-        <author>
-            <name>Michelle Barker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Build Apps From a Business Perspective]]></title>
-        <id>61af7c5e946db661defb8589</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-build-apps-from-a-business-perspective/"/>
-        <updated>2021-12-06T15:37:00.000Z</updated>
-        <summary type="html"><![CDATA[There is way more to building successful apps than just coding. In fact, coding is often the easiest part. There are many business considerations that are extremely important. We just published an 8-hour course on the freeCodeCamp.org YouTube channel that will teach you the business of building apps.  Shad]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

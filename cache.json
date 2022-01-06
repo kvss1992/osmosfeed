@@ -12,6 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359736",
+          "author": "Chris Coyier",
+          "description": "We recently talked with Elad Shechter on his new CSS reset, and shortly after that Josh Comeau blogged his. \nWe’re in something of a new era of CSS resets where… you kind of don’t need one? There isn’t …\nNotes on Josh Comeau’s Custom CSS Reset originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/",
+          "publishedOn": "2022-01-05T21:22:45.000Z",
+          "wordCount": 1291,
+          "title": "Notes on Josh Comeau’s Custom CSS Reset"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360239",
+          "author": "Rob Levin",
+          "description": "Your mission — should you decide to accept it — is to build a Button component in four frameworks, but, only use one button.css file!\nThis idea is very important to me. I’ve been working on a component library called …\nHow to Make a Component That Supports Multiple Frameworks in a Monorepo originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/make-a-component-multiple-frameworks-in-a-monorepo/",
+          "publishedOn": "2022-01-05T15:42:59.000Z",
+          "wordCount": 5455,
+          "title": "How to Make a Component That Supports Multiple Frameworks in a Monorepo"
+        },
+        {
           "id": "https://css-tricks.com/?p=359880",
           "author": "Chris Coyier",
           "description": "CSS overrides can change the default look of almost anything:\nYou can use CSS to override what a checkbox or radio button looks like, but if you don’t, the checkbox will look like a default checkbox on your operating system \n…\nShould CSS Override Default Browser Styles? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -577,42 +595,6 @@
           "publishedOn": "2021-12-07T16:18:14.000Z",
           "wordCount": 699,
           "title": "Jetpack Licensing for Agencies and Professionals"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357869",
-          "author": "Jakob Bouchard",
-          "description": "I recently started university and, before buying a MacBook Air (the M1 chips are amazing by the way), I had to use an iPad Pro for class. However, being a Computer Science student meant I had to find a way …",
-          "link": "https://css-tricks.com/how-to-use-an-ipad-for-wordpress-theme-development/",
-          "publishedOn": "2021-12-06T23:28:03.000Z",
-          "wordCount": 1781,
-          "title": "How to Use an iPad for WordPress Theme Development"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358263",
-          "author": "Chris Coyier",
-          "description": "Perhaps the most basic and obvious use of CSS custom properties is design tokens. Colors, fonts, spacings, timings, and other atomic bits of design that you can pull from as you design a site. If you pretty much only pull …",
-          "link": "https://css-tricks.com/open-props-and-custom-properties-as-a-system/",
-          "publishedOn": "2021-12-06T21:43:28.000Z",
-          "wordCount": 894,
-          "title": "Open Props (and Custom Properties as a System)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358325",
-          "author": "Chris Coyier",
-          "description": "I was just going on about how many awesome little helper sites there are out there, and now I’ve ran across another wonderful little hive of them. Sébastien Noël, under the name fffuel, has created a whole bunch of great …",
-          "link": "https://css-tricks.com/hhhelpers/",
-          "publishedOn": "2021-12-06T21:43:15.000Z",
-          "wordCount": 373,
-          "title": "hhhelpers"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356833",
-          "author": "Michelle Barker",
-          "description": "As I write this, world leaders are gathering in Glasgow for COP26, the international climate change conference, in the attempt to halt (or at least slow down) catastrophic climate change by pledging to end their countries’ dependence on fossil fuels. …",
-          "link": "https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/",
-          "publishedOn": "2021-12-06T15:57:09.000Z",
-          "wordCount": 1514,
-          "title": "Reduce Your Website’s Environmental Impact With a Carbon Budget"
         }
       ]
     },
@@ -621,6 +603,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
+          "author": "hello@smashingmagazine.com (Luis Ouriach)",
+          "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
+          "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
+          "publishedOn": "2022-01-05T13:00:00.000Z",
+          "wordCount": 4074,
+          "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
           "author": "hello@smashingmagazine.com (Aleksandra Nagornaia)",
@@ -788,20 +784,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/",
-          "author": "hello@smashingmagazine.com (Slava Shestopalov)",
-          "description": "There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.",
-          "link": "https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/",
-          "publishedOn": "2021-12-06T17:30:00.000Z",
-          "wordCount": 2547,
-          "title": "Designing Better Links For Websites And Emails: A Guideline",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b157db62-e93c-4607-9c84-698fad4da3b3/designing-better-links-websites-emails-guideline.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -810,6 +792,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61c53829755c16082490a517",
+          "author": null,
+          "description": "The Web Content Accessibility Guidelines, or WCAG, defines how to make websites accessible for people with disabilities.  When we evaluate whether or not website is accessible, we look to see if software meets WCAG 2 standards.  Accessibility should not be an after thought, but rather a major part of the",
+          "link": "https://www.freecodecamp.org/news/common-accessibility-errors-and-how-to-fix-them/",
+          "publishedOn": "2022-01-05T21:15:24.000Z",
+          "wordCount": 1635,
+          "title": "Common Accessibility Errors and How To Fix Them"
+        },
+        {
+          "id": "61d2fb81d2d9de084285afb4",
+          "author": null,
+          "description": "In this post, we are going to see how we can create a REST API application for authentication using AWS Cognito, AWS Serverless, and NodeJS.  We are going to use Lambda functions, API Gateway, and the Serverless framework to achieve this. Let’s start by setting up the project. Project",
+          "link": "https://www.freecodecamp.org/news/aws-cognito-authentication-with-serverless-and-nodejs/",
+          "publishedOn": "2022-01-05T20:15:00.000Z",
+          "wordCount": 1883,
+          "title": "How to Set Up AWS Cognito Authentication with Serverless and NodeJS"
+        },
+        {
+          "id": "61d5d077d2d9de084285c670",
+          "author": null,
+          "description": "Figma is a vector graphics editor and prototyping tool that is often used for UI design.  We just published a 10-hour Figma course that will teach you how to use the tool for UI design. Joseph Brendan developed this course. Joseph is a great instructor who has taught thousands of",
+          "link": "https://www.freecodecamp.org/news/ui-design-with-figma-tutorial/",
+          "publishedOn": "2022-01-05T18:46:36.000Z",
+          "wordCount": 370,
+          "title": "UI Design with Figma - Tutorial"
+        },
+        {
+          "id": "61c60601755c16082490aa7f",
+          "author": null,
+          "description": "I want to improve my Rust skills, and help you hone yours as well. So I've decided to write a series of articles about the Rust programing language.  By actually building stuff with Rust, we'll learn about a wide range of technological concepts in the process. In this installment, we’",
+          "link": "https://www.freecodecamp.org/news/implement-naive-bayes-with-rust/",
+          "publishedOn": "2022-01-05T17:53:04.000Z",
+          "wordCount": 2562,
+          "title": "How to Implement a Naive Bayes Classifier with Rust"
+        },
+        {
+          "id": "61d1d7fda7001508889341ad",
+          "author": null,
+          "description": "Have you ever needed to rename a Git branch? If so, this article will assist you in resolving the problem. Git makes it simple to rename a git branch both locally and remotely. Let's take a look at the solution. Why would you need to rename a branch in Git?",
+          "link": "https://www.freecodecamp.org/news/how-to-rename-local-and-remote-git-branch/",
+          "publishedOn": "2022-01-05T17:19:49.000Z",
+          "wordCount": 444,
+          "title": "How to Rename a Local and Remote Branch in Git"
+        },
         {
           "id": "61d392f6d2d9de084285b76f",
           "author": null,
@@ -1511,33 +1538,6 @@
           "publishedOn": "2021-12-07T15:48:26.000Z",
           "wordCount": 7358,
           "title": "How to Build a TodoApp using ReactJS, NextJS, and Supabase"
-        },
-        {
-          "id": "61a1322f25888a07c3e1c124",
-          "author": null,
-          "description": "TypeScript is a transpiled language, and there is a step in the process called type erasure. So what exactly is transpiling, and what is type erasure? Higher Level vs Lower Level Programming LanguagesBefore we explain further, we have to understand higher and lower level languages. Higher level languages are more",
-          "link": "https://www.freecodecamp.org/news/what-is-type-erasure-in-typescript/",
-          "publishedOn": "2021-12-06T19:21:41.000Z",
-          "wordCount": 756,
-          "title": "What is Type Erasure in TypeScript?"
-        },
-        {
-          "id": "61ae22d7946db661defb7d18",
-          "author": null,
-          "description": "If you're a Windows user, you might have seen the \"Activate Windows\" message that displays over every other thing – including your cursor. I guess they gave it a z-index of infinity.  This message gets displayed when you use a Windows OS that has an invalid or expired license.",
-          "link": "https://www.freecodecamp.org/news/how-to-get-rid-of-the-activate-windows-watermark-windows-10-pc-activation-message-removal/",
-          "publishedOn": "2021-12-06T16:00:21.000Z",
-          "wordCount": 1003,
-          "title": "How to Get Rid of the Activate Windows Watermark [Windows 10 PC Activation Message Removal]"
-        },
-        {
-          "id": "61af7c5e946db661defb8589",
-          "author": null,
-          "description": "There is way more to building successful apps than just coding. In fact, coding is often the easiest part. There are many business considerations that are extremely important. We just published an 8-hour course on the freeCodeCamp.org YouTube channel that will teach you the business of building apps.  Shad",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-build-apps-from-a-business-perspective/",
-          "publishedOn": "2021-12-06T15:37:00.000Z",
-          "wordCount": 827,
-          "title": "Learn How to Build Apps From a Business Perspective"
         }
       ]
     }

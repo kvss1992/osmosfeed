@@ -12,6 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360320",
+          "author": "Chris Coyier",
+          "description": "There is an easy-to-use CSS container query polyfill now. You essentially conditionally load it and forget about it. Then write spec-compliant container queries code.\nA New Container Query Polyfill That Just Works originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/a-new-container-query-polyfill-that-just-works/",
+          "publishedOn": "2022-01-06T22:28:46.000Z",
+          "wordCount": 1173,
+          "title": "A New Container Query Polyfill That Just Works"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358917",
+          "author": "Alex Lazar",
+          "description": "I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …\nThe Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/the-search-for-a-fixed-background-effect-with-inline-images/",
+          "publishedOn": "2022-01-06T15:58:55.000Z",
+          "wordCount": 1196,
+          "title": "The Search For a Fixed Background Effect With Inline Images"
+        },
+        {
           "id": "https://css-tricks.com/?p=359736",
           "author": "Chris Coyier",
           "description": "We recently talked with Elad Shechter on his new CSS reset, and shortly after that Josh Comeau blogged his. \nWe’re in something of a new era of CSS resets where… you kind of don’t need one? There isn’t …\nNotes on Josh Comeau’s Custom CSS Reset originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -559,42 +577,6 @@
           "publishedOn": "2021-12-08T16:00:01.000Z",
           "wordCount": 457,
           "title": "The Invisible JavaScript Backdoor"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356433",
-          "author": "Chris Coyier",
-          "description": "What if HTML had “tabs”? That would be cool, says I. Dave has been spending some of his time and energy, along with a group of “Tabvengers” from OpenUI, on this. A lot of research leads to a bit …",
-          "link": "https://css-tricks.com/spicy-sections/",
-          "publishedOn": "2021-12-07T22:03:19.000Z",
-          "wordCount": 763,
-          "title": "Spicy Sections"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357637",
-          "author": "Eric Bailey",
-          "description": "There is a huge and ever-widening gap between the devices we use to make the web and the devices most people use to consume it. It’s also no secret that the average size of a website is huge, and …",
-          "link": "https://css-tricks.com/test-your-product-on-a-crappy-laptop/",
-          "publishedOn": "2021-12-07T19:01:05.000Z",
-          "wordCount": 1478,
-          "title": "Test Your Product on a Crappy Laptop"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358321",
-          "author": "Chris Coyier",
-          "description": "I’ve always like Jeremy’s categorization of developer tools:\nI’ve mentioned two categories of tools for web development. I still don’t know quite what to call these categories. Internal and external? Developer-facing and user-facing?\nThe first category covers things like \n…",
-          "link": "https://css-tricks.com/inertia/",
-          "publishedOn": "2021-12-07T16:20:21.000Z",
-          "wordCount": 1005,
-          "title": "Inertia"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358411",
-          "author": "Geoff Graham",
-          "description": "(This is a sponsored post.)\nI’ve built WordPress websites for I don’t know how long now, but suffice to say I’ve relied on it for a bulk of the work I do as a freelance front-ender. And in that …",
-          "link": "https://css-tricks.com/jetpack-licensing-for-agencies-and-professionals/",
-          "publishedOn": "2021-12-07T16:18:14.000Z",
-          "wordCount": 699,
-          "title": "Jetpack Licensing for Agencies and Professionals"
         }
       ]
     },
@@ -792,6 +774,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61c63165755c16082490aaf2",
+          "author": null,
+          "description": "Pie charts are common components that let you show portions of a whole, and you can use them for many different purposes.  You will find a lot of articles around building such a component, but they typically either rely on SVG or a lot of HTML elements.  In this post,",
+          "link": "https://www.freecodecamp.org/news/css-only-pie-chart/",
+          "publishedOn": "2022-01-06T20:41:44.000Z",
+          "wordCount": 1729,
+          "title": "How to Create a Pie Chart Using Only CSS"
+        },
+        {
+          "id": "61d21460a7001508889343d7",
+          "author": null,
+          "description": "Two years out of coding bootcamp and I had an incredible offer from one of the world’s most highly-regarded tech companies…and I declined it. On paper, it was the dream job. Heck, it would have been the most “adult” job I’d ever had in my life so",
+          "link": "https://www.freecodecamp.org/news/why-i-turned-down-a-six-figure-salary-in-big-tech-to-stay-at-a-five-person-startup/",
+          "publishedOn": "2022-01-06T18:13:50.000Z",
+          "wordCount": 3762,
+          "title": "Why I Turned Down a Six-Figure Salary in Big Tech to Stay at a Five-Person Startup"
+        },
+        {
+          "id": "61d716e6d2d9de084285d794",
+          "author": null,
+          "description": "To improve your skills in machine learning and artificial intelligence, it is important to solve real-world problems. What better problem to solve then helping to save people's lives? Machine learning is being used more and more in the field of healthcare. PyTorch and Monai can be used to discover tumors",
+          "link": "https://www.freecodecamp.org/news/pytorch-and-monai-for-healthcare-imaging/",
+          "publishedOn": "2022-01-06T16:30:57.000Z",
+          "wordCount": 347,
+          "title": "Real-World Machine Learning—PyTorch and Monai for Healthcare Imaging"
+        },
+        {
+          "id": "61d4d739d2d9de084285c147",
+          "author": null,
+          "description": "Material UI's Data Grid is a powerful and flexible data table. It makes it easy for you to display data and perform out of the box functionalities such as editing, sorting, filtering, pagination and more. In this article, we'll discuss why you should use the Data Grid in Material UI",
+          "link": "https://www.freecodecamp.org/news/how-to-integrate-material-ui-data-grid-in-react-using-data-from-a-rest-api/",
+          "publishedOn": "2022-01-06T16:30:56.000Z",
+          "wordCount": 1656,
+          "title": "How to Integrate the Material UI Data Grid in React Using Data from a REST API"
+        },
+        {
+          "id": "6193e30c11d3cb08287a7189",
+          "author": null,
+          "description": "A developer portfolio is a great way to showcase your current skill level to potential employers.  This guide will go from hello world to a fully-featured portfolio project to show your current projects with images and links to source code. You'll also build an accompanying blog where you can detail",
+          "link": "https://www.freecodecamp.org/news/build-your-developer-portfolio-from-scratch-with-sveltekit-and-graphcms/",
+          "publishedOn": "2022-01-06T16:12:00.000Z",
+          "wordCount": 11455,
+          "title": "Build your Developer Portfolio and Blog from Scratch with Svelte and GraphCMS – A Complete Guide"
+        },
         {
           "id": "61c53829755c16082490a517",
           "author": null,
@@ -1475,69 +1502,6 @@
           "publishedOn": "2021-12-08T17:20:41.000Z",
           "wordCount": 1063,
           "title": "There Was a Problem with Resetting Your PC [Reset PC Fixed on Windows 10]"
-        },
-        {
-          "id": "61a43b7925888a07c3e1d115",
-          "author": null,
-          "description": "More than 18,000 people responded to the 2021 freeCodeCamp New Coder Survey. This grants us all significant insight into how thousands of people all around the world are learning to code, and why they are choosing to do so.  We’ve released the entire dataset of participants’ responses to",
-          "link": "https://www.freecodecamp.org/news/2021-new-coder-survey-18000-people-share-how-theyre-learning-to-code/",
-          "publishedOn": "2021-12-07T22:40:42.000Z",
-          "wordCount": 1843,
-          "title": "The 2021 New Coder Survey – More than 18,000 People Share How and Why They are Learning to Code"
-        },
-        {
-          "id": "61a9ff36946db661defb7472",
-          "author": null,
-          "description": "Code splitting is a way to split up your code from a large file into smaller code bundles. These can then be requested on demand or in parallel.  Now, it isn't a new concept, but it can be tricky to understand. When you're doing code splitting, it is important to",
-          "link": "https://www.freecodecamp.org/news/code-splitting-in-react-loadable-components/",
-          "publishedOn": "2021-12-07T20:41:40.000Z",
-          "wordCount": 1156,
-          "title": "Code Splitting in React – Loadable Components to the Rescue"
-        },
-        {
-          "id": "61af976e946db661defb881f",
-          "author": null,
-          "description": "Bootstrap is the most popular CSS framework. It allows web developers to quickly design and customize responsive mobile-first sites. We just published a 3-hour course on the freeCodeCamp.org YouTube channel that will teach you how to use Bootstrap 5. Dawid Adach developed this course. Dawid has been working with",
-          "link": "https://www.freecodecamp.org/news/full-bootstrap-5-tutorial-for-beginners/",
-          "publishedOn": "2021-12-07T17:47:12.000Z",
-          "wordCount": 304,
-          "title": "Full Bootstrap 5 Tutorial for Beginners"
-        },
-        {
-          "id": "61a776fd0c0c7407b2b3eeba",
-          "author": null,
-          "description": "Python is a versatile and flexible language – there is often more than one way to achieve something.  In this tutorial, you'll see some of the ways you can print a string and a variable together.  Let's get started!  How to use the print() function in Python To print anything in",
-          "link": "https://www.freecodecamp.org/news/python-print-variable-how-to-print-a-string-and-variable/",
-          "publishedOn": "2021-12-07T17:26:18.000Z",
-          "wordCount": 1627,
-          "title": "Python Print Variable – How to Print a String and Variable"
-        },
-        {
-          "id": "61a648220c0c7407b2b3e7e3",
-          "author": null,
-          "description": "If you've been wondering whether you should go for a technical certification or not, then this article is for you.  In it, I will share with you how I approach such dilemmas to help you decide what to pursue.  Why You Should Get Technical Certifications The main reasons to get",
-          "link": "https://www.freecodecamp.org/news/technical-certification-guide/",
-          "publishedOn": "2021-12-07T16:31:49.000Z",
-          "wordCount": 1161,
-          "title": "Technical Certification Guide – Are They Worth It, and How to Choose One"
-        },
-        {
-          "id": "61ab940f946db661defb79ca",
-          "author": null,
-          "description": "TypeScript offers us a level of \"safety\" in our code by adding static types. We can guarantee that certain properties or functions are present in our code by making them conform to types. This can hugely reduce the amount of client-side errors you might have in your website, because it",
-          "link": "https://www.freecodecamp.org/news/typescript-literal-and-collective-types/",
-          "publishedOn": "2021-12-07T15:55:33.000Z",
-          "wordCount": 541,
-          "title": "TypeScript Literal and Collective Types"
-        },
-        {
-          "id": "611b56ece884de075217ff7f",
-          "author": null,
-          "description": "Hello folks, welcome to this tutorial. Today we're going to build a production-ready Todo application with React, Next, and Supabase. Before we begin, you should be familiar with the basics of React.js and Next.js to get the most out of this guide.  If you're not and need to",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-todoapp-using-react-and-supabase/",
-          "publishedOn": "2021-12-07T15:48:26.000Z",
-          "wordCount": 7358,
-          "title": "How to Build a TodoApp using ReactJS, NextJS, and Supabase"
         }
       ]
     }

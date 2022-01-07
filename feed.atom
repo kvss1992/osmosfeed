@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-06T01:04:19.219Z</updated>
+    <updated>2022-01-07T01:03:47.976Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A New Container Query Polyfill That Just Works]]></title>
+        <id>https://css-tricks.com/?p=360320</id>
+        <link href="https://css-tricks.com/a-new-container-query-polyfill-that-just-works/"/>
+        <updated>2022-01-06T22:28:46.000Z</updated>
+        <summary type="html"><![CDATA[There is an easy-to-use CSS container query polyfill now. You essentially conditionally load it and forget about it. Then write spec-compliant container queries code.
+A New Container Query Polyfill That Just Works originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Pie Chart Using Only CSS]]></title>
+        <id>61c63165755c16082490aaf2</id>
+        <link href="https://www.freecodecamp.org/news/css-only-pie-chart/"/>
+        <updated>2022-01-06T20:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Pie charts are common components that let you show portions of a whole, and you can use them for many different purposes.  You will find a lot of articles around building such a component, but they typically either rely on SVG or a lot of HTML elements.  In this post,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Turned Down a Six-Figure Salary in Big Tech to Stay at a Five-Person Startup]]></title>
+        <id>61d21460a7001508889343d7</id>
+        <link href="https://www.freecodecamp.org/news/why-i-turned-down-a-six-figure-salary-in-big-tech-to-stay-at-a-five-person-startup/"/>
+        <updated>2022-01-06T18:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Two years out of coding bootcamp and I had an incredible offer from one of the world’s most highly-regarded tech companies…and I declined it. On paper, it was the dream job. Heck, it would have been the most “adult” job I’d ever had in my life so]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-World Machine Learning—PyTorch and Monai for Healthcare Imaging]]></title>
+        <id>61d716e6d2d9de084285d794</id>
+        <link href="https://www.freecodecamp.org/news/pytorch-and-monai-for-healthcare-imaging/"/>
+        <updated>2022-01-06T16:30:57.000Z</updated>
+        <summary type="html"><![CDATA[To improve your skills in machine learning and artificial intelligence, it is important to solve real-world problems. What better problem to solve then helping to save people's lives? Machine learning is being used more and more in the field of healthcare. PyTorch and Monai can be used to discover tumors]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate the Material UI Data Grid in React Using Data from a REST API]]></title>
+        <id>61d4d739d2d9de084285c147</id>
+        <link href="https://www.freecodecamp.org/news/how-to-integrate-material-ui-data-grid-in-react-using-data-from-a-rest-api/"/>
+        <updated>2022-01-06T16:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Material UI's Data Grid is a powerful and flexible data table. It makes it easy for you to display data and perform out of the box functionalities such as editing, sorting, filtering, pagination and more. In this article, we'll discuss why you should use the Data Grid in Material UI]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build your Developer Portfolio and Blog from Scratch with Svelte and GraphCMS – A Complete Guide]]></title>
+        <id>6193e30c11d3cb08287a7189</id>
+        <link href="https://www.freecodecamp.org/news/build-your-developer-portfolio-from-scratch-with-sveltekit-and-graphcms/"/>
+        <updated>2022-01-06T16:12:00.000Z</updated>
+        <summary type="html"><![CDATA[A developer portfolio is a great way to showcase your current skill level to potential employers.  This guide will go from hello world to a fully-featured portfolio project to show your current projects with images and links to source code. You'll also build an accompanying blog where you can detail]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Search For a Fixed Background Effect With Inline Images]]></title>
+        <id>https://css-tricks.com/?p=358917</id>
+        <link href="https://css-tricks.com/the-search-for-a-fixed-background-effect-with-inline-images/"/>
+        <updated>2022-01-06T15:58:55.000Z</updated>
+        <summary type="html"><![CDATA[I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …
+The Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Alex Lazar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notes on Josh Comeau’s Custom CSS Reset]]></title>
         <id>https://css-tricks.com/?p=359736</id>
@@ -1571,120 +1643,6 @@ What if a backdoor literally cannot be seen and thus evades detection even f
 I’ll post the screenshot of the exploit from the post with the …]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 2021 New Coder Survey – More than 18,000 People Share How and Why They are Learning to Code]]></title>
-        <id>61a43b7925888a07c3e1d115</id>
-        <link href="https://www.freecodecamp.org/news/2021-new-coder-survey-18000-people-share-how-theyre-learning-to-code/"/>
-        <updated>2021-12-07T22:40:42.000Z</updated>
-        <summary type="html"><![CDATA[More than 18,000 people responded to the 2021 freeCodeCamp New Coder Survey. This grants us all significant insight into how thousands of people all around the world are learning to code, and why they are choosing to do so.  We’ve released the entire dataset of participants’ responses to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spicy Sections]]></title>
-        <id>https://css-tricks.com/?p=356433</id>
-        <link href="https://css-tricks.com/spicy-sections/"/>
-        <updated>2021-12-07T22:03:19.000Z</updated>
-        <summary type="html"><![CDATA[What if HTML had “tabs”? That would be cool, says I. Dave has been spending some of his time and energy, along with a group of “Tabvengers” from OpenUI, on this. A lot of research leads to a bit …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code Splitting in React – Loadable Components to the Rescue]]></title>
-        <id>61a9ff36946db661defb7472</id>
-        <link href="https://www.freecodecamp.org/news/code-splitting-in-react-loadable-components/"/>
-        <updated>2021-12-07T20:41:40.000Z</updated>
-        <summary type="html"><![CDATA[Code splitting is a way to split up your code from a large file into smaller code bundles. These can then be requested on demand or in parallel.  Now, it isn't a new concept, but it can be tricky to understand. When you're doing code splitting, it is important to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Test Your Product on a Crappy Laptop]]></title>
-        <id>https://css-tricks.com/?p=357637</id>
-        <link href="https://css-tricks.com/test-your-product-on-a-crappy-laptop/"/>
-        <updated>2021-12-07T19:01:05.000Z</updated>
-        <summary type="html"><![CDATA[There is a huge and ever-widening gap between the devices we use to make the web and the devices most people use to consume it. It’s also no secret that the average size of a website is huge, and …]]></summary>
-        <author>
-            <name>Eric Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Bootstrap 5 Tutorial for Beginners]]></title>
-        <id>61af976e946db661defb881f</id>
-        <link href="https://www.freecodecamp.org/news/full-bootstrap-5-tutorial-for-beginners/"/>
-        <updated>2021-12-07T17:47:12.000Z</updated>
-        <summary type="html"><![CDATA[Bootstrap is the most popular CSS framework. It allows web developers to quickly design and customize responsive mobile-first sites. We just published a 3-hour course on the freeCodeCamp.org YouTube channel that will teach you how to use Bootstrap 5. Dawid Adach developed this course. Dawid has been working with]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Print Variable – How to Print a String and Variable]]></title>
-        <id>61a776fd0c0c7407b2b3eeba</id>
-        <link href="https://www.freecodecamp.org/news/python-print-variable-how-to-print-a-string-and-variable/"/>
-        <updated>2021-12-07T17:26:18.000Z</updated>
-        <summary type="html"><![CDATA[Python is a versatile and flexible language – there is often more than one way to achieve something.  In this tutorial, you'll see some of the ways you can print a string and a variable together.  Let's get started!  How to use the print() function in Python To print anything in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technical Certification Guide – Are They Worth It, and How to Choose One]]></title>
-        <id>61a648220c0c7407b2b3e7e3</id>
-        <link href="https://www.freecodecamp.org/news/technical-certification-guide/"/>
-        <updated>2021-12-07T16:31:49.000Z</updated>
-        <summary type="html"><![CDATA[If you've been wondering whether you should go for a technical certification or not, then this article is for you.  In it, I will share with you how I approach such dilemmas to help you decide what to pursue.  Why You Should Get Technical Certifications The main reasons to get]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inertia]]></title>
-        <id>https://css-tricks.com/?p=358321</id>
-        <link href="https://css-tricks.com/inertia/"/>
-        <updated>2021-12-07T16:20:21.000Z</updated>
-        <summary type="html"><![CDATA[I’ve always like Jeremy’s categorization of developer tools:
-I’ve mentioned two categories of tools for web development. I still don’t know quite what to call these categories. Internal and external? Developer-facing and user-facing?
-The first category covers things like 
-…]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jetpack Licensing for Agencies and Professionals]]></title>
-        <id>https://css-tricks.com/?p=358411</id>
-        <link href="https://css-tricks.com/jetpack-licensing-for-agencies-and-professionals/"/>
-        <updated>2021-12-07T16:18:14.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-I’ve built WordPress websites for I don’t know how long now, but suffice to say I’ve relied on it for a bulk of the work I do as a freelance front-ender. And in that …]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript Literal and Collective Types]]></title>
-        <id>61ab940f946db661defb79ca</id>
-        <link href="https://www.freecodecamp.org/news/typescript-literal-and-collective-types/"/>
-        <updated>2021-12-07T15:55:33.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript offers us a level of "safety" in our code by adding static types. We can guarantee that certain properties or functions are present in our code by making them conform to types. This can hugely reduce the amount of client-side errors you might have in your website, because it]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a TodoApp using ReactJS, NextJS, and Supabase]]></title>
-        <id>611b56ece884de075217ff7f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-todoapp-using-react-and-supabase/"/>
-        <updated>2021-12-07T15:48:26.000Z</updated>
-        <summary type="html"><![CDATA[Hello folks, welcome to this tutorial. Today we're going to build a production-ready Todo application with React, Next, and Supabase. Before we begin, you should be familiar with the basics of React.js and Next.js to get the most out of this guide.  If you're not and need to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

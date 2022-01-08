@@ -2,10 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-07T01:03:47.976Z</updated>
+    <updated>2022-01-08T00:58:21.189Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[8 Interesting Typography Links for January 2022]]></title>
+        <id>https://css-tricks.com/?p=360711</id>
+        <link href="https://css-tricks.com/typography-links-january-2022/"/>
+        <updated>2022-01-07T22:31:52.000Z</updated>
+        <summary type="html"><![CDATA[Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Typography is one of those things! Here’s a list of typography links to other articles that I’ve been saving up and …
+8 Interesting Typography Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Headings and IDs for Your freeCodeCamp Blog Post Table of Contents]]></title>
+        <id>61d6e37ad2d9de084285d220</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-headings-and-ids-for-your-freecodecamp-blog-posts/"/>
+        <updated>2022-01-07T21:31:15.000Z</updated>
+        <summary type="html"><![CDATA[In this post we're going to get all the headings from a freeCodeCamp blog post to make a Table of Contents (ToC) in Ghost CMS. I recently published quite a large post here on freeCodeCamp and needed to add a table of contents to the post. There's a really good]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyboard Not Working? How to Fix Windows 10 Keyboard Not Typing Problem]]></title>
+        <id>61d7e914d2d9de084285df19</id>
+        <link href="https://www.freecodecamp.org/news/keyboard-not-working-how-to-fix-windows-10-keyboard-not-typing-problem/"/>
+        <updated>2022-01-07T21:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever sat down to write some code or browse the internet, only to discover that your keyboard isn't working?  When your keyboard fails to work, it could be due to:  Physical damage Dirt Filter keys Outdated or corrupt driver Low battery (if you're using an external keyboard). You]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adam Argyle’s Sick Mouse-Out CSS Hover Effect]]></title>
+        <id>https://css-tricks.com/?p=360113</id>
+        <link href="https://css-tricks.com/adam-argyles-sick-mouse-out-css-hover-effect/"/>
+        <updated>2022-01-07T20:15:19.000Z</updated>
+        <summary type="html"><![CDATA[I was killing some time browsing my CodePen feed for some eye candy and didn’t need to go past the first page before spotting a neat CSS hover effect by Adam Argyle.
+I must’ve spent 10 minutes just staring …
+Adam Argyle’s Sick Mouse-Out CSS Hover Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Not Equal – Does Not Equal Operator Tutorial]]></title>
+        <id>61d74f40d2d9de084285da90</id>
+        <link href="https://www.freecodecamp.org/news/python-not-equal-how-to-use-the-does-not-equal-operator/"/>
+        <updated>2022-01-07T18:16:14.000Z</updated>
+        <summary type="html"><![CDATA[When you're learning the basics of most programming languages, you are bound to come across operators.  In this tutorial, we will talk about the not equal operator in Python and also see a few examples of how it works.  Operators and Operands in PythonBefore talking about the not equal operator,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Git and GitHub in a Team like a Pro – Featuring Harry and Hermione 🧙]]></title>
+        <id>6181e65c8bcfae07ca4e068b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-git-and-github-in-a-team-like-a-pro/"/>
+        <updated>2022-01-07T18:13:40.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn how to work in a team with a central repository on GitHub. You will work on issues, commits, pull requests, code reviews, and more. I don't consider myself an expert on Git, but I have learned a lot about it in my first month]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Append in Python – How to Append to a List or an Array]]></title>
+        <id>61c8aeac755c16082490b36c</id>
+        <link href="https://www.freecodecamp.org/news/append-in-python-how-to-append-to-a-list-or-an-array/"/>
+        <updated>2022-01-07T17:41:31.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn about the .append() method in Python.  You'll also see how .append() differs from other methods used to add elements to lists.  Let's get started!  What are lists in Python? A definition for beginners An array in programming is an ordered collection of items, and all]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 Network Adapter Missing – How to Install Ethernet Driver on PC]]></title>
+        <id>61d7ed4ad2d9de084285df89</id>
+        <link href="https://www.freecodecamp.org/news/windows-10-network-adapter-missing-how-to-install-ethernet-driver-on-pc/"/>
+        <updated>2022-01-07T16:34:05.000Z</updated>
+        <summary type="html"><![CDATA[On Windows 10 and other versions of the Windows operating system, you need a network adapter to connect to the internet through a wired or wireless network.  Sometimes, you might get an error that your network adapter is missing. This can be very frustrating because you won't be able to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)]]></title>
+        <id>https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/</id>
+        <link href="https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/"/>
+        <updated>2022-01-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Scott Himmer)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[useRainbow()]]></title>
+        <id>https://css-tricks.com/?p=359823</id>
+        <link href="https://css-tricks.com/userainbow/"/>
+        <updated>2022-01-07T14:59:04.000Z</updated>
+        <summary type="html"><![CDATA[I took a break from work and started some small, personal projects (toys). One of those small projects is potato.horse where I keep all of my doodles, visual short stories and jokes. Check it out!
+However, this post is not …
+useRainbow() originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Rafał Pastuszak</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A New Container Query Polyfill That Just Works]]></title>
         <id>https://css-tricks.com/?p=360320</id>
@@ -1587,62 +1692,6 @@ MarkUp is the leading visual commenting platform for images, PDFs, and live webs
         <summary type="html"><![CDATA[Everybody loves a nice freebie, right? To get you in the mood for the upcoming holidays, we collected some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flip, Invert, and Reverse]]></title>
-        <id>https://css-tricks.com/?p=358554</id>
-        <link href="https://css-tricks.com/flip-invert-and-reverse/"/>
-        <updated>2021-12-09T00:27:11.000Z</updated>
-        <summary type="html"><![CDATA[The SVG <path> syntax is a beast. There are all sorts of commands that make up a mini-language all of its own — so powerful that it’s capable of drawing anything. Don’t be too scared of it, though, because some …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on WordPress I]]></title>
-        <id>https://css-tricks.com/?p=358344</id>
-        <link href="https://css-tricks.com/links-on-wordpress-i/"/>
-        <updated>2021-12-08T21:32:33.000Z</updated>
-        <summary type="html"><![CDATA[I try to keep up with WordPress news because I’m a big WordPress user and have many production sites that run on it. WordPress has been good to me as a site builder for literally my entire career. So, like …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There Was a Problem with Resetting Your PC [Reset PC Fixed on Windows 10]]]></title>
-        <id>61b0ab56946db661defb8a16</id>
-        <link href="https://www.freecodecamp.org/news/there-was-a-problem-with-resetting-your-pc-reset-pc-fixed-on-windows-10/"/>
-        <updated>2021-12-08T17:20:41.000Z</updated>
-        <summary type="html"><![CDATA[There are a number of reasons why you might want to reset your PC. From malware attacks to bad PC health, or maybe you just want to start afresh – the list goes on.  When you're resetting your PC, you might get the error "There was a problem resetting your]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn From Remix]]></title>
-        <id>https://css-tricks.com/?p=357405</id>
-        <link href="https://css-tricks.com/learn-from-remix/"/>
-        <updated>2021-12-08T16:05:20.000Z</updated>
-        <summary type="html"><![CDATA[I’ve built websites that are used by millions of people all over the world. I’ve made more mistakes than I care to count and I’ve had to deal with the repercussions of those mistakes for years thereafter. Through all of …]]></summary>
-        <author>
-            <name>Kent C. Dodds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Invisible JavaScript Backdoor]]></title>
-        <id>https://css-tricks.com/?p=358496</id>
-        <link href="https://css-tricks.com/the-invisible-javascript-backdoor/"/>
-        <updated>2021-12-08T16:00:01.000Z</updated>
-        <summary type="html"><![CDATA[An interesting (scary) trick of an nearly undetectable exploit. Wolfgang Ettlinger:
-What if a backdoor literally cannot be seen and thus evades detection even from thorough code reviews?
-
-
-
-
-I’ll post the screenshot of the exploit from the post with the …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>

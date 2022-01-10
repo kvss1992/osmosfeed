@@ -505,33 +505,6 @@
           "publishedOn": "2021-12-13T15:17:24.000Z",
           "wordCount": 1149,
           "title": "Ship a Full-Stack App in Days with AWS Amplify Studio"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356088",
-          "author": "Chris Coyier",
-          "description": "I wanted to write down what I think the reasons are here in December of 2021 so that we might revisit it from time to time in the future and see if these reasons are still relevant. I’m a web …",
-          "link": "https://css-tricks.com/why-would-a-business-push-a-native-app-over-a-website/",
-          "publishedOn": "2021-12-10T22:09:56.000Z",
-          "wordCount": 2224,
-          "title": "Why would a business push a native app over a website?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358575",
-          "author": "Chris Coyier",
-          "description": "Say you’ve got a two-column CSS grid and you want one of those columns to behave like position: sticky;. There is nothing stopping you from doing that. But the default height for those two columns is going to be …",
-          "link": "https://css-tricks.com/using-position-sticky-with-css-grid/",
-          "publishedOn": "2021-12-10T18:07:18.000Z",
-          "wordCount": 468,
-          "title": "Using Position Sticky With CSS Grid"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357373",
-          "author": "Stephanie Eckles",
-          "description": "Take two minutes right now and visit your current project in a browser. Then, using only the Tab key, you should be able to navigate between interactive elements including buttons, links, and form elements.\nIf you are sighted, you should…",
-          "link": "https://css-tricks.com/standardizing-focus-styles-with-css-custom-properties/",
-          "publishedOn": "2021-12-10T16:00:48.000Z",
-          "wordCount": 1237,
-          "title": "Standardizing Focus Styles With CSS Custom Properties"
         }
       ]
     },
@@ -1412,42 +1385,6 @@
           "publishedOn": "2021-12-13T16:23:09.000Z",
           "wordCount": 409,
           "title": "Become a Full Stack Developer with Svelte, Postgres, Vercel, and Gitpod"
-        },
-        {
-          "id": "6170b9fdd48e1707b6d79422",
-          "author": null,
-          "description": "Building an app is a difficult task in itself. From conceptualization, to market research, design, and development, it takes a whole lot of resources. But if you are making something for the public, you know building it is only half of the work, right? If you want your app to",
-          "link": "https://www.freecodecamp.org/news/how-to-market-your-mobile-app-on-a-budget/",
-          "publishedOn": "2021-12-10T21:36:23.000Z",
-          "wordCount": 1543,
-          "title": "How to Market Your Mobile App On a Budget"
-        },
-        {
-          "id": "61b2b70f946db661defb9a67",
-          "author": null,
-          "description": "In this article, we'll learn to build a Graphical User Interface (GUI) Quiz Application using the Tkinter Python built-in module.  The task is to ask multiple-choice questions, collect user answers, and finally display the results.  Before coding the GUI, we'll first see how to fetch multiple-choice questions, their correct answers,",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-gui-quiz-application-using-tkinter-and-open-trivia-db/",
-          "publishedOn": "2021-12-10T21:29:54.000Z",
-          "wordCount": 3049,
-          "title": "How to Build a GUI Quiz App Using Tkinter and Open Trivia DB"
-        },
-        {
-          "id": "6165c56780d82d07c45a372a",
-          "author": null,
-          "description": "Have you ever needed an icon for your website, but you couldn't quite find the right one? Or perhaps you wanted to have a simple diagram, but didn't want to learn a whole new library just for that?  Well, good news – you can do all that and more without ever",
-          "link": "https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/",
-          "publishedOn": "2021-12-10T19:13:16.000Z",
-          "wordCount": 2547,
-          "title": "SVG Tutorial – How to Code Images with 7 Examples"
-        },
-        {
-          "id": "61b07e0b946db661defb8929",
-          "author": null,
-          "description": "How to print out information is one of the first things you learn as a beginner programmer.  This article goes over what you need to know about printing in Python, and we'll look at plenty of code examples along the way.  Let's get started!  What is print used for? Printing",
-          "link": "https://www.freecodecamp.org/news/print-statement-in-python-how-to-print-with-example-syntax-command/",
-          "publishedOn": "2021-12-10T17:45:08.000Z",
-          "wordCount": 1757,
-          "title": "Print Statement in Python – How to Print with Example Syntax Command"
         }
       ]
     }

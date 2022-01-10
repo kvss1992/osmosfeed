@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-09T01:01:36.409Z</updated>
+    <updated>2022-01-10T00:57:21.409Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
@@ -1501,77 +1501,6 @@ Amazon has a vision with AWS Amplify. First, a premise:
 As browsers have become faster and more powerful over the last decade, front-end developers are building web apps that are more feature-rich and …]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why would a business push a native app over a website?]]></title>
-        <id>https://css-tricks.com/?p=356088</id>
-        <link href="https://css-tricks.com/why-would-a-business-push-a-native-app-over-a-website/"/>
-        <updated>2021-12-10T22:09:56.000Z</updated>
-        <summary type="html"><![CDATA[I wanted to write down what I think the reasons are here in December of 2021 so that we might revisit it from time to time in the future and see if these reasons are still relevant. I’m a web …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Market Your Mobile App On a Budget]]></title>
-        <id>6170b9fdd48e1707b6d79422</id>
-        <link href="https://www.freecodecamp.org/news/how-to-market-your-mobile-app-on-a-budget/"/>
-        <updated>2021-12-10T21:36:23.000Z</updated>
-        <summary type="html"><![CDATA[Building an app is a difficult task in itself. From conceptualization, to market research, design, and development, it takes a whole lot of resources. But if you are making something for the public, you know building it is only half of the work, right? If you want your app to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a GUI Quiz App Using Tkinter and Open Trivia DB]]></title>
-        <id>61b2b70f946db661defb9a67</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-gui-quiz-application-using-tkinter-and-open-trivia-db/"/>
-        <updated>2021-12-10T21:29:54.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll learn to build a Graphical User Interface (GUI) Quiz Application using the Tkinter Python built-in module.  The task is to ask multiple-choice questions, collect user answers, and finally display the results.  Before coding the GUI, we'll first see how to fetch multiple-choice questions, their correct answers,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVG Tutorial – How to Code Images with 7 Examples]]></title>
-        <id>6165c56780d82d07c45a372a</id>
-        <link href="https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/"/>
-        <updated>2021-12-10T19:13:16.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever needed an icon for your website, but you couldn't quite find the right one? Or perhaps you wanted to have a simple diagram, but didn't want to learn a whole new library just for that?  Well, good news – you can do all that and more without ever]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Position Sticky With CSS Grid]]></title>
-        <id>https://css-tricks.com/?p=358575</id>
-        <link href="https://css-tricks.com/using-position-sticky-with-css-grid/"/>
-        <updated>2021-12-10T18:07:18.000Z</updated>
-        <summary type="html"><![CDATA[Say you’ve got a two-column CSS grid and you want one of those columns to behave like position: sticky;. There is nothing stopping you from doing that. But the default height for those two columns is going to be …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Print Statement in Python – How to Print with Example Syntax Command]]></title>
-        <id>61b07e0b946db661defb8929</id>
-        <link href="https://www.freecodecamp.org/news/print-statement-in-python-how-to-print-with-example-syntax-command/"/>
-        <updated>2021-12-10T17:45:08.000Z</updated>
-        <summary type="html"><![CDATA[How to print out information is one of the first things you learn as a beginner programmer.  This article goes over what you need to know about printing in Python, and we'll look at plenty of code examples along the way.  Let's get started!  What is print used for? Printing]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Standardizing Focus Styles With CSS Custom Properties]]></title>
-        <id>https://css-tricks.com/?p=357373</id>
-        <link href="https://css-tricks.com/standardizing-focus-styles-with-css-custom-properties/"/>
-        <updated>2021-12-10T16:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Take two minutes right now and visit your current project in a browser. Then, using only the Tab key, you should be able to navigate between interactive elements including buttons, links, and form elements.
-If you are sighted, you should…]]></summary>
-        <author>
-            <name>Stephanie Eckles</name>
         </author>
     </entry>
 </feed>

@@ -22,6 +22,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=361233",
+          "author": "Chris Coyier",
+          "description": "Hot off the presses from Devon Govett, creator of Parcel, is Parcel CSS:\nA CSS parser, transformer, and minifier written in Rust.\n\nNice. The CSS world could use a little processing shake up like this.\nI just wrote a …\nParcel CSS: A New CSS Parser, Transformer, and Minifier originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/parcel-css/",
+          "publishedOn": "2022-01-12T21:10:53.000Z",
+          "wordCount": 775,
+          "title": "Parcel CSS: A New CSS Parser, Transformer, and Minifier"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360607",
+          "author": "Chris Coyier",
+          "description": "It’s a god-damned miracle to me that open source is as robust as it is in tech. Consider the options. You could have a job (or be entrepreneurial) with your coding skills and likely be paid quite well. Or, you …\nOpen Source & Sustainability originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/open-source-sustainability/",
+          "publishedOn": "2022-01-12T20:51:49.000Z",
+          "wordCount": 998,
+          "title": "Open Source & Sustainability"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360168",
+          "author": "Jhey Tompkins",
+          "description": "You know how you can get cardboard boxes that come totally flat? You fold ‘em up and tape ‘em to make them into a useful box. Then when it’s time to recycle them, you cut them back apart to flatten …\nHow to Make a Pure CSS 3D Package Toggle originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/how-to-make-a-pure-css-3d-package-toggle/",
+          "publishedOn": "2022-01-12T15:29:38.000Z",
+          "wordCount": 3144,
+          "title": "How to Make a Pure CSS 3D Package Toggle"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361191",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nNetlify is amazing at static file hosting, but it’s really so much more than that. You can build any sort of website, even highly dynamic apps, with the Jamstack approach and static file hosting …\nNetlify Identity, a Key Aspect to Jamstack Development originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/netlify-identity/",
+          "publishedOn": "2022-01-12T14:13:00.000Z",
+          "wordCount": 581,
+          "title": "Netlify Identity, a Key Aspect to Jamstack Development"
+        },
+        {
           "id": "https://css-tricks.com/?p=360490",
           "author": "Chris Coyier",
           "description": "Say you have an elements with CSS tooltips and you’re going to position those tooltips such that it opens up next to the element on hover (or probably better: when clicked/tapped). Next to it where? Above it? What if the …\nWhat Would it Take to Prevent CSS Tooltips From Overflowing? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -524,51 +560,6 @@
           "publishedOn": "2021-12-14T15:35:04.000Z",
           "wordCount": 619,
           "title": "I’m confused about Static Site Generators. Are they only for informational sites where I can’t log in or display any dynamic data?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358436",
-          "author": "Chris Coyier",
-          "description": "Ya know, I used to do one of these posts after making a few podcast appearances I hadn’t had a chance to link up yet, so I could share them. As fate would have it, I haven’t been on many …",
-          "link": "https://css-tricks.com/css-tricks-chronicle-xxxxi/",
-          "publishedOn": "2021-12-13T22:55:14.000Z",
-          "wordCount": 1001,
-          "title": "CSS-Tricks Chronicle XXXXI"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359002",
-          "author": "Chris Coyier",
-          "description": "I read a a recent Smashing Magazine post that recommendation Hygen. I just happen to be doing quite a bit of new UI work in a Next.js app and the amount of manual folder/file scaffolding I was doing was …",
-          "link": "https://css-tricks.com/file-scaffolding-with-hygen/",
-          "publishedOn": "2021-12-13T22:05:20.000Z",
-          "wordCount": 861,
-          "title": "File Scaffolding With Hygen"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358926",
-          "author": "Chris Coyier",
-          "description": "Josh’s Shadow Palette Generator is a fantastic tool. The premise is that box-shadow pretty much always looks better when there are multiple layered shadows that are a bit tinted. It reminds me of how gradients almost always look better when …",
-          "link": "https://css-tricks.com/shadow-palette-generator/",
-          "publishedOn": "2021-12-13T18:13:22.000Z",
-          "wordCount": 431,
-          "title": "Shadow Palette Generator"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358612",
-          "author": "Bramus",
-          "description": "So what is the one thing that people can do is to make their website better? To answer that, let’s take a step back in time …\nThe year is 1998, and the web is on the rise. In an …",
-          "link": "https://css-tricks.com/embrace-the-platform/",
-          "publishedOn": "2021-12-13T15:18:08.000Z",
-          "wordCount": 1986,
-          "title": "Embrace the Platform"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358450",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nAmazon has a vision with AWS Amplify. First, a premise:\nAs browsers have become faster and more powerful over the last decade, front-end developers are building web apps that are more feature-rich and …",
-          "link": "https://css-tricks.com/ship-a-full-stack-app-in-days-with-aws-amplify-studio/",
-          "publishedOn": "2021-12-13T15:17:24.000Z",
-          "wordCount": 1149,
-          "title": "Ship a Full-Stack App in Days with AWS Amplify Studio"
         }
       ]
     },
@@ -577,6 +568,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
+          "author": "hello@smashingmagazine.com (Kate Kalcevich)",
+          "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
+          "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
+          "publishedOn": "2022-01-12T10:30:00.000Z",
+          "wordCount": 3852,
+          "title": "How To Hire For Digital Accessibility Roles",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
           "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
@@ -758,20 +763,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
-          "author": "hello@smashingmagazine.com (Nafees Nehar)",
-          "description": "To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.",
-          "link": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
-          "publishedOn": "2021-12-14T10:30:00.000Z",
-          "wordCount": 2062,
-          "title": "Modifying Headers In HTTP(s) Requests In UI Automation Testing",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8590d77e-8181-4d36-9e2e-d4e9c76a893a/headers-https-requests-ui-automation-testing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -780,6 +771,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61def1f8b837d507ba0a06cd",
+          "author": null,
+          "description": "In this article, you'll learn how to trim a string in Python using the .strip() method.  You'll also see how to use the .lstrip() and .rstrip() methods, which are the counterparts to .strip().  Let's get started!  How to trim a string in Python Python has three built-in methods for trimming",
+          "link": "https://www.freecodecamp.org/news/python-strip-how-to-trim-a-string-or-line/",
+          "publishedOn": "2022-01-12T20:48:03.000Z",
+          "wordCount": 1060,
+          "title": "Python strip() – How to Trim a String or Line"
+        },
+        {
+          "id": "61df0010b837d507ba0a0840",
+          "author": null,
+          "description": "Flutter and Firebase can work well together to create a full stack app. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build an Instagram clone using Flutter on the front end and Firebase on the back end. After this tutorial, you",
+          "link": "https://www.freecodecamp.org/news/code-a-full-stack-instagram-clone-with-flutter-and-firebase/",
+          "publishedOn": "2022-01-12T16:29:13.000Z",
+          "wordCount": 417,
+          "title": "Code a Full Stack Instagram Clone with Flutter and Firebase"
+        },
         {
           "id": "61db119ad2d9de084285f51f",
           "author": null,
@@ -842,6 +851,15 @@
           "publishedOn": "2022-01-11T16:47:43.000Z",
           "wordCount": 1573,
           "title": "How the let, const, and var Keywords Work in JavaScript"
+        },
+        {
+          "id": "61defbc6b837d507ba0a07af",
+          "author": null,
+          "description": "Are you preparing for coding interviews? Or competitive programming? It can take a lot of study and practice to get good at solving coding problems often used in interviews.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to solve 10 common coding",
+          "link": "https://www.freecodecamp.org/news/10-common-coding-interview-problems-solved/",
+          "publishedOn": "2022-01-11T16:08:00.000Z",
+          "wordCount": 347,
+          "title": "10 Common Coding Interview Problems [Solved]"
         },
         {
           "id": "61d8d033d2d9de084285e93e",
@@ -1553,69 +1571,6 @@
           "publishedOn": "2021-12-14T14:08:56.000Z",
           "wordCount": 2454,
           "title": "Securing Your Apps - What is DevSecOps?"
-        },
-        {
-          "id": "61b5815307222107a6c78cf7",
-          "author": null,
-          "description": "Designing a distributed system that supports millions of users is a complex task, and one that requires continuous improvement and refinement.  Recently I read a book by Alex Xu called \"System Design Interview – An Insider's Guide\". This article, inspired by the first part of the book, shares some popular techniques",
-          "link": "https://www.freecodecamp.org/news/how-to-scale-a-distributed-system/",
-          "publishedOn": "2021-12-13T23:37:24.000Z",
-          "wordCount": 1964,
-          "title": "How to Scale a Distributed System"
-        },
-        {
-          "id": "61b3865f07222107a6c7822e",
-          "author": null,
-          "description": "An API, or Application Programming Interface, is a server that lets you retrieve and send data using code. We mostly commonly use APIs to retrieve data, and that will be the focus of this beginner-friendly tutorial. When we want to receive data from an API, we need to make a",
-          "link": "https://www.freecodecamp.org/news/how-to-interact-with-web-services-using-python/",
-          "publishedOn": "2021-12-13T23:03:42.000Z",
-          "wordCount": 3247,
-          "title": "Python Requests – How to Interact with Web Services using Python"
-        },
-        {
-          "id": "61aca6a8946db661defb7a86",
-          "author": null,
-          "description": "In this blog post I'll walk you through a real life example which uses the concept of classes in Javascript.  I think it's helpful to work with a practical use case because it is much simpler to understand the concepts when you can relate them to real life.  So in",
-          "link": "https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/",
-          "publishedOn": "2021-12-13T19:24:50.000Z",
-          "wordCount": 3609,
-          "title": "JavaScript Classes – How They Work with Use Case Example"
-        },
-        {
-          "id": "61783e5e33422e07df364ce7",
-          "author": null,
-          "description": "People often ask me: Should I present myself as a solo freelancer or as an agency?In this article I will explore this idea with you and hopefully leave you with a clearer sense of direction. TL;DR: You can do both. The Benefits of Solo vs Agency FreelancingWhether you",
-          "link": "https://www.freecodecamp.org/news/solo-freelancing-vs-agency/",
-          "publishedOn": "2021-12-13T17:18:18.000Z",
-          "wordCount": 1291,
-          "title": "Solo Freelancing vs Agency – What&#x27;s The Difference?"
-        },
-        {
-          "id": "61b760fc07222107a6c79303",
-          "author": null,
-          "description": "Screencasting is a cool feature that was built into the Windows 10 Anniversary update in 2019.  It's also called Wireless Display. It lets you project your phone display to a Windows 10 computer – which can help you out in a lot of ways, especially if you’re a YouTuber.  Getting",
-          "link": "https://www.freecodecamp.org/news/share-screen-on-android-how-to-cast-my-screen-with-a-windows-10-pc/",
-          "publishedOn": "2021-12-13T17:09:33.000Z",
-          "wordCount": 775,
-          "title": "Share Screen on Android – How to Cast my Screen with a Windows 10 PC"
-        },
-        {
-          "id": "61b20893946db661defb946a",
-          "author": null,
-          "description": "Python is a great programming language to learn and you can use it in a variety of areas in software development.  You can use Python for web development, data analysis, machine learning, artificial intelligence, and more. In this article, I will list out 15 free Python courses for beginners.  Learn",
-          "link": "https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/",
-          "publishedOn": "2021-12-13T16:57:33.000Z",
-          "wordCount": 1005,
-          "title": "Learn Python – Free Python Courses for Beginners"
-        },
-        {
-          "id": "61b76db107222107a6c79384",
-          "author": null,
-          "description": "Full stack web development includes the backend that happens on a server and the frontend that happens on a web browser. New tools are making it easier than ever to create a full stack web app. We just published a full stack web development course on the freeCodeCamp.org YouTube",
-          "link": "https://www.freecodecamp.org/news/become-a-full-stack-developer-with-svelte/",
-          "publishedOn": "2021-12-13T16:23:09.000Z",
-          "wordCount": 409,
-          "title": "Become a Full Stack Developer with Svelte, Postgres, Vercel, and Gitpod"
         }
       ]
     }

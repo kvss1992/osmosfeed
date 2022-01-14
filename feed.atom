@@ -2,10 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvss1992.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-13T01:01:58.588Z</updated>
+    <updated>2022-01-14T01:01:04.450Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://kvss1992.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://kvss1992.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[8 Helpful Accessibility Links for January 2022]]></title>
+        <id>https://css-tricks.com/?p=360939</id>
+        <link href="https://css-tricks.com/8-accessibility-links-january-2022/"/>
+        <updated>2022-01-13T20:57:41.000Z</updated>
+        <summary type="html"><![CDATA[Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Accessibility is one of those things! Here’s a list of related links to other articles that I’ve been saving up and …
+8 Helpful Accessibility Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Netflix Clone with Django and Tailwind CSS]]></title>
+        <id>61e081cfb837d507ba0a2179</id>
+        <link href="https://www.freecodecamp.org/news/create-a-netflix-clone-with-django-and-tailwind-css/"/>
+        <updated>2022-01-13T19:54:39.000Z</updated>
+        <summary type="html"><![CDATA[Have you heard of "Netflix and Chill"? Instead, try "Netflix and Code". Code your own Netflix clone! We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a Netflix clone using Django and Tailwind CSS. Django is a Python-based free and open-source]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with TinyDB in Python]]></title>
+        <id>61dd142eb837d507ba09f944</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-tinydb-in-python/"/>
+        <updated>2022-01-13T18:46:34.000Z</updated>
+        <summary type="html"><![CDATA[While working on your personal projects, you'll often need to store some data. You could use a SQL or NoSQL database with a server, but that would require you to do a bit of setup.  In this article, we'll learn about TinyDB and how to use it to store our]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Best Machine Learning Courses to Take in 2022]]></title>
+        <id>61d863f4d2d9de084285e610</id>
+        <link href="https://www.freecodecamp.org/news/best-machine-learning-courses/"/>
+        <updated>2022-01-13T18:21:53.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I’ve compiled a list of the best machine learning courses available online. I built the ranking by following a well-defined methodology that you can find below.  But if you want to jump straight to the results, here are my picks: Machine Learning (Stanford University)Machine Learning]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Reusable Components with Props in React]]></title>
+        <id>61dff8fab837d507ba0a12cb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-reusable-components-with-props-in-react/"/>
+        <updated>2022-01-13T17:14:49.000Z</updated>
+        <summary type="html"><![CDATA[Props are one of the most important building blocks of React.js. When you need to pass data down from a parent component to a child component, props make this possible. In this article we'll learn how to work with props and build reusable components in React. What Are Props]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 is Not Going to Sleep – How to Fix Sleeping on PC]]></title>
+        <id>61dfca99b837d507ba0a0f3a</id>
+        <link href="https://www.freecodecamp.org/news/windows-10-is-not-going-to-sleep-how-to-fix-sleeping-on-pc/"/>
+        <updated>2022-01-13T17:03:04.000Z</updated>
+        <summary type="html"><![CDATA[If you stop working temporarily and you're not ready to shut down your PC, Windows 10 sleep mode is a great option.  It turns off your computer's monitor and hard drive, slowing down power consumption in the process.  But your PC might refuse to go to sleep sometimes. This could]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Default Constructor in Java – Class Constructor Example]]></title>
+        <id>61d80be9d2d9de084285e127</id>
+        <link href="https://www.freecodecamp.org/news/default-constructor-in-java/"/>
+        <updated>2022-01-13T16:53:28.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will talk about constructors, how to create our own constructors, and what default constructors are in Java. What is a constructor?As a class-based object-oriented programming term, a constructor is a unique method used to initialize a newly created object (class). There are a few rules]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Serverless – How to Use AWS Rekognition to Identify Celebrities in Images]]></title>
+        <id>61deedb3b837d507ba0a0695</id>
+        <link href="https://www.freecodecamp.org/news/use-aws-rekognition-to-identify-celebrities-in-images/"/>
+        <updated>2022-01-13T16:47:45.000Z</updated>
+        <summary type="html"><![CDATA[In this article we're going to learn how to make an application using AWS Serverless that lets us identify images of celebrities. We'll use AWS Rekognition for AI-based identification. We are going to attach an event to the S3 Bucket so that whenever a file gets uploaded to the bucket,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Tip For Using Sass Default Parameters]]></title>
+        <id>https://css-tricks.com/?p=360423</id>
+        <link href="https://css-tricks.com/sass-default-parameters/"/>
+        <updated>2022-01-13T15:17:28.000Z</updated>
+        <summary type="html"><![CDATA[Sass offers functions and mixins that accept parameters. You can use Sass default parameters, that is, parameters that have a value even if you don’t provide them when the function or mixin is called. 
+Let’s focus on mixins here. …
+A Practical Tip For Using Sass Default Parameters originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A Web Code Editor]]></title>
+        <id>https://smashingmagazine.com/2022/01/building-web-code-editor/</id>
+        <link href="https://smashingmagazine.com/2022/01/building-web-code-editor/"/>
+        <updated>2022-01-13T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Daniel Don)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parcel CSS: A New CSS Parser, Transformer, and Minifier]]></title>
         <id>https://css-tricks.com/?p=361233</id>
@@ -1623,104 +1726,6 @@ All of us who work on the web regularly benefit from the work of people who crea
 …]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Touch Design For Mobile Interfaces: Defining Mobile Devices (Excerpt)]]></title>
-        <id>https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/</id>
-        <link href="https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/"/>
-        <updated>2021-12-15T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Before we can talk about how people interact, much less how to take advantage of that knowledge and design, it’s important to understand a bit about the history, the technology, and what today counts as a mobile touchscreen device at all.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Steven Hoober)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Read Your Website]]></title>
-        <id>https://css-tricks.com/?p=356603</id>
-        <link href="https://css-tricks.com/read-your-website/"/>
-        <updated>2021-12-14T22:37:26.000Z</updated>
-        <summary type="html"><![CDATA[When’s the last time you read your website? Like out loud in the lobby of a Starbucks on a weekday afternoon, over the phone to your parents, or perhaps even as a bedtime story for your kids.
-No worries, this …]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faulty logic]]></title>
-        <id>https://css-tricks.com/?p=359180</id>
-        <link href="https://css-tricks.com/faulty-logic/"/>
-        <updated>2021-12-14T22:28:29.000Z</updated>
-        <summary type="html"><![CDATA[Ain’t this the truth:
-It’s like when you’re learning a new language. At some point your brain goes from translating from your mother tongue into the other language, and instead starts thinking in that other language.
-
-
-
-
-I don’t speak …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Router Version 6 Tutorial – How to Set Up Router and Route to Other Components]]></title>
-        <id>61b6941b07222107a6c78e39</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-react-router-version-6/"/>
-        <updated>2021-12-14T21:41:14.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we'll talk about what React Router is and how to use it. Then we'll discuss its features and how to use them in your React app to navigate to and render multiple components.  PrerequisitesA React appA good understanding of what components are in React. Node.js installed.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the .github Repository]]></title>
-        <id>61b8699d07222107a6c79cf7</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/"/>
-        <updated>2021-12-14T18:01:15.000Z</updated>
-        <summary type="html"><![CDATA[GitHub has many special repositories, like the README in your profile. You can get creative and add all sorts of helpful information there. Another special repository is the .github repository. This might remind you of the .github directory in repositories which house workflows, issue templates, pull request templates, funding information,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Secure Server with Node.js and Express and Upload Images with Cloudinary]]></title>
-        <id>61b72c5d07222107a6c79095</id>
-        <link href="https://www.freecodecamp.org/news/build-a-secure-server-with-node-and-express/"/>
-        <updated>2021-12-14T16:51:14.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will learn how to create a server. We will begin without express and then strengthen the server using express. After that, we will see how to upload images to Cloudinary from the app we have created. I assume that you already understand the basics of Node.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Think Without Boxes]]></title>
-        <id>https://css-tricks.com/?p=357660</id>
-        <link href="https://css-tricks.com/think-without-boxes/"/>
-        <updated>2021-12-14T15:38:00.000Z</updated>
-        <summary type="html"><![CDATA[What’s the one thing people can do to make their website better? Now that is a good question. One with many right answers, like improving performance, taking care of accessibility, and upgrading user experience as prime examples. These are all …]]></summary>
-        <author>
-            <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’m confused about Static Site Generators. Are they only for informational sites where I can’t log in or display any dynamic data?]]></title>
-        <id>https://css-tricks.com/?p=358672</id>
-        <link href="https://css-tricks.com/confused-about-ssgs/"/>
-        <updated>2021-12-14T15:35:04.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-I got this question from a listener the other day. Fair question, I’d say. The word “Static” in “Static Site Generator” is at-odds with the word “Dynamic.” It seems to imply that the website …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securing Your Apps - What is DevSecOps?]]></title>
-        <id>6172cfe3d48e1707b6d79bc9</id>
-        <link href="https://www.freecodecamp.org/news/what-is-devsecops/"/>
-        <updated>2021-12-14T14:08:56.000Z</updated>
-        <summary type="html"><![CDATA[Every day major companies have vulnerabilities exploited in their software. It is important to learn how to protect your applications against data breaches.  In this article you all about DevSecOps and web security. There is a video course that goes along with this article. The article focuses on the definitions]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
